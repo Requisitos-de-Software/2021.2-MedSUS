@@ -1,0 +1,18 @@
+# Project information
+site_name: MedSus
+site_author: Grupo 05
+site_url: https://Requisitos-de-Software.github.io/2021.2-MedSUS
+
+# Repository
+repo_name: 2021.2-MedSUS
+repo_url: https://github.com/Requisitos-de-Software/2021.2-MedSUS
+
+# Content Menu
+nav:
+    - Home:
+      - Item:
+        - Subitem: subitem.md
+    - About:
+      - Authors: author.md
+theme: readthedocs
+
