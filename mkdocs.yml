@@ -9,10 +9,10 @@ repo_url: https://github.com/Requisitos-de-Software/2021.2-MedSUS
 
 # Content Menu
 nav:
-    - Home:
-      - Item:
-        - Subitem: subitem.md
+    - Home: README.md
+    - Planejamento: planning.md
     - About:
-      - Authors: author.md
+      - Equipe: authors.md
+      - Ferramentas: tools.md
 theme: readthedocs
 
