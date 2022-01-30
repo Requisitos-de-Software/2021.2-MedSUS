@@ -4,7 +4,7 @@ Olá, nós somos o grupo 5 da matéria de requisitos de software da Universidade
 
 O **MedSus** é uma aplicação web controlada pelo ministério da saúde e tem como abjetivo
 
-__“ facilitar o acesso às informações sobre medicamentos pelos profissionais de saúde e cidadãos, visando à promoção do uso racional de medicamentos. “__ 
+__“... facilitar o acesso às informações sobre medicamentos pelos profissionais de saúde e cidadãos, visando à promoção do uso racional de medicamentos. “__ 
 
 
 
