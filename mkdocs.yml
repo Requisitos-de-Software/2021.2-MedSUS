@@ -12,7 +12,8 @@ nav:
     - Home: README.md
     - Planejamento: planning.md
     - About:
-      - Equipe: authors.md
-      - Ferramentas: tools.md
+      - Equipe: about/authors.md
+      - Ferramentas: about/tools.md
+      - Metodologia: about/methodology.md
 theme: readthedocs
 
