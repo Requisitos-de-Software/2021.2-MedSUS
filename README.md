@@ -1,10 +1,10 @@
 # MedSUS - Requisitos de Software
 
-Olá, nós somos o grupo 5 da matéria de requisitos de software da Universidade de Brasília. Nosso objetivo com esse repositório é armazenar os artefatos produzidos na aliasse  de engenharia reversa do aplicativo MedSus.
+Olá, nós somos o grupo 5 da matéria de requisitos de software da Universidade de Brasília. Nosso objetivo com esse repositório é armazenar os artefatos produzidos na aliasse de engenharia reversa do aplicativo [MedSus](https://www.gov.br/pt-br/apps/medsus) .
 
-O MedSus é uma aplicação web controlada pelo ministério da saúde e tem como abjetivo
+O **MedSus** é uma aplicação web controlada pelo ministério da saúde e tem como abjetivo
 
-“ facilitar o acesso às informações sobre medicamentos pelos profissionais de saúde e cidadãos, visando à promoção do uso racional de medicamentos. “
+__“ facilitar o acesso às informações sobre medicamentos pelos profissionais de saúde e cidadãos, visando à promoção do uso racional de medicamentos. “__ 
 
 
 
