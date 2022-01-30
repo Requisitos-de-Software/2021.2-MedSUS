@@ -1,5 +1,11 @@
 # Planejamento
 
+## Histórico de Versão
+
+Versão|Data|Alteração|Responsável|
+:-:|:-:|:-:|:-:|
+0.0.1|29/01/22|Criação|Adrian|
+
 ## Cronograma
 
 O cronograma foi orientado pelas próprias entregas da disciplinas e constará. Na sprint dedica a cada atividade colocaremos os responsáveis pelas issues e seus respectivos revisores. O cronograma poderá ser modificado ao longo do projeto pois artefatos podem ser evoluídos e modificados e novos contextos podem surgir.
