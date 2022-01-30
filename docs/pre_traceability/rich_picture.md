@@ -1,6 +1,6 @@
 # Rich Picture
 ## Definição
-Rich Picture é uma ferramenta visual para analisar problemas e expressar ideias<sup>[[1]](#Referências)</sup> por meio de diagramas com imagens e símbolos. Ela pode encorajar discuções e com isso ampliar e nivelar o conhecimento da equipe. Além disso ela também ajuda a indentificar problemas e conflitos em potencial.
+Rich Picture é uma ferramenta visual para analisar problemas e expressar ideias<sup>[[1]](#referencias)</sup> por meio de diagramas com imagens e símbolos. Ela pode encorajar discuções e com isso ampliar e nivelar o conhecimento da equipe. Além disso ela também ajuda a indentificar problemas e conflitos em potencial.
 
 ## Rich Pictures
 ### Versão 1.0
