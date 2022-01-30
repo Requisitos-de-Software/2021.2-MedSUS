@@ -15,5 +15,7 @@ nav:
       - Equipe: about/authors.md
       - Ferramentas: about/tools.md
       - Metodologia: about/methodology.md
+    - Pré-rastreabilidade:
+      - Rich Picture: pre_traceability/rich_picture.md
 theme: readthedocs
 
