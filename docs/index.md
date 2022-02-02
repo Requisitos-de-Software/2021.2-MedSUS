@@ -2,9 +2,22 @@
 
 Olá, nós somos o grupo 5 da matéria de requisitos de software da Universidade de Brasília. Nosso objetivo com esse repositório é armazenar os artefatos produzidos na aliasse de engenharia reversa do aplicativo [MedSus](https://www.gov.br/pt-br/apps/medsus) .
 
-O **MedSus** é uma aplicação web controlada pelo ministério da saúde e tem como abjetivo
-
-__“... facilitar o acesso às informações sobre medicamentos pelos profissionais de saúde e cidadãos, visando à promoção do uso racional de medicamentos. “__ 
+<div class="container">
+    <div class="row align-items-center">
+        <div class="col-3">
+            <figure class="figure"> 
+                <img class="figure-img img-fluid rounded" src="assets/sobre_app.jpg">
+            <figure>
+        </div>
+        <div class="col-9">
+            O <strong>MedSus</strong> é uma aplicação web controlada pelo ministério da saúde e tem como objetivo
+            <blockquote class="blockquote text-primary">
+            <p class="mb-0">“... facilitar o acesso às informações sobre medicamentos pelos profissionais de saúde e cidadãos, visando à promoção do uso racional de medicamentos. “</p>
+            <footer class="blockquote-footer">Ministério da Saúde na <cite title="Source Title">Play Store</cite></footer>
+            </blockquote>
+        </div>
+    </div>
+</div>
 
 
 
