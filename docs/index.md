@@ -19,36 +19,41 @@ Pode ser acessada [aqui](https://requisitos-de-software.github.io/2021.2-MedSUS/
 
 <div class="container">
 	<div class="row">
-        <div class="col">
+        <div class="col-4">
             <figure class="figure">
-                <a href="https://github.com/SFernandoS"><img class="figure-img img-fluid img-thumbnail rounded" src="https://avatars.githubusercontent.com/u/54643557?v=4"></a>
-                <figcaption class="figure-caption text-center"> Fernando </figcaption>
+                <a href="https://github.com/SFernandoS"><img class="figure-img img-fluid img-thumbnail rounded" src="https://avatars.githubusercontent.com/u/54643557?v=4"><figcaption class="figure-caption text-center"> Fernando </figcaption></a>
             </figure>
 		</div>
-		<div class="col">
+		<div class="col-4">
             <figure class="figure">
-                <a href="https://github.com/jvsdurso"><img class="figure-img img-fluid img-thumbnail rounded" src="https://avatars.githubusercontent.com/u/69814362?v=4" width="200"
-                        height="200" style="border-radius:50%;"></a>
-                <figcaption class="figure-caption text-center"> João </figcaption>
+                <a href="https://github.com/jvsdurso">
+                    <img class="figure-img img-fluid img-thumbnail rounded" src="https://avatars.githubusercontent.com/u/69814362?v=4">
+                    <figcaption class="figure-caption text-center"> João </figcaption>
+                </a>
             </figure>
 		</div>
-		<div class="col">
-			<a href="https://github.com/GabrielCostaDeOliveira"><img class="image-perfil" src="https://avatars.githubusercontent.com/u/60332560?v=4)" width="200"
-					height="200" style="border-radius:50%;"></a>
+		<div class="col-4">
+            <figure class="figure">
+			    <a href="https://github.com/GabrielCostaDeOliveira"><img class="figure-img img-fluid img-thumbnail rounded" src="https://avatars.githubusercontent.com/u/60332560?v=4)">
+                <figcaption class="figure-caption text-center"> Gabriel Costa </figcaption></a>
+            </figure>
 		</div>
 	</div>
 	<div class="row">
-		<div class="col">
-			<a href="https://github.com/SwampTG"><img src="https://avatars.githubusercontent.com/u/66492055?v=4"
-					width="200" height="200" style="border-radius:50%;"></a>
+		<div class="col-4">
+            <figure class="figure">
+			    <a href="https://github.com/SwampTG"><img src="https://avatars.githubusercontent.com/u/66492055?v=4" class="figure-img img-fluid img-thumbnail rounded"><figcaption class="figure-caption text-center"> Adrian </figcaption></a>
+            </figure>
 		</div>
-		<div class="col" style="margin-right: 130px;">
-			<a href="https://github.com/Thalisson-Alves"><img class="image-perfil" src="https://avatars.githubusercontent.com/u/62034738?v=4" width="200"
-					height="200" style="border-radius:50%;"></a>
+		<div class="col-4">
+            <figure class="figure">
+			    <a href="https://github.com/Thalisson-Alves"><img class="figure-img img-fluid img-thumbnail rounded" src="https://avatars.githubusercontent.com/u/62034738?v=4"><figcaption class="figure-caption text-center"> Thalisson </figcaption></a>
+            </figure>
 		</div>
-        <div class="col" style="margin-right: 130px;">
-			<a href="https://github.com/ggomesbr"><img class="image-perfil" src="https://avatars.githubusercontent.com/u/78509975?v=4" width="200"
-					height="200" style="border-radius:50%;"></a>
+        <div class="col-4">
+            <figure class="figure">
+			    <a href="https://github.com/ggomesbr"><img class="figure-img img-fluid img-thumbnail rounded" src="https://avatars.githubusercontent.com/u/78509975?v=4"><figcaption class="figure-caption text-center"> Gabriel Gomes </figcaption></a>
+            </figure>
 		</div>
 	</div>
 </div>
