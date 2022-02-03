@@ -2,9 +2,9 @@
 
 ## Histórico de Versão
 
-Versão|Data|Alteração|Responsável|
-:-:|:-:|:-:|:-:|
-0.0.1|29/01/22|Criação|Adrian|
+Versão|Data|Alteração|Responsável|Revisão|
+:-:|:-:|:-:|:-:|:-:|
+0.0.1|29/01/22|Criação|Adrian|Fernando|
 
 ## Cronograma
 
