@@ -1,4 +1,8 @@
-# <img src="docs/assets/logo_medsus.png" alt="MedSus" width="48"/> MedSUS-Requisitos de Software
+# MedSUS
+ <p align="center">
+  <img src="docs/assets/logo_medsus.png" alt="MedSus" width="25%"/>
+</p> 
+
 
 Olá, nós somos o grupo 5 da matéria de requisitos de software da Universidade de Brasília. Nosso objetivo com esse repositório é armazenar os artefatos produzidos na aliasse de engenharia reversa do aplicativo [MedSus](https://www.gov.br/pt-br/apps/medsus) .
 
