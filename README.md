@@ -17,7 +17,7 @@ Pode ser acessada [aqui](https://requisitos-de-software.github.io/2021.2-MedSUS/
 
 # Equipe:
 | Nome            | GitHub      | E-mail       | 
-|-----------------|-------------|-------------|
+|:-----------------:|:-------------:|:-------------:|
 | Adrian Soares  | [SwampTG](https://github.com/SwampTG) | adriansoareslps@gmail.com  |
 | João Vitor de Souza Durso   | [jvsdurso](https://github.com/jvsdurso) | jvsdurso@gmail.com |
 | Gabriel Costa de Oliveira   | [GabrielCostaDeOliveira](https://github.com/GabrielCostaDeOliveira) | gabriel.costa513@gmail.com | 
