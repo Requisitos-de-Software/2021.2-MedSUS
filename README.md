@@ -21,6 +21,6 @@ Pode ser acessada [aqui](https://requisitos-de-software.github.io/2021.2-MedSUS/
 | Adrian Soares  | [SwampTG](https://github.com/SwampTG) | adriansoareslps@gmail.com  |
 | João Vitor de Souza Durso   | [jvsdurso](https://github.com/jvsdurso) | jvsdurso@gmail.com |
 | Gabriel Costa de Oliveira   | [GabrielCostaDeOliveira](https://github.com/GabrielCostaDeOliveira) | gabriel.costa513@gmail.com | 
-| Gabriel Luiz   | [ggomesbr](https://github.com/ggomesbr) |  | 
+| Gabriel Luiz   | [ggomesbr](https://github.com/ggomesbr) | gabriel.luiz77888@gmail.com | 
 | Fernando Vargas   | [SFernandoS](https://github.com/SFernandoS) | nandovargas7@gmail.com | 
 | Thalisson Alves | [Thalisson-Alves](https://github.com/Thalisson-Alves) | thalisson2030@gmail.com | 
