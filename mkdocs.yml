@@ -7,6 +7,9 @@ site_url: https://Requisitos-de-Software.github.io/2021.2-MedSUS
 repo_name: 2021.2-MedSUS
 repo_url: https://github.com/Requisitos-de-Software/2021.2-MedSUS
 
+plugins:
+  - mkdocs-video
+
 # Content Menu
 nav:
     - Home: index.md
@@ -17,6 +20,8 @@ nav:
       - Metodologia: about/methodology.md
     - Pré-rastreabilidade:
       - Rich Picture: pre_traceability/rich_picture.md
+    - Apresentações:
+      - Apresentação 1: presentations/presentation1.md
 
 theme: readthedocs
 extra_css: [extra.css]
