@@ -20,6 +20,7 @@ nav:
       - Metodologia: about/methodology.md
     - Pré-rastreabilidade:
       - Rich Picture: pre_traceability/rich_picture.md
+      - 5W2H: pre_tracebility/5w2h.md
     - Apresentações:
       - Apresentação 1: presentations/presentation1.md
 
