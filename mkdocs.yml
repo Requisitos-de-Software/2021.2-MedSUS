@@ -7,16 +7,26 @@ site_url: https://Requisitos-de-Software.github.io/2021.2-MedSUS
 repo_name: 2021.2-MedSUS
 repo_url: https://github.com/Requisitos-de-Software/2021.2-MedSUS
 
+theme:
+  name: 'material'
+  language: 'pt'
+  logo: 'assets/logo_medsus.png'
+  palette:
+    primary: 'blue'
+    accent: 'light blue'
+  font:
+    text: 'Montserrat'
+    code: 'sans-serif'
+
 # Content Menu
 nav:
-    - Home: index.md
-    - Planejamento: about/planning.md
-    - About:
-      - Equipe: about/authors.md
-      - Ferramentas: about/tools.md
-      - Metodologia: about/methodology.md
-    - Pré-rastreabilidade:
-      - Rich Picture: pre_traceability/rich_picture.md
-
-theme: readthedocs
-extra_css: [extra.css]
+  - Início: index.md
+  - Planejamento:
+    - Metodologia: about/methodology.md
+    - Autores: about/authors.md
+    - Ferramentas: about/tools.md
+  - Pré-Rastriabilidade:
+    - Rich Picture: pre_traceability/rich_picture.md
+  - Elicitação:
+    - Brainstorm: elicitation/Brainstorm.md
+    - Storytelling: elicitation/storytelling.md
