@@ -111,7 +111,7 @@ O objetivo das histórias é chegar em alguns objetivos e ter uma boa ideia gera
 
 ## Referências bibliográficas
 
-> Sommerville, I., Engenharia de software, 10ª ed., Editora Pearson, 2019.
+> Sommerville, I., Engenharia de software, 10ª ed., Editora Pearson, 2016.
 > Santos, V. G., Daher N., UTILIZAÇÃO DE STORYTELLING COMO FERRAMENTA DE AQUISIÇÃO DE REQUISITOS EM PROCESSO DE DESENVOLVIMENTO DE SOFTWARE APOIADOS EM MODELOS ÁGEIS: O USO APOIADO NO EXTREME PROGRAMMING, Belo Horizonte, 2008. 14 p., Artigo (Análise de Sistemas), e-tec UNI-BH
 
 ## Histórico de versões
