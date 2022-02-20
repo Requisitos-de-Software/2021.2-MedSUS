@@ -35,6 +35,9 @@ Essas ideias e soluções são registradas e transformadas em Requisitos do Prod
 **R14 -** A aplicação deve ser suportada por Android e IOS.</p>
 **R15 -** O usuário deve ser capaz de alterar o tamanho da fonte.</p>
 
+## Referências
+> Carlos Eduardo Vazquez, Guilherme Siqueira Simões, Engenharia de requisitos: software orientado ao negócio, 1ª ed., Brasport, 2016.
+> 
 ## Histórico de versões
 
 Versão|Data|Alteração|Responsável|Revisão|
