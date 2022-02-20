@@ -5,8 +5,8 @@ Rich Picture é uma ferramenta visual para analisar problemas e expressar ideias
 ## Rich Pictures
 ### Versão 1.0
 ![Rich Picture](../assets/rich_picturev1.png)
-<h6 align = "center">Figura 1: Versão 1.0 Rich Picture</h6>
-<h6 align = "center">Fonte: Autor</h6>
+<h6 style="text-align:center">Figura 1: Versão 1.0 Rich Picture</h6>
+<h6 style="text-align: center">Fonte: Autor</h6>
 
 ## Versionamento
 | Versão | Data | Modificação | Autor |
