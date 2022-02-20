@@ -118,7 +118,7 @@ O objetivo das histórias é chegar em alguns objetivos e ter uma boa ideia gera
 
 Versão|Data|Alteração|Responsável|Revisão|
 :-:|:-:|:-:|:-:|:-:|
-0.0.1|17/02/22|Criação|Adrian e João Durso|Thalisson|
-0.0.2|18/02/22|Introdução e História 1|Adrian|Thalisson|
-0.0.3|19/02/22|História 2 e 3, Requisitos Levantados|Adrian|Thalisson|
-0.0.4|20/02/22|História 3 e 4, Requisitos Levantados|João Durso|Thalisson|
+0.0.1|17/02/22|Criação|Adrian e João Durso|Thalisson e Fernando|
+0.0.2|18/02/22|Introdução e História 1|Adrian|Thalisson e Fernando|
+0.0.3|19/02/22|História 2 e 3, Requisitos Levantados|Adrian|Thalisson e Fernando|
+0.0.4|20/02/22|História 3 e 4, Requisitos Levantados|João Durso|Thalisson e Fernando|
