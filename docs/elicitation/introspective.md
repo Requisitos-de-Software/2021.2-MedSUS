@@ -37,18 +37,18 @@
  ## Resultado
  
  | Número          | Requisitos     | 
- |:-----------------:|:-------------:|
-  |IR1| |Acessar uma forma resumida da bula: efeitos colaterais, as indicações e contra indicações, com menos termos técnicos.|
-  |IR2| |Filtrar medicamentos por doenças.|
-  |IR3| |Acessar partes específicas da bula através de um índice.|
-  |IR4| |Buscar por palavras-chave e não somente pelos nomes das medicações.|
-  |IR5| |Favoritar medicações atrelado a alguma conta, para acessá-las em outros dispositivos.|
-  |IR6| |Designer familiar e bonito.|
-  |IR7| |Boa usabilidade.| 
-  |IR8| |Boa performance.|
-  |IR9| |Pesquisar medicamentos pelo nome.|
-  |IR10| |Compartilhar informações por PDF.|
-  |IR11| |Boa apresentação da informação pesquisada.|
+ |:-----------------:|:-------------|
+  |IR1| Acessar uma forma resumida da bula: efeitos colaterais, as indicações e contra indicações, com menos termos técnicos.|
+  |IR2| Filtrar medicamentos por doenças.|
+  |IR3| Acessar partes específicas da bula através de um índice.|
+  |IR4| Buscar por palavras-chave e não somente pelos nomes das medicações.|
+  |IR5| Favoritar medicações atrelado a alguma conta, para acessá-las em outros dispositivos.|
+  |IR6| Designer familiar e bonito.|
+  |IR7| Boa usabilidade.| 
+  |IR8| Boa performance.|
+  |IR9| Pesquisar medicamentos pelo nome.|
+  |IR10| Compartilhar informações por PDF.|
+  |IR11| Boa apresentação da informação pesquisada.|
   
   Legenda: Introspection Requirement (IR)
   
