@@ -1,4 +1,4 @@
-## Introdução
+## 1.Introdução
 
   O significado da palavra instrospecção é, para psicologia:observação e descrição do conteúdo (pensamentos, sentimentos) da própria mente.
   
@@ -7,11 +7,11 @@
   
   Assim, o Engenheiro monta um cenário em sua mente e a partir de pensamentos e sentimos surgem possíveis novos requisitos ou problemas dos quais podem ser levados em consideração.
   
-## Metodologia 
+## 2.Metodologia 
   
   Para realizarmos essa técnica, três integrantes do grupo reuniram-se e dicutiram sobre a técnica. Em seguida, cada um, individualmente, realizou uma introspecção.
   
-## Participantes e respectiva instrospecção
+## 3.Participantes e respectiva instrospecção
 
   **Adrian:** Com a busca como principal ferramenta, gostaria que, ao entrar no app. Já estivesse na página de busca, parecido com o Google. 
    E com as ferramentas de filtragem
@@ -34,7 +34,7 @@
    atendido ficarei mais motivado não só para usar o aplicativo, como também para indica-lo.
    Para mim as principais funcionalidades são pesquisar medicamentos pelo nome, compartilhar informações por PDF, apresentar as informações de forma legível.
    
- ## Resultado
+ ## 4.Resultado
  
  | Número          | Requisitos     | 
  |:-----------------:|:-------------|
