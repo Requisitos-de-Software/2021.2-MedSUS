@@ -102,7 +102,7 @@ O objetivo das histórias é chegar em alguns objetivos e ter uma boa ideia gera
 |ST12|A bula disponibilizada deve conter o modo de uso da medicação|
 |ST13|A aplicação deve fornecer opções de acessibilidade para quem tem visão ruim|
 |ST14|Deve ser possível favoritar as medicações|
-|ST15|O app deve conseguir marcas (favoritar) medicações vinculadas ao usuário e não só ao dispositivo|
+|ST15|O app deve conseguir marcar (favoritar) medicações vinculadas ao usuário e não só ao dispositivo|
 |ST16|A aplicação deve utilizar ícones comuns ao domínio mobile (mais utilizado)|
 |ST17|O app deve notificar os usuários acerca das atualizações da monografia dos medicamentos (inclusão, remoção e alteração)|
 |ST18|O app deve possui um link de compartilhamento do próprio aplicativo, para que os usuários possam recomendá-lo e outros possam baixá-lo|
