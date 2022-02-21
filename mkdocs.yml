@@ -18,6 +18,9 @@ theme:
     text: 'Montserrat'
     code: 'sans-serif'
 
+extra_css:
+  - extra.css
+
 # Content Menu
 nav:
   - Início: index.md
