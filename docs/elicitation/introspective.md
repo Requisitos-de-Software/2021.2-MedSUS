@@ -2,7 +2,7 @@
 
   O significado da palavra instrospecção é, para psicologia:observação e descrição do conteúdo (pensamentos, sentimentos) da própria mente.
   
-  Portanto, é fácil imaginar como funciona essa técnica de Elicitação de Requisitos. O Engenhero de Software, por exemplo, se coloca no lugar do usuário e imagina usar o produto 
+  Portanto, é fácil imaginar como funciona essa técnica de Elicitação de Requisitos. O Engenheiro de Software, por exemplo, se coloca no lugar do usuário e imagina usar o produto 
   desenvolvido a partir da visão do usuário.
   
   Assim, o Engenheiro monta um cenário em sua mente e a partir de pensamentos e sentimos surgem possíveis novos requisitos ou problemas dos quais podem ser levados em consideração.
