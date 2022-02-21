@@ -28,7 +28,7 @@ nav:
     - Metodologia: about/methodology.md
     - Ferramentas: about/tools.md
     - Cronograma: about/planning.md
-  - Pré-Rastriabilidade:
+  - Pré-Rastreabilidade:
     - Rich Picture: pre_traceability/rich_picture.md
     - 5W2H: pre_traceability/5w2h.md
   - Elicitação:
