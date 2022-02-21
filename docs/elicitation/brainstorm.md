@@ -7,7 +7,7 @@ Essas ideias e soluções são registradas e transformadas em Requisitos do Prod
 
 ## Metodologia
 
-  O ideal seria o encontro dos integrantes do grupo presencialmente, entrentanto nós estamos enfrentando uma das maiores crises sanitárias da história. Portanto, decidimos nos
+  A princípio, a técnica do brainstorm é realizada de forma presencial, é realizada uma reunião das partes interessadas e cada um expões as ideias ali pensadas, entrentanto nós estamos enfrentando uma das maiores crises sanitárias da história. Portanto, decidimos nos
   encontrar remotamente através do Discord. E, utilizamos o HackMD para expor nossas ideias num documento compartilhado entre todos o integrantes. Cada ideia, solução e observação
   foi discutida em conjuto com toda a equipe.
   Para facilitar no surgimento de ideias e o descubrimento de possiveis problemas, todos os integrantes abriram o aplicativo MedSus e navegavamos em conjunto para discutir
