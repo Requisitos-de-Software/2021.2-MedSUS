@@ -26,13 +26,16 @@ nav:
   - Início: index.md
   - Planejamento:
     - Metodologia: about/methodology.md
-    - Autores: about/authors.md
     - Ferramentas: about/tools.md
+    - Cronograma: about/planning.md
   - Pré-Rastriabilidade:
     - Rich Picture: pre_traceability/rich_picture.md
-    - 5W2H: pre_tracebility/5w2h.md
+    - 5W2H: pre_traceability/5w2h.md
   - Elicitação:
     - Brainstorm: elicitation/brainstorm.md
     - Storytelling: elicitation/storytelling.md
+    - Personas: elicitation/personas.md
+    - Instrospecção: elicitation/introspective.md
+  - Priorização: priorization/moscow.md
   - Apresentações:
       - Apresentação 1: presentations/presentation1.md
