@@ -2,13 +2,15 @@
 
 ## 1. Introdução
 <p style="text-indent: 20px; text-align: justify">
-
+Este é um método de elicitação muito utilizado, de forma que existem, inclusive metodologias de projeto guiadas por personas. São pessoas fictícias criadas pelos desenvolvedores e projetistas de sistemas, para representar os usuários importantes para guiar a elicitação de requisitos e funcionalidades. São de muita valia pois criam uma percepção tangível dos usuários para os envolvidos no desenvolvimento do software. Os usuários se tornam menos abstratos e genéricos.
+É também uma importante ferramenta de síntese de ideias, de forma que o nome de uma persona já evoca, na mente dos desenvolvedores, todas as necessidades e objetivos ligados àquela persona, podendo ser usado, por exemplo, em reuniões para questionar ou concordar com uma ideia utilizando um argumento como "A Dª Maria jamais saberia utilizar essa função", sendo a Dª Maria uma das personas criadas. 
+As personas podem ser primárias, secundárias ou anti-persona. Determinamos, de início, as personas primárias.
 </p>
 
 
 ## 2. Metodologia
 <p style="text-indent: 20px; text-align: justify">
-
+A partir do Brainstorming realizado em uma reunião com todos os membros do grupo, conseguimos levantar alguns requisitos básico. A partir desses requisitos, buscamos as personas básicas que mais utilizariam esses requisitos. As personas foram detalhadas, com suas histórias, necessidades e objetivos. Pode parecer algo inútil em um primeiro momento, mas é muito importante para criar uma imagem vívida da persona para os designers e estabelcer requistos de forma precisa. 
 </p>
 
 ## 3. Storytelling
@@ -118,4 +120,5 @@ Versão|Data|Alteração|Responsável|Revisão|
 0.0.1|20/02/22|Criação|Adrian e João Durso|Thalisson e Fernando|
 0.0.2|20/02/22|Formatação|Adrian e João Durso|Thalisson e Fernando|
 0.0.3|20/02/22|Adição de personas|Adrian e João Durso|Thalisson e Fernando|
+0.0.4|20/02/22|Introdução e metodologia|Adrian|João Durso|
 
