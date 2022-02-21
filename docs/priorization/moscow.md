@@ -1,16 +1,19 @@
 # MoScoW
 
 ## 1. Introdução
-
+<p style="text-indent: 20px; text-align: justify">
+    MoScoW é uma das técnicas de Priorização de Requisitos simples e uma das mais utilizadas atualmente. O nome da técnica consiste nas letras maiúsculas das quais usamos na  priorização: M(Must): Requisitos priotirários/críticos, S(Should): requisitos importantes, mas não necessários para o funcionamento do produto, (C)Could: são os requisitos dejáveis; e W(won't): são os denominados gostaria.
+</p>
 
 ## 2. Metodologia
 <p style="text-indent: 20px; text-align: justify">
-
+    Para fazermos a priorização dos requisitos, nós, integrantes do grupo, nos reunimos pelo Discord e discutimos todos os requisitos elicitados pela técnicas nas quais usamos: Brainstorm, Storytelling e Introspective.
+    Então, ao analisar cada requisito, chegamos ao acordo, para cada um deles, da classe de priorização na qual o requisito melhor se enquadraria.
 </p>
 
 ## 3. MoScoW
 
-### Must
+### 3.1 Must
 |Identificador|Requisito|
 |:-:|:-|
 |ST01|O app precisa mostrar os efeitos colaterais das medicações|
@@ -28,7 +31,7 @@
 |IR10| Compartilhar informações por PDF.|
 |IR11| Boa apresentação da informação pesquisada.|
 
-### Should
+### 3.2 Should
 |Identificador|Requisito|
 |:-:|:-|
 |ST02|O app deve ser otimizado para a experiência mobile|
@@ -37,7 +40,7 @@
 |IR3| Acessar partes específicas da bula através de um índice.|
 |IR6| Designer familiar e bonito.|
 
-### Could
+### 3.3 Could
 |Identificador|Requisito|
 |:-:|:-|
 |ST05|A ferramenta de busca é a principal e deve ser diponibilizada ao abrir o app|
@@ -47,7 +50,7 @@
 |IR2| Filtrar medicamentos por doenças.|
 |IR4| Buscar por palavras-chave e não somente pelos nomes das medicações.|
 
-### Won't
+### 3.4 Won't
 |Identificador|Requisito|
 |:-:|:-|
 |ST15|O app deve conseguir marcar (favoritar) medicações vinculadas ao usuário e não só ao dispositivo|
@@ -57,10 +60,12 @@
 
 
 ## Referências bibliográficas
-
+SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 50 slides. color. Disponível em: https://aprender3.unb.br/pluginfile.php/1668148/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 20 fev. 2022.
 
 ## Histórico de versões
 
 Versão|Data|Alteração|Responsável|Revisão|
 :-:|:-:|:-:|:-:|:-:|
-0.0.1|17/02/22|Criação|Gabriel Oliveira e João Durso|Thalisson e Fernando|
+0.0.1|20/02/22|Criação|Gabriel Oliveira e João Durso|Thalisson e Fernando|
+0.0.2|20/02/22|Priorização|Todos os integrantes|Thalisson e Fernando|
+0.0.3|20/02/22|Introdução e Metodologia|Fernando|Thalisson e Fernando|
