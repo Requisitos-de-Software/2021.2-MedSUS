@@ -37,7 +37,7 @@ Essas ideias e soluções são registradas e transformadas em Requisitos do Prod
 
 ## Referências
 > Carlos Eduardo Vazquez, Guilherme Siqueira Simões, Engenharia de requisitos: software orientado ao negócio, 1ª ed., Brasport, 2016.
-> 
+
 ## Histórico de versões
 
 Versão|Data|Alteração|Responsável|Revisão|
