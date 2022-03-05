@@ -34,7 +34,7 @@ Usuário.
 
 **Recursos**
 
-Não se aplica.
+Um smartfone com o aplicativo instalado e com acesso à internet.
 
 **Episódios**
 
@@ -44,11 +44,13 @@ Usuário pesquisa o medicamento desejado.
 
 **Restrições**
 
-Errar o nome do medicamento.
+Smartfone incapaz de executar o a aplicativo corretamente. 
+Falha na conexão com a internet   
+Usuário não sabe o nome do medicamento.
 
 **Exceções**
 
-Usuário não sabe o nome do medicamento.
+O usuário faz uma pesquisa ineficiente ( Ex. erra o nome do medicamento) 
 
 ### Cenário 002
 
@@ -70,7 +72,7 @@ Usuário.
 
 **Recursos**
 
-Não se aplica.
+Um smartfone com o aplicativo instalado e com acesso à internet.
 
 **Episódios**
 
@@ -107,7 +109,7 @@ Usuário.
 
 **Recursos**
 
-Não se aplica.
+Um smartfone com o aplicativo instalado e com acesso à internet.
 
 **Episódios**
 
@@ -117,11 +119,11 @@ Usuário clica no ícone de favoritar - atrás do nome do medicamento.
 
 **Restrições**
 
-Nenhuma restrição foi encontrada.
+Medicamento não existe no sistema.
 
 **Exceções**
 
-Medicamento não existe no sistema.
+Nenhuma exceções foi encontrada.
 
 ### Cenário 004
 
@@ -143,7 +145,7 @@ Usuário.
 
 **Recursos**
 
-Não se aplica.
+Um smartfone com o aplicativo instalado e com acesso à internet.
 
 **Episódios**
 
@@ -179,7 +181,7 @@ Usuário.
 
 **Recursos**
 
-Não se aplica.
+Um smartfone com o aplicativo instalado e com acesso à internet.
 
 **Episódios**
 
@@ -215,7 +217,7 @@ Usuário.
 
 **Recursos**
 
-Não se aplica.
+Um smartfone com o aplicativo instalado e com acesso à internet.
 
 **Episódios**
 
@@ -251,7 +253,7 @@ Usuário.
 
 **Recursos**
 
-Não se aplica.
+Um smartfone com o aplicativo instalado e com acesso à internet.
 
 **Episódios**
 
@@ -287,7 +289,7 @@ Usuário.
 
 **Recursos**
 
-Não se aplica.
+Um smartfone com o aplicativo instalado e com acesso à internet.
 
 **Episódios**
 
@@ -323,7 +325,7 @@ Usuário.
 
 **Recursos**
 
-Não se aplica.
+Um smartfone com o aplicativo instalado e com acesso à internet.
 
 **Episódios**
 
