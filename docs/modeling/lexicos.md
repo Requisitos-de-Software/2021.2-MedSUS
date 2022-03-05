@@ -13,14 +13,63 @@
 
 ## 3. Léxicos
 
+# Letra A
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6">
+            <div id="administracao" class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Administração</h4>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text"> Noções </h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item ">As formas de uso de um <a href="#medicamento">medicamento</a></li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Consta na <a href="#bula">bula</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div id="advertencia" class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Advertência</h4>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Noções</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">
+                            Cuidados que se deve ter ao manipular o <a href="#medicamento">medicamento</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Consta na <a href="#bula">bula</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<br>
+
 # Letra B
 
 <div class="container">
     <div class="row">
         <div class="col-sm-6">
-            <div class="card">
+            <div id="barra-pesquisa" class="card">
                 <div class="card-header p-1 bg-primary">
-                    <h4 id="#barra-pesquisa"class="card-title text-white text-center m-1 font-weight-bold">Barra de Pesquisa</h5>
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Barra de Pesquisa</h5>
                 </div>
                 <div class="card-body p-2">
                     <h5 class="card-text">Noções</h5>
@@ -40,7 +89,7 @@
         <div class="col-sm-6">
             <div id="bula" class="card">
                 <div class="card-header p-1 bg-primary">
-                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Bula</h5>
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Bula</h4>
                 </div>
                 <div class="card-body p-2">
                     <h5 class="card-text">Noções</h5>
@@ -50,15 +99,18 @@
                             para o uso seguro e <a href="#tratamento">tratamento</a> eficaz.  
                         </li>
                         <li class="m-0 list-group-item">
-                            Pode ser de dois tipos: Bula para o Paciente e 
-                            Bula para o Profissional da Saúde.
+                            Pode ser de dois tipos: <a href="#bula-paciente">Bula para o Paciente</a> e 
+                            <a href="#bula-profissional-saude">Bula para o Profissional da Saúde</a>.
                         </li>
                     </ul>
                 </div>
                 <div class="card-footer p-2">
                     <h5 class="card-text">Impacto</h5>
                     <ul class="m-0 list-group">
-                        <li class="m-0 list-group-item">a</li>
+                        <li class="m-0 list-group-item">
+                            Contém informações sobre a <a href="#prescricao">prescrição</a>, <a href="#preparacao">preparação</a>,
+                            <a href="#administracao">administração</a> e <a href="#advertencia">advertência</a>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -66,8 +118,54 @@
     </div>
     <br>
     <div class="row">
+        <div class="pd-0 col-sm-6">
+            <div id="bula-paciente"class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Bula para o Paciente</h4>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Noções</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">
+                            <a href="#bula">Bula</a> com informações menos técnicas, para os <a href="#usuario-leigo">usuários leigos</a> 
+                        </li>
+                        <li class="m-0 list-group-item">
+                            Disponível em separado da <a href="#bula-profissional-saude">Bula para o Profissional da Saúde</a>.
+                        </li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Contém Identificação do <a href="#medicamento">medicamento</a>, Informações ao <a href="#paciente">paciente</a> e Dizeres Legais</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
         <div class="col-sm-6">
-            <div class="card">
+            <div id="bula-profissional-saude"class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Bula para o Profissional de Saúde</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Noções</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Disponível em separado da <a href="#bula-paciente">Bula para o Paciente</a></li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Contém as informações técnicas e legais</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-sm-6">
+            <div id="busca-medicamento" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Busca de medicamento</h5>
                 </div>
@@ -89,6 +187,36 @@
                         <li class="m-0 list-group-item">
                             pode-se acessar a <a href="#bula">bula</a> dos 
                             <a href="#medicamentos">medicamentos</a> <a href="#filtro">filtrados</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<br>
+
+# Letra C
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6">
+            <div id="compartilhar"class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Compartilhar</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Noções</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Realizado pelo usuário para envio de alguma <a href="#bula">bula</a> 
+                            específica para qualquer outra pessoa
+                        </li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Geração de arquivo <a href="pdf">PDF</a></li>
                     </ul>
                 </div>
             </div>
