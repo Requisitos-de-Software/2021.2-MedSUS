@@ -1,5 +1,18 @@
 # Cenários
 
+## 1. Introdução
+<p style="text-indent: 20px; text-align: justify">
+
+</p>
+
+
+## 2. Metodologia
+<p style="text-indent: 20px; text-align: justify">
+
+</p>
+
+## 3. Cenários
+
 ### Cenário 001
 **-> Pesquisar medicamentos por nome <-**
 
@@ -161,6 +174,11 @@ Usuário recebe a notificação na tela do celular.
 Usuário entra no aplicativo.
 Usuário clica no ícone do meio, da aba inferior do aplicativo.
 Usuário clica no meio da aba superior do aplicativo (Inclusão).
+
+## Referências bibliográficas
+
+> Sommerville, I., Engenharia de software, 10ª ed., Editora Pearson, 2016.
+> Santos, V. G., Daher N., UTILIZAÇÃO DE STORYTELLING COMO FERRAMENTA DE AQUISIÇÃO DE REQUISITOS EM PROCESSO DE DESENVOLVIMENTO DE SOFTWARE APOIADOS EM MODELOS ÁGEIS: O USO APOIADO NO EXTREME PROGRAMMING, Belo Horizonte, 2008. 14 p., Artigo (Análise de Sistemas), e-tec UNI-BH
 
 ## Histórico de versões
 
