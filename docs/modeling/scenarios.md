@@ -12,6 +12,45 @@ Cenário é que uma cena que ilustra a interação entre ambientes e um sistema 
 A partir do Brainstorming realizado em uma reunião com todos os membros do grupo, conseguimos levantar alguns requisitos básicos. A partir desses requisitos, buscamos escrever e detalhar os cenários do sistema. Esta técnica descreve os requisitos numa linguagem mais fácil de entender e validar. Além disso, facilitam a criação dos casos de uso posteriormente.
 </p>
 
+### template
+
+**-> Título <-**
+
+**Objetivo**
+
+estabelece a finalidade de um cenário. O cenário deve
+descrever de que modo este objetivo deve ser alcançado.
+
+**Contexto**
+
+descreve o estado inicial de um cenário, suas précondições, o local (físico) e tempo. Na sua definição podem ser
+especificadas restrições sobre estes elementos
+
+**Atores**
+
+Pessoa ou estrutura organizacional que tem um papel no cenário
+
+**Recursos**
+
+identifica os objetos passivos com os quais lidam os
+atores. Na sua definição podem ser especificadas restrições sobre os
+objetos a serem lidados pelo cenário
+
+**Episódios**
+
+Cada episódio representa uma ação realizada por um
+ator onde participam outros atores utilizando recursos disponíveis. Um
+episódio também pode se referir a outro cenário. Episódios podem
+conter restrições e exceções.
+
+**Restrições**
+
+Uma restrição é qualquer imposição que restrinja um episódio de um cenário
+
+**Exceções**
+
+Uma exceção é o tratamento para uma situação excepcional ou de erro
+
 ## 3. Cenários
 
 ### Cenário 001
@@ -355,3 +394,4 @@ Nenhum medicamento foi adicionado.
 |  0.0.3  | 05/03/22 | Adição de restrições e exceções nos cenários (001 a 008) | João Durso  | Gabriel Costa |
 |  0.0.4  | 05/03/22 |                    Correção de texto                     | João Durso  | Gabriel Costa |
 | 0.0.4.1 | 05/03/22 |                    Correção de texto                     | João Durso  | Gabriel Costa |
+| 0.0.4.2 | 05/03/22 |         Correção de texto e criação do template          | João Durso  | Gabriel Costa |
