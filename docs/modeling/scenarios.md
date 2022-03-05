@@ -2,13 +2,13 @@
 
 ## 1. Introdução
 <p style="text-indent: 20px; text-align: justify">
-
+Cenário é que uma cena que ilustra a interação entre ambientes e um sistema proposto. Ademais, é uma ferramenta extremamente utilizada durante a análise de requerimentos para descrever o uso de um sistema. Os cenários capturam o sistema, visto de fora, por exemplo, por um usuário, usando exemplo específicos. Para isso, faz uso de algumas abstrações, como título, objetivos, contexto, ator(es), recursos, exceções, episódios e restrições.
 </p>
 
 
 ## 2. Metodologia
 <p style="text-indent: 20px; text-align: justify">
-
+A partir do Brainstorming realizado em uma reunião com todos os membros do grupo, conseguimos levantar alguns requisitos básicos. A partir desses requisitos, buscamos escrever e detalhar os cenários do sistema. Esta técnica descreve os requisitos numa linguagem mais fácil de entender e validar. Além disso, facilitam a criação dos casos de uso posteriormente.
 </p>
 
 ## 3. Cenários
@@ -177,8 +177,8 @@ Usuário clica no meio da aba superior do aplicativo (Inclusão).
 
 ## Referências bibliográficas
 
-> Sommerville, I., Engenharia de software, 10ª ed., Editora Pearson, 2016.
-> Santos, V. G., Daher N., UTILIZAÇÃO DE STORYTELLING COMO FERRAMENTA DE AQUISIÇÃO DE REQUISITOS EM PROCESSO DE DESENVOLVIMENTO DE SOFTWARE APOIADOS EM MODELOS ÁGEIS: O USO APOIADO NO EXTREME PROGRAMMING, Belo Horizonte, 2008. 14 p., Artigo (Análise de Sistemas), e-tec UNI-BH
+> SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 10): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 35 slides. color. Disponível em: https://aprender3.unb.br/pluginfile.php/1668162/mod_resource/content/1/Aula%2010.pdf. Acesso em: 04 mar. 2022.
+> 
 
 ## Histórico de versões
 
