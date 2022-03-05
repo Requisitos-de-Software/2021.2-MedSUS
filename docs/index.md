@@ -19,12 +19,6 @@ Olá, nós somos o grupo 5 da matéria de requisitos de software da Universidade
     </div>
 </div>
 
-
-
-## Documentação
-Pode ser acessada [aqui](https://requisitos-de-software.github.io/2021.2-MedSUS/).
-
-
 <br>
 
 ## Equipe:
