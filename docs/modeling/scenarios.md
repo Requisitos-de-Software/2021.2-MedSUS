@@ -30,6 +30,10 @@ Não se aplica.
 Usuário entra na tela inicial.
 Usuário clica no ícone de pesquisa, no canto superior direito.
 Usuário pesquisa o medicamento desejado.
+**Restrições**
+Errar o nome do medicamento.
+**Exceções**
+Usuário não sabe o nome do medicamento.
 
 ### Cenário 002
 **-> Compartilhar medicamentos <-** 
@@ -49,6 +53,10 @@ Usuário entra na tela inicial.
 Usuário procura pelo medicamento desejado.
 Usuário clica no ícone do meio, na aba inferior.
 Usuário escolhe onde irá compartilhar as informações.
+**Restrições**
+Só é possível compartilhar em um outro aplicativo por vez.
+**Exceções**
+Destinatário não possui nenhum aplicativo para receber o compartilhamento.
 
 ### Cenário 003
 **-> Favoritar medicamentos <-** 
@@ -66,7 +74,11 @@ Não se aplica.
 **Episódios**
 Usuário entra na tela inicial.
 Usuário procura pelo medicamento desejado.
-Usuário clica no ícone de favoritar - atrás do nome do medicamento. 
+Usuário clica no ícone de favoritar - atrás do nome do medicamento.
+**Restrições**
+Nenhuma restrição foi encontrada.
+**Exceções**
+Medicamento não existe no sistema.
 
 ### Cenário 004
 **-> Filtrar medicamento por GAP <-** 
@@ -85,6 +97,10 @@ Não se aplica.
 Usuário entra na tela inicial.
 Usuário clica no ícone de filtragem, acima do canto inferior direito.
 Usuário clica na(s) categoria(s) do GPA que o medicamento desejado pode se encaixar.
+**Restrições**
+Usuário escolhe a categoria errada do GPA.
+**Exceções**
+Usuário não conhece o Grupo Anatômico Principal.
 
 ### Cenário 004
 **-> Filtrar medicamento por anexo da RENAME <-** 
@@ -103,6 +119,10 @@ Não se aplica.
 Usuário entra na tela inicial.
 Usuário clica no ícone de filtragem, acima do canto inferior direito.
 Usuário clica na(s) categoria(s) do anexo da RENAME que o medicamento desejado se encaixa.
+**Restrições**
+Usuário escolhe a categoria errada do anexo da RENAME.
+**Exceções**
+Usuário não conhece o anexo da RENAME.
 
 ### Cenário 005
 **-> Filtrar medicamento por controle especial <-** 
@@ -121,6 +141,10 @@ Não se aplica.
 Usuário entra na tela inicial.
 Usuário clica no ícone de filtragem, acima do canto inferior direito.
 Usuário clica na(s) categoria(s) do controle especial que o medicamento desejado se encaixa.
+**Restrições**
+Usuário escolhe a categoria errada do controle especial.
+**Exceções**
+Usuário desconhece o controle especial.
 
 ### Cenário 006
 **-> Filtrar medicamento por existência de genérico <-** 
@@ -139,6 +163,11 @@ Não se aplica.
 Usuário entra na tela inicial.
 Usuário clica no ícone de filtragem, acima do canto inferior direito.
 Usuário clica na opção 'Sim', se possui genérico e 'Não', caso não possua.
+**Restrições**
+Usuário possui dúvida quanto à existência da versão genérica.
+**Exceções**
+Rede do usuário cai.
+
 
 ### Cenário 007
 **-> Alterar informações baseado no perfil do usuário <-** 
@@ -154,13 +183,19 @@ Usuário.
 **Recursos** 
 Não se aplica.
 **Episódios**
+Usuário entra no aplicativo.
+Usuário clica no medicamento desejado.
+Usuário seleciona o seu perfil (profissional da saúde ou usuário comum), na aba superior do aplicativo.
+**Restrições**
+(preencher... app off-line)
+**Exceções**
 (preencher... app off-line)
 
 ### Cenário 008
 **-> Notificar a adição de um medicamento <-** 
 
 **Objetivo** 
-Alterar informações baseado no perfil do usuário (profissional da saúde ou usuário comum), para atualizar as informações da monografia.
+Notificar ao usuário a adição de um medicamento no aplicativo, a fim de deixá-lo sempre atualizado.
 **Contexto** 
 Local: Em qualquer tela do celular.
 Tempo: A qualquer momento.
@@ -174,11 +209,14 @@ Usuário recebe a notificação na tela do celular.
 Usuário entra no aplicativo.
 Usuário clica no ícone do meio, da aba inferior do aplicativo.
 Usuário clica no meio da aba superior do aplicativo (Inclusão).
+**Restrições**
+O usuário desligou as notificações.
+**Exceções**
+Nenhum medicamento foi adicionado.
 
 ## Referências bibliográficas
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 10): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 35 slides. color. Disponível em: https://aprender3.unb.br/pluginfile.php/1668162/mod_resource/content/1/Aula%2010.pdf. Acesso em: 04 mar. 2022.
-> 
 
 ## Histórico de versões
 
@@ -186,5 +224,6 @@ Versão|Data|Alteração|Responsável|Revisão|
 :-:|:-:|:-:|:-:|:-:|
 0.0.1|04/03/22|Criação|João Durso|Adrian|
 0.0.2|05/03/22|Cenários (001 a 008)|João Durso|Gabriel Costa|
+0.0.3|05/03/22|Adição de restrições e exceções nos cenários (001 a 008)|João Durso|Gabriel Costa|
 
 
