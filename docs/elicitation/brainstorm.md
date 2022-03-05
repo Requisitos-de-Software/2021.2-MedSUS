@@ -42,4 +42,5 @@ Essas ideias e soluções são registradas e transformadas em Requisitos do Prod
 
 Versão|Data|Alteração|Responsável|Revisão|
 :-:|:-:|:-:|:-:|:-:|
-0.0.1|20/02/22|Criação do documento|Fernando | -- |
+0.0.1|20/02/22|Criação do documento|Fernando | João Durso |
+0.0.2|05/03/22|Correção do texto|João Durso | -- |
