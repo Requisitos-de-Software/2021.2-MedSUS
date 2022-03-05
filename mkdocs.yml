@@ -38,4 +38,6 @@ nav:
     - Instrospecção: elicitation/introspective.md
   - Priorização: priorization/moscow.md
   - Apresentações:
-      - Apresentação 1: presentations/presentation1.md
+    - Apresentação 1: presentations/presentation1.md
+  - Modelagem:
+    - Especificação Suplementar: modeling/supplementary_specification.md
