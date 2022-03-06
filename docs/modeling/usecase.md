@@ -30,9 +30,8 @@ cenários para a criação desse artefato.
 |Fluxo Principal  |descreve a funcionalidade principal do caso de uso, quando nenhum desvio é tomado   |
 |Fluxo Alternativo|especificam interações alternativas com a mesma meta.|
 |Pós-condições    |As Pós-Condições são os estados que o sistema pode ficar depois do caso de uso terminar   |
-|Rastreabilidade  ||
 
-### Legenda
+#### Legenda
 
 
 | relacionamentos          | descrição |
@@ -49,15 +48,18 @@ cenários para a criação desse artefato.
 </p>
 
 ### UC01 - Título
-|UC00|Descrição|
+
+### UC01 - Título
+|UC01|Descrição|
 |       :-:                   |--|
-|Descrição        ||
-|Ator             ||
-|Pré-condições    ||
-|Fluxo Principal  ||
-|Fluxo Alternativo||
-|Pós-condições    ||
-|Rastreabilidade  ||
+|Descrição        |O usuário pesquisa por um medicamento   |
+|Ator             |todos|
+|Pré-condições    |Celular com acesso à internet e com o aplicativo instalado   |
+|Fluxo Principal  | >  O usuário entra na secção de pesquisa <br> > Seleciona ou não alguns filtros para a sua pesquisa   <br> > Digita um nome de medicamento <br> > Confirma a pesquisa |
+|Fluxo Alternativo|Caso nenhum remédio seja encontrado o sistema avisa que a busca não obteve resultado  |
+|Pós-condições    |O aplicativo continua na tela de pesquisa ou entre na página de um medicamento se algum for selecionado|
+
+
 
 
 ## Referências bibliográficas
