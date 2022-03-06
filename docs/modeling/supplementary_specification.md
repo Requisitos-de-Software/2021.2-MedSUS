@@ -17,11 +17,11 @@ Os requisitos neste documento foram definidos com base no sistema FURPS.
 
 Esse sistema visa classificar os requisitos de acordo com os atributos de qualidade de software. O acrônimo representa as possíveis categorias para os requisitos, são elas:
 
-- Funcionalidade
-- Usabilidade
-- Confiabilidade
-- Desempenho
-- Suportabilidade
+- Funcionalidade: Capacidade (generalidade do conjunto de recursos), reutilização (compatibilidade, interoperabilidade, portabilidade), segurança e explorabilidade;
+- Usabilidade: Resposividade, documentação, consistência, estética, fatores humanos em geral; 
+- Confiabilidade: Disponibilidade(Frequência de Falhas(Robustez/Durabilidade/Responsividade), Extensão e Duração da Falha(Recuperabilidade/Sobrevivênvia)), Previsibilidade/Establidade;
+- Desempenho: Velocidade, Eficiência, Consumo de Recurso, Rendimento, Capacidade, Escalabilidadae;
+- Suportabilidade: Manutenabulidade, Testabilidade, Flexibilidade, Instabilidade, Localizabilidade.
 
 ## 3. Especificação Suplementar
 
@@ -63,8 +63,8 @@ Esse sistema visa classificar os requisitos de acordo com os atributos de qualid
 
 Versão|Data|Alteração|Responsável|Revisão|
 :---:|:---:|:---:|:---:|:---:|
-0.0.1|03/03/2022|Criação|Thalisson| Adrian |
-0.0.2|03/03/2022|Introdução (Propósito e Escopo)|Thalisson| Adrian |
+0.0.1|03/03/2022|Criação|Thalisson e Fernando| Adrian |
+0.0.2|03/03/2022|Introdução (Propósito e Escopo)|Thalisson e Fernando| Adrian |
 0.0.3|04/03/2022|Metodologia|Thalisson|Adrian|
 0.0.4|04/03/2022|Especificação Suplementar|Thalisson|Adrian|
 0.0.5|05/03/2022|Adição de requisitos|Thalisson|Adrian|
