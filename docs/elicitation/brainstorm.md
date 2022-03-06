@@ -23,18 +23,18 @@ Essas ideias e soluções são registradas e transformadas em Requisitos do Prod
 **R04  -** O usuário deve ser capaz de filtrar por Grupo Anatômico Principal.</p>
 **R05  -** O usuário deve ser capaz de filtrar por anexo da Rename.</p>
 **R06  -** O usuário deve ser capaz de filtrar por controle especial.</p>
-**R06  -** O usuário deve ser capaz de filtrar por medicamentos que possuem genérico ou não.</p>
-**R07  -** O usuário deve ser capaz de alterar informações baseado no perfil de usuário (Profissional de saúde/Usuário comum).</p>
-**R08  -** O sistema deve notificar o usuário quando um medicamento for adicionado ao aplicativo.</p>
-**R09  -** O sistema deve notificar o usuário quando um medicamento for removido do aplicativo.</p>
-**R08  -** O sistema deve notificar o usuário quando um medicamento for alterado no aplicativo.</p>
-**R09  -** O usuário deve conseguir buscar palavras-chave no texto das informações.</p>
-**R10  -** O usuário deve ser capaz de visualizar o índice das informações de um medicamento.</p>
-**R11  -** O profissional de Saúde deve ser capaz de saber os medicamentos de prioridade para o SUS - Rename.</p>
-**R12 -** A aplicação deve ser intuitiva para o usuário leigo.</p>
-**R13 -** A aplicação deve linkar as referências das informações.</p>
-**R14 -** A aplicação deve ser suportada por Android e IOS.</p>
-**R15 -** O usuário deve ser capaz de alterar o tamanho da fonte.</p>
+**R07  -** O usuário deve ser capaz de filtrar por medicamentos que possuem genérico ou não.</p>
+**R08  -** O usuário deve ser capaz de alterar informações baseado no perfil de usuário (Profissional de saúde/Usuário comum).</p>
+**R09  -** O sistema deve notificar o usuário quando um medicamento for adicionado ao aplicativo.</p>
+**R10  -** O sistema deve notificar o usuário quando um medicamento for removido do aplicativo.</p>
+**R11  -** O sistema deve notificar o usuário quando um medicamento for alterado no aplicativo.</p>
+**R12  -** O usuário deve conseguir buscar palavras-chave no texto das informações.</p>
+**R13  -** O usuário deve ser capaz de visualizar o índice das informações de um medicamento.</p>
+**R14  -** O profissional de Saúde deve ser capaz de saber os medicamentos de prioridade para o SUS - Rename.</p>
+**R15 -** A aplicação deve ser intuitiva para o usuário leigo.</p>
+**R16 -** A aplicação deve linkar as referências das informações.</p>
+**R17 -** A aplicação deve ser suportada por Android e IOS.</p>
+**R18 -** O usuário deve ser capaz de alterar o tamanho da fonte.</p>
 
 ## Referências
 > Carlos Eduardo Vazquez, Guilherme Siqueira Simões, Engenharia de requisitos: software orientado ao negócio, 1ª ed., Brasport, 2016.
@@ -43,4 +43,5 @@ Essas ideias e soluções são registradas e transformadas em Requisitos do Prod
 
 Versão|Data|Alteração|Responsável|Revisão|
 :-:|:-:|:-:|:-:|:-:|
-0.0.1|20/02/22|Criação do documento|Fernando | -- |
+0.0.1|20/02/22|Criação do documento|Fernando | João Durso |
+0.0.2|05/03/22|Correção do texto|João Durso | Thalisson |
