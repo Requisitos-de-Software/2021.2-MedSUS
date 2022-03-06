@@ -638,8 +638,8 @@
 
 Versão|Data|Alteração|Responsável|Revisão|
 :-:|:-:|:-:|:-:|:-:|
-0.0.1|02/03/22|Criação|Adrian||
-0.0.2|03/03/22|Adição de Léxicos|Adrian||
-0.0.3|05/03/22|Finalização dos Léxicos|Adrian||
-0.0.4|06/03/22|Introdução e metodologia|Adrian||
-0.0.5|06/03/22|Referências|Adrian||
+0.0.1|02/03/22|Criação|Adrian|Fernando|
+0.0.2|03/03/22|Adição de Léxicos|Adrian|Fernando|
+0.0.3|05/03/22|Finalização dos Léxicos|Adrian|Fernando|
+0.0.4|06/03/22|Introdução e metodologia|Adrian|Fernando|
+0.0.5|06/03/22|Referências|Adrian|Fernando|
