@@ -357,9 +357,8 @@
                 </div>
             </div>
         </div>
-        
     </div>
-</div>
+
 
 <br>
 
@@ -435,9 +434,7 @@
                 </div>
             </div>
         </div>
-
     </div>
-</div>
 
 <br>
 
@@ -516,8 +513,6 @@
                 </div>
             </div>
         </div>
-
-    </div>
 </div>
 
 <br>
@@ -546,8 +541,6 @@
                 </div>
             </div>
         </div>
-
-    </div>
 </div>
 
 <br>
@@ -578,8 +571,6 @@
                 </div>
             </div>
         </div>
-
-    </div>
 </div>
 
 <br>
@@ -652,7 +643,3 @@ Versão|Data|Alteração|Responsável|Revisão|
 0.0.3|05/03/22|Finalização dos Léxicos|Adrian||
 0.0.4|06/03/22|Introdução e metodologia|Adrian||
 0.0.5|06/03/22|Referências|Adrian||
-
-<style> 
-    .paragraph {text-indent: 20px; text-align: justify}
-</style>
