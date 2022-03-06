@@ -36,7 +36,7 @@ cenários para a criação desse artefato.
 <!-- link dos para ediar os casos https://app.creately.com/d/Qv2g5exxYgb/edit -->
 ###Caso de Uso - Geral
  <p align="center">
-  <img src="docs/assets/cenario000.png" alt="MedSus" width="25%"/>
+  <img src="../assets/cenario000.png" alt="MedSus" width="25%"/>
 </p>
 
 ###UC01 - Título
