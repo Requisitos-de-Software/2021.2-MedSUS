@@ -33,6 +33,24 @@ cenários para a criação desse artefato.
 |Rastreabilidade  ||
 
 
+<!-- link dos para ediar os casos https://app.creately.com/d/Qv2g5exxYgb/edit -->
+###Caso de Uso - Geral
+ <p align="center">
+  <img src="docs/assets/cenario000.png" alt="MedSus" width="25%"/>
+</p>
+
+###UC01 - Título
+|UC00|Descrição|
+|       :-:                   |--|
+|Descrição        ||
+|Ator             ||
+|Pré-condições    ||
+|Fluxo Principal  ||
+|Fluxo Alternativo||
+|Pós-condições    ||
+|Rastreabilidade  ||
+
+
 ## Referências bibliográficas
 
 https://www.cin.ufpe.br/~rls2/processo_tg/Metodologia%20S&B/guidances/concepts/use_case_8F95459C.html#:~:text=Uma%20precondi%C3%A7%C3%A3o%20%C3%A9%20o%20estado,do%20caso%20de%20uso%20terminar.
