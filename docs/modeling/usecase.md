@@ -65,6 +65,10 @@ cenários para a criação desse artefato.
 
 ### UC02 - Visualizar Medicamento
 
+ <p align="center">
+  <img src="../assets/usecase002.png" alt="MedSus"/>
+</p>
+
 
 |UC02|Descrição|
 |       :-:                   |--|
@@ -77,6 +81,10 @@ cenários para a criação desse artefato.
 
 
 ### UC03 - Compartilhar Medicamento
+
+ <p align="center">
+  <img src="../assets/usecase003.png" alt="MedSus"/>
+</p>
 
 |UC03|Descrição|
 |       :-:                   |--|
