@@ -66,7 +66,7 @@ cenários para a criação desse artefato.
 ### UC02 - Visualizar Medicamento
 
 
-|UC01|Descrição|
+|UC02|Descrição|
 |       :-:                   |--|
 |Descrição        | O usuário escolhe as informações que deseja visualizar |
 |Ator             |todos|
@@ -78,7 +78,7 @@ cenários para a criação desse artefato.
 
 ### UC03 - Compartilhar Medicamento
 
-|UC01|Descrição|
+|UC03|Descrição|
 |       :-:                   |--|
 |Descrição        | O usuário compartilha um medicamento em formato PDF|
 |Ator             |todos|
