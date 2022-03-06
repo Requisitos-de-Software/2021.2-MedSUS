@@ -39,7 +39,8 @@ nav:
   - Priorização: priorization/moscow.md
   - Modelagem:
     - Léxicos: modeling/lexicos.md
+    - Casos de Uso: modeling/usecase.md
+    - Cenários: modeling/scenarios.md
+    - Especificação Suplementar: modeling/supplementary_specification.md
   - Apresentações:
     - Apresentação 1: presentations/presentation1.md
-  - Modelagem:
-    - Especificação Suplementar: modeling/supplementary_specification.md
