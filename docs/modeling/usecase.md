@@ -1,4 +1,4 @@
-# Cenários
+# Casos de Uso
 
 ## 1. Introdução
 
@@ -43,15 +43,13 @@ cenários para a criação desse artefato.
 
 <!-- link dos para ediar os casos https://app.creately.com/d/Qv2g5exxYgb/edit -->
 ### Caso de Uso - Geral
- <p align="center">
-  <img src="../assets/usecase000.png" alt="MedSus"/>
-</p>
+
+![MedSus](../assets/usecase000.png)
 
 ### UC01 - Pesquisa de Medicamento
 
- <p align="center">
-  <img src="../assets/usecase001.png" alt="MedSus"/>
-</p>
+![MedSus](../assets/usecase001.png)
+ 
 
 |UC01|Descrição|
 |       :-:                   |--|
@@ -65,9 +63,7 @@ cenários para a criação desse artefato.
 
 ### UC02 - Visualizar Medicamento
 
- <p align="center">
-  <img src="../assets/usecase002.png" alt="MedSus"/>
-</p>
+![MedSus](../assets/usecase002.png)
 
 
 |UC02|Descrição|
@@ -82,9 +78,7 @@ cenários para a criação desse artefato.
 
 ### UC03 - Compartilhar Medicamento
 
- <p align="center">
-  <img src="../assets/usecase003.png" alt="MedSus"/>
-</p>
+![MedSus](../assets/usecase003.png)
 
 |UC03|Descrição|
 |       :-:                   |--|
