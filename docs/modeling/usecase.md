@@ -32,14 +32,23 @@ cenários para a criação desse artefato.
 |Pós-condições    |As Pós-Condições são os estados que o sistema pode ficar depois do caso de uso terminar   |
 |Rastreabilidade  ||
 
+### Legenda
+
+
+| relacionamentos          | descrição |
+| --------      | -------- |
+| Generalização | Uma generalização entre um caso de uso C e um caso de uso D indica que C é umaespecialização de D. Este relacionamento é representado por uma seta de generalização partindo de D para C.   |
+|  << include >>  |permitir a reutilização de um determinado comportamento de umcaso de uso por outros casos de uso |
+|  << extend >>  | Um relacionamento de "extend" é usado para mostrar: comportamento opcional, comportamento que somente é executado sobre determinadas condições|
+
 
 <!-- link dos para ediar os casos https://app.creately.com/d/Qv2g5exxYgb/edit -->
-###Caso de Uso - Geral
+### Caso de Uso - Geral
  <p align="center">
   <img src="../assets/cenario000.png" alt="MedSus"/>
 </p>
 
-###UC01 - Título
+### UC01 - Título
 |UC00|Descrição|
 |       :-:                   |--|
 |Descrição        ||
