@@ -37,5 +37,7 @@ nav:
     - Storytelling: elicitation/storytelling.md
     - Instrospecção: elicitation/introspective.md
   - Priorização: priorization/moscow.md
+  - Modelagem:
+    - Léxicos: modeling/lexicos.md
   - Apresentações:
       - Apresentação 1: presentations/presentation1.md
