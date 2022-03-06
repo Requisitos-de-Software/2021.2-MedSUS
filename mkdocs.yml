@@ -40,4 +40,6 @@ nav:
   - Modelagem:
     - Léxicos: modeling/lexicos.md
   - Apresentações:
-      - Apresentação 1: presentations/presentation1.md
+    - Apresentação 1: presentations/presentation1.md
+  - Modelagem:
+    - Especificação Suplementar: modeling/supplementary_specification.md
