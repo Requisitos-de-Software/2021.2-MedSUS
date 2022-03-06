@@ -632,8 +632,16 @@
 ## Referências bibliográficas
 
 > CONSTRUÇÃO do léxico de aplicações. Proceedings of the International Joint Conference IBERAMIA/SBIA/SBRN 2006 : 4th Workshop in Information and Human Language Technology, Ribeirão Preto, Brazil, 23 out. 2006. CD-ROM.
-> 
+
 > SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/1668162/mod_resource/content/1/Aula%2010.pdf). Acesso em: 04 de março de 2022.
+
+> RENAME. [S. l.], 9 mar. 2021. Disponível em: https://www.gov.br/saude/pt-br/assuntos/assistencia-farmaceutica-no-sus/rename. Acesso em: 4 mar. 2022.
+
+> SISTEMA Único de Saúde (SUS): estrutura, princípios e como funciona. [S. l.], 24 nov. 2020. Disponível em: https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/sus-estrutura-principios-e-como-funciona. Acesso em: 4 mar. 2022.
+
+> ANVISA. Perguntas e respostas sobre bulas. [S. l.], 1 mar. 2022. Disponível em: http://antigo.anvisa.gov.br/perguntas-e-respostas-sobre-bulas. Acesso em: 5 mar. 2022.
+
+> IDEC - INSTITUTO BRASILEIRO DE DEFESA DO CONSUMIDOR. O que é um medicamento?. [S. l.], 4 maio 2011. Disponível em: https://idec.org.br/consultas/dicas-e-direitos/o-que-e-um-medicamento. Acesso em: 4 mar. 2022.
 
 ## Histórico de versões
 
@@ -643,6 +651,7 @@ Versão|Data|Alteração|Responsável|Revisão|
 0.0.2|03/03/22|Adição de Léxicos|Adrian||
 0.0.3|05/03/22|Finalização dos Léxicos|Adrian||
 0.0.4|06/03/22|Introdução e metodologia|Adrian||
+0.0.5|06/03/22|Referências|Adrian||
 
 <style> 
     .paragraph {text-indent: 20px; text-align: justify}
