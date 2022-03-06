@@ -3,13 +3,27 @@
 ## 1. Introdução
   
 <p class="paragraph">
-    O léxico.
+    O léxico é uma impotante ferramenta para entender o vocabulário dentro do escopo do problema que será solucionado. Com ele, busca-se descrever as principais palavras pertencentes ao universo do usuário e ao uso do sistema, e a relação dessas palavras.   
+</p>
+<p class="paragraph">
+    Considerando que no processo de elicitação, modelagem e análise, como também em todo o desenvolvimento de um software, participam profissionais com diferentes funções e competências, termos técnicos ou de significado diverso do usual podem dar margem a diferentes interpretações para um mesmo termo ou expressão (CONSTRUÇÃO..., 2006, p. 2) . Com o Léxico, consegue-se garantir uma melhor compreensão da pŕopria aplicação para os desenvolvedores e o apoio ao levantamento de requisitos.
+</p>
+<p class="paragraph">
+    Os léxicos poderão ser usados para uma rastrabilidade dos termos quando forem utilizados, através de referências por links internos e externos pelas páginas do nosso projeto.
 </p>
 
 
 ## 2. Metodologia
 
+<p class="paragraph">
+    Através da utilização do aplicativo e da concsulta a fontes do <a href="#sus">SUS</a> e da Anvisa, levantamos significados dos vocábulos e o papel dele dentro do sistema. Os Léxicos podem ser objetos, verbos(ações) ou estados, para todos eles temos as noções e seus impactos no domínio. Podemos resumir suas descrições da seguinte maneira:
+</p>
 
+|  Tipo |Noção|Impacto|
+|  ---  | --- |  ---  |
+|Verbo|Quem Realiza, Quando e Quais os procedimentos|Ações decorrentes e novos estados|
+|Objeto|Definição do objeto e objetos relacionados|Ações aplicáveis ao objeto|
+|Estado|O que significa e quais ações o geram|Estados decorrentes|
 
 ## 3. Léxicos
 
@@ -256,14 +270,12 @@
                 </div>
             </div>
         </div>
-        
     </div>
 </div>
 
 <br>
 <!--
 # Letra D
-
 <div class="container">
     <div class="row">
         <div class="col-sm-6">
@@ -324,8 +336,8 @@
 
 <div class="container">
     <div class="row">
-        <div id="lista-medicamentos" class="pd-0 col-sm-6">
-            <div id="diagnostico" class="card">
+        <div class="pd-0 col-sm-6">
+            <div id="lista-medicamentos" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Lista de Medicamentos</h4>
                 </div>
@@ -356,7 +368,7 @@
 <div class="container">
     <div class="row">
         <div class="col-sm-6">
-            <div class="card">
+            <div id="medicamento" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Medicamento</h5>
                 </div>
@@ -404,7 +416,7 @@
     <br>    
     <div class="row">
         <div class="col-sm-6">
-            <div class="card">
+            <div id="modificar-bula"class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Modificar bula</h5>
                 </div>
@@ -617,9 +629,20 @@
     </div>
 </div>
 
-## 4. Conclusão
+## Referências bibliográficas
 
+> CONSTRUÇÃO do léxico de aplicações. Proceedings of the International Joint Conference IBERAMIA/SBIA/SBRN 2006 : 4th Workshop in Information and Human Language Technology, Ribeirão Preto, Brazil, 23 out. 2006. CD-ROM.
+> 
+> SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/1668162/mod_resource/content/1/Aula%2010.pdf). Acesso em: 04 de março de 2022.
 
+## Histórico de versões
+
+Versão|Data|Alteração|Responsável|Revisão|
+:-:|:-:|:-:|:-:|:-:|
+0.0.1|02/03/22|Criação|Adrian||
+0.0.2|03/03/22|Adição de Léxicos|Adrian||
+0.0.3|05/03/22|Finalização dos Léxicos|Adrian||
+0.0.4|06/03/22|Introdução e metodologia|Adrian||
 
 <style> 
     .paragraph {text-indent: 20px; text-align: justify}
