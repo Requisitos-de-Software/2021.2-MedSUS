@@ -1,4 +1,4 @@
-# Casos de uso
+# Caso de uso
 
 ## 1. Introdução
 
