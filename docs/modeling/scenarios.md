@@ -73,7 +73,7 @@ Usuário.
 
 **Recursos**
 
-Um smartfone com o aplicativo instalado e com acesso à internet.
+Um _smartphone_ com o aplicativo instalado e com acesso à internet.
 
 **Episódios**
 
@@ -83,13 +83,13 @@ Usuário pesquisa o medicamento desejado.
 
 **Restrições**
 
-Smartfone incapaz de executar o a aplicativo corretamente. 
-Falha na conexão com a internet   
+_smartphone_ incapaz de executar o a aplicativo corretamente.
+Falha na conexão com a internet  
 Usuário não sabe o nome do medicamento.
 
 **Exceções**
 
-O usuário faz uma pesquisa ineficiente ( Ex. erra o nome do medicamento) 
+O usuário faz uma pesquisa ineficiente ( Ex. erra o nome do medicamento)
 
 ### Cenário 002
 
@@ -111,7 +111,7 @@ Usuário.
 
 **Recursos**
 
-Um smartfone com o aplicativo instalado e com acesso à internet.
+Um _smartphone_ com o aplicativo instalado e com acesso à internet.
 
 **Episódios**
 
@@ -148,7 +148,7 @@ Usuário.
 
 **Recursos**
 
-Um smartfone com o aplicativo instalado e com acesso à internet.
+Um _smartphone_ com o aplicativo instalado e com acesso à internet.
 
 **Episódios**
 
@@ -184,7 +184,7 @@ Usuário.
 
 **Recursos**
 
-Um smartfone com o aplicativo instalado e com acesso à internet.
+Um _smartphone_ com o aplicativo instalado e com acesso à internet.
 
 **Episódios**
 
@@ -220,7 +220,7 @@ Usuário.
 
 **Recursos**
 
-Um smartfone com o aplicativo instalado e com acesso à internet.
+Um _smartphone_ com o aplicativo instalado e com acesso à internet.
 
 **Episódios**
 
@@ -256,7 +256,7 @@ Usuário.
 
 **Recursos**
 
-Um smartfone com o aplicativo instalado e com acesso à internet.
+Um _smartphone_ com o aplicativo instalado e com acesso à internet.
 
 **Episódios**
 
@@ -292,7 +292,7 @@ Usuário.
 
 **Recursos**
 
-Um smartfone com o aplicativo instalado e com acesso à internet.
+Um _smartphone_ com o aplicativo instalado e com acesso à internet.
 
 **Episódios**
 
@@ -328,7 +328,7 @@ Usuário.
 
 **Recursos**
 
-Um smartfone com o aplicativo instalado e com acesso à internet.
+Um _smartphone_ com o aplicativo instalado e com acesso à internet.
 
 **Episódios**
 
@@ -364,7 +364,7 @@ Usuário.
 
 **Recursos**
 
-Um smartfone com o aplicativo instalado e com acesso à internet.
+Um **smartphone** com o aplicativo instalado e com acesso à internet.
 
 **Episódios**
 
@@ -381,17 +381,341 @@ O usuário desligou as notificações.
 
 Nenhum medicamento foi adicionado.
 
+### Cenário 010
+
+**-> Notificar a remoção de um medicamento <-**
+
+**Objetivo**
+
+Notificar ao usuário a remoção de um medicamento no aplicativo, a fim de deixá-lo sempre atualizado.
+
+**Contexto**
+
+Local: Em qualquer tela do celular.
+Tempo: A qualquer momento.
+Pré-condição: Possuir as notificações do aplicativo ligadas e estar conectado a internet.
+
+**Atores**
+
+Usuário.
+
+**Recursos**
+
+Um _smartphone_ com o aplicativo instalado e com acesso à internet.
+
+**Episódios**
+
+Usuário recebe a notificação na tela do celular.
+Usuário entra no aplicativo.
+Usuário clica no ícone do meio, da aba inferior do aplicativo.
+Usuário clica no meio da aba superior do aplicativo (Exclusão).
+
+**Restrições**
+
+O usuário desligou as notificações.
+
+**Exceções**
+
+Nenhum medicamento foi removido.
+
+### Cenário 011
+
+**-> Notificar a alteração de um medicamento <-**
+
+**Objetivo**
+
+Notificar ao usuário a alteração de um medicamento no aplicativo, a fim de deixá-lo sempre atualizado.
+
+**Contexto**
+
+Local: Em qualquer tela do celular.
+Tempo: A qualquer momento.
+Pré-condição: Possuir as notificações do aplicativo ligadas e estar conectado a internet.
+
+**Atores**
+
+Usuário.
+
+**Recursos**
+
+Um _smartphone_ com o aplicativo instalado e com acesso à internet.
+
+**Episódios**
+
+Usuário recebe a notificação na tela do celular.
+Usuário entra no aplicativo.
+Usuário clica no ícone do meio, da aba inferior do aplicativo.
+Usuário clica no meio da aba superior do aplicativo (Alteração).
+
+**Restrições**
+
+O usuário desligou as notificações.
+
+**Exceções**
+
+Nenhum medicamento foi alterado.
+
+### Cenário 012
+
+**-> Pesquisar palavras-chave no texto das monografias <-**
+
+**Objetivo**
+
+Buscar palavras-chave no texto, para facilitar a leitura.
+
+**Contexto**
+
+Local: Na tela de qualquer medicamento.
+Tempo: A qualquer momento.
+Pré-condição: Não achar o local de leitura desejado.
+
+**Atores**
+
+Usuário.
+
+**Recursos**
+
+Um _smartphone_ com o aplicativo instalado e com acesso à internet.
+
+**Episódios**
+
+Usuário entra no aplicativo.
+Usuário clica no medicamento desejado.
+Usuário clica na aba de texto, na parte superior da tela.
+Usuário digita a palavra-chave que deseja procurar no texto.
+
+**Restrições**
+
+O usuário digitou errado a palavra-chave.
+
+**Exceções**
+
+A palavra-chave não existe no texto.
+
+### Cenário 013
+
+**-> Visualizar o índice das informações de um medicamento <-**
+
+**Objetivo**
+
+Buscar o texto por meio do uso de um sumário, no qual os títulos mais importantes estão expostos por índice.
+
+**Contexto**
+
+Local: Na tela de qualquer medicamento.
+Tempo: A qualquer momento.
+Pré-condição: Não se aplica.
+
+**Atores**
+
+Usuário.
+
+**Recursos**
+
+Um _smartphone_ com o aplicativo instalado e com acesso à internet.
+
+**Episódios**
+
+Usuário entra no aplicativo.
+Usuário clica no medicamento desejado.
+Usuário clica no ícone de lista, no canto inferior esquerdo.
+
+**Restrições**
+
+O usuário clicou no título errado.
+
+**Exceções**
+
+O título que o usuário procura não existe no texto.
+
+### Cenário 014
+
+**-> Saber os medicamentos de prioridade para o SUS/RENAME <-**
+
+**Objetivo**
+
+Todos os medicamentos listados no aplicativo MedSUS são aprovados e listados pela RENAME, por isso o usuário possui confiabiliadade quanto ao uso das substâncias.
+
+**Contexto**
+
+Local: Na tela inicial.
+Tempo: A qualquer momento.
+Pré-condição: Não se aplica.
+
+**Atores**
+
+Usuário.
+
+**Recursos**
+
+Um _smartphone_ com o aplicativo instalado.
+
+**Episódios**
+
+Usuário entra no aplicativo e consegue ver todos os medicamentos.
+
+**Restrições**
+
+O usuário mudou de tela ao entrar no aplicativo.
+
+**Exceções**
+
+O usuário não possui o aplicativo.
+
+### Cenário 015
+
+**-> Deixar o aplicativo intuitivo para o usuário leigo <-**
+
+**Objetivo**
+
+Configurar o aplicativo para que um usuário sem/com pouco conhecimento na área de saúde possa utilizá-lo sem dificuldade.
+
+**Contexto**
+
+Local: Em qualquer tela da aplicação.
+Tempo: A qualquer momento.
+Pré-condição: Não se aplica.
+
+**Atores**
+
+Desenvolvedores e usuários.
+
+**Recursos**
+
+Conhecimento em Angular (Ionic 2).
+
+**Episódios**
+
+Desenvolvedor facilita a utilização da aplicação.
+Usuário entra no aplicativo.
+Usuário reconhece todos os ícones e funcionalidades do aplicativo.
+
+**Restrições**
+
+O desenvolvedor não simplifica a aplicação.
+
+**Exceções**
+
+O usuário desinstala a aplicação pela dificuldade no conhecimento das funcionalidades.
+
+### Cenário 016
+
+**-> *Link*ar as referências das informações <-**
+
+**Objetivo**
+
+Ao final da monografia dos medicamentos, há a referência bibliográfica, para que os usuários saibam de onde vem a informação disponível na aplicação.
+
+**Contexto**
+
+Local: Na tela de qualquer aplicativo.
+Tempo: A qualquer momento.
+Pré-condição: Possuir um _link_ para referenciamento.
+
+**Atores**
+
+Desenvolvedores.
+
+**Recursos**
+
+Conhecimento em Angular (Ionic 2) e deter de um _link_ para referenciamento das informações.
+
+**Episódios**
+
+Desenvolvedor disponibiliza a monografia.
+Ao final do texto, desenvolvedor referencia a informação.
+
+**Restrições**
+
+Informações precisam ser atualizadas
+
+**Exceções**
+
+O _link_ está quebrado.
+
+### Cenário 017
+
+**-> Deixar o aplicativo disponível para iOS e Android <-**
+
+**Objetivo**
+
+Desenvolver uma aplicação que esteja disponível tanto para usuários iOS, quanto para usuários Android.
+
+**Contexto**
+
+Local: Aplicativo.
+Tempo: No desenvolvimento da aplicação.
+Pré-condição: Não se aplica.
+
+**Atores**
+
+Desenvolvedores.
+
+**Recursos**
+
+Conhecimento em Angular (Ionic 2).
+
+**Episódios**
+
+Desenvolvedor utiliza Ionic 2 (Framework) para desenvolver o aplicativo.
+Desenvolvedor disponibiliza a aplicação para iOS e para Android.
+
+**Restrições**
+
+O desenvolvedor utiliza erroneamente o framework Ionic 2.
+
+**Exceções**
+
+O desenvolvedor desconhece o framework Ionic 2.
+
+### Cenário 018
+
+**-> Alterar o tamanho da fonte do texto <-**
+
+**Objetivo**
+
+Alterar o tamanho da fonte do texto das monografias para facilitar a leitura para usuários com dificuldades de visão e/ou que preferem outros tamanhos de fonte.
+
+**Contexto**
+
+Local: Na tela de qualquer medicamento.
+Tempo: A qualquer momento.
+Pré-condição: Problemas de visão.
+
+**Atores**
+
+Usuários.
+
+**Recursos**
+
+Um _smartphone_ com o aplicativo instalado e com acesso à internet.
+
+**Episódios**
+
+Usuário entra no aplicativo.
+Usuário clica em qualquer medicamento.
+Usuário clica no ícone de texto, no canto inferior da tela.
+
+**Restrições**
+
+O usuário escolheu uma fonte que não condiz com sua dificuldade visual.
+
+**Exceções**
+
+O usuário não possui dificuldades visuais.
+
 ## Referências bibliográficas
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 10): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 35 slides. color. Disponível em: https://aprender3.unb.br/pluginfile.php/1668162/mod_resource/content/1/Aula%2010.pdf. Acesso em: 04 mar. 2022.
 
 ## Histórico de versões
 
-| Versão  |   Data   |                        Alteração                         | Responsável |    Revisão    |
-| :-----: | :------: | :------------------------------------------------------: | :---------: | :-----------: |
-|  0.0.1  | 04/03/22 |                         Criação                          | João Durso  |    Adrian     |
-|  0.0.2  | 05/03/22 |                   Cenários (001 a 008)                   | João Durso  | Gabriel Costa |
-|  0.0.3  | 05/03/22 | Adição de restrições e exceções nos cenários (001 a 008) | João Durso  | Gabriel Costa |
-|  0.0.4  | 05/03/22 |                    Correção de texto                     | João Durso  | Gabriel Costa |
-| 0.0.4.1 | 05/03/22 |                    Correção de texto                     | João Durso  | Gabriel Costa |
-| 0.0.4.2 | 05/03/22 |         Correção de texto e criação do template          | João Durso  | Gabriel Costa |
+| Versão  |   Data   |                        Alteração                         |  Responsável  |    Revisão    |
+| :-----: | :------: | :------------------------------------------------------: | :-----------: | :-----------: |
+|  0.0.1  | 04/03/22 |                         Criação                          |  João Durso   |    Adrian     |
+|  0.0.2  | 05/03/22 |                   Cenários (001 a 008)                   |  João Durso   | Gabriel Costa |
+|  0.0.3  | 05/03/22 | Adição de restrições e exceções nos cenários (001 a 008) |  João Durso   | Gabriel Costa |
+|  0.0.4  | 05/03/22 |                    Correção de texto                     |  João Durso   | Gabriel Costa |
+| 0.0.4.1 | 05/03/22 |                    Correção de texto                     |  João Durso   | Gabriel Costa |
+| 0.0.4.2 | 05/03/22 |         Correção de texto e criação do template          | Gabriel Costa |  João Durso   |
+|  0.0.5  | 05/03/22 |                   Cenários (009 a 018)                   |  João Durso   | Gabriel Costa |
