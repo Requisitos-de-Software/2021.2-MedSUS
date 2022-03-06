@@ -63,8 +63,8 @@ Esse sistema visa classificar os requisitos de acordo com os atributos de qualid
 
 Versão|Data|Alteração|Responsável|Revisão|
 :---:|:---:|:---:|:---:|:---:|
-0.0.1|03/03/2022|Criação|Thalisson|   |
-0.0.2|03/03/2022|Introdução (Propósito e Escopo)|Thalisson|   |
-0.0.3|04/03/2022|Metodologia|Thalisson|   |
-0.0.4|04/03/2022|Especificação Suplementar|Thalisson|   |
-0.0.5|05/03/2022|Adição de requisitos|Thalisson|   |
+0.0.1|03/03/2022|Criação|Thalisson| Adrian |
+0.0.2|03/03/2022|Introdução (Propósito e Escopo)|Thalisson| Adrian |
+0.0.3|04/03/2022|Metodologia|Thalisson|Adrian|
+0.0.4|04/03/2022|Especificação Suplementar|Thalisson|Adrian|
+0.0.5|05/03/2022|Adição de requisitos|Thalisson|Adrian|
