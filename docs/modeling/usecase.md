@@ -71,7 +71,7 @@ cenários para a criação desse artefato.
 |Descrição        | O usuário escolhe as informações que deseja visualizar |
 |Ator             |todos|
 |Pré-condições    | Pesquisar o medicamento |
-|Fluxo Principal  | >> Entrar na página do medicamento <br> >>  escolher o tipo de informação ( para leigos ou para usuários avançados )|
+|Fluxo Principal  | > Entrar na página do medicamento <br> >  escolher o tipo de informação ( para leigos ou para usuários avançados )|
 |Fluxo Alternativo| não se aplica |
 |Pós-condições    | O aplicativo continua na página de visualização do medicamento |
 
@@ -83,7 +83,7 @@ cenários para a criação desse artefato.
 |Descrição        | O usuário compartilha um medicamento em formato PDF|
 |Ator             |todos|
 |Pré-condições    | Pesquisar o medicamento |
-|Fluxo Principal  | >> Entrar na página do medicamento <br> >> Escolher um aplicativo para exportar o PDF   |
+|Fluxo Principal  | > Entrar na página do medicamento <br> > Escolher um aplicativo para exportar o PDF   |
 |Fluxo Alternativo| não se aplica |
 |Pós-condições    | O aplicativo continua na página de visualização do medicamento |
 
