@@ -4,7 +4,7 @@
 
 ### 1.1 Propósito
 
-Capturar os requisitos do sistema que não são facilmente definidos pela modelagem de casos de uso. De modo que a Especificação Suplementar em conjunto com a [modelagem de Casos de Uso](use_case_link) definem todos os requisitos do sistema.
+Capturar os requisitos do sistema que não são facilmente definidos pela modelagem de casos de uso. De modo que a Especificação Suplementar em conjunto com a [modelagem de Casos de Uso](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/usecase) definem todos os requisitos do sistema.
 
 ### 1.2 Escopo
 
@@ -27,7 +27,7 @@ Esse sistema visa classificar os requisitos de acordo com os atributos de qualid
 
 ### 3.1 Funcionalidades
 
-- Os requisitos funcionais estão definidos através dos Casos de Uso. É possível encontrá-los [aqui](use_case_link)
+- Os requisitos funcionais estão definidos através dos Casos de Uso. É possível encontrá-los [aqui](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/usecase)
 
 ### 3.2 Usabilidade
 
