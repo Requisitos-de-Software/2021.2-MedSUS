@@ -44,12 +44,15 @@ cenários para a criação desse artefato.
 <!-- link dos para ediar os casos https://app.creately.com/d/Qv2g5exxYgb/edit -->
 ### Caso de Uso - Geral
  <p align="center">
-  <img src="../assets/cenario000.png" alt="MedSus"/>
+  <img src="../assets/usecase000.png" alt="MedSus"/>
 </p>
 
-### UC01 - Título
+### UC01 - Pesquisa de Medicamento
 
-### UC01 - Título
+ <p align="center">
+  <img src="../assets/usecase001.png" alt="MedSus"/>
+</p>
+
 |UC01|Descrição|
 |       :-:                   |--|
 |Descrição        |O usuário pesquisa por um medicamento   |
