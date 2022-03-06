@@ -63,7 +63,29 @@ cenários para a criação desse artefato.
 |Pós-condições    |O aplicativo continua na tela de pesquisa ou entre na página de um medicamento se algum for selecionado|
 
 
+### UC02 - Visualizar Medicamento
 
+
+|UC01|Descrição|
+|       :-:                   |--|
+|Descrição        | O usuário escolhe as informações que deseja visualizar |
+|Ator             |todos|
+|Pré-condições    | Pesquisar o medicamento |
+|Fluxo Principal  | >> Entrar na página do medicamento <br> >>  escolher o tipo de informação ( para leigos ou para usuários avançados )|
+|Fluxo Alternativo| não se aplica |
+|Pós-condições    | O aplicativo continua na página de visualização do medicamento |
+
+
+### UC03 - Compartilhar Medicamento
+
+|UC01|Descrição|
+|       :-:                   |--|
+|Descrição        | O usuário compartilha um medicamento em formato PDF|
+|Ator             |todos|
+|Pré-condições    | Pesquisar o medicamento |
+|Fluxo Principal  | >> Entrar na página do medicamento <br> >> Escolher um aplicativo para exportar o PDF   |
+|Fluxo Alternativo| não se aplica |
+|Pós-condições    | O aplicativo continua na página de visualização do medicamento |
 
 ## Referências bibliográficas
 
