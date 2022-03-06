@@ -1,4 +1,4 @@
-# Cenários
+# Casos de uso
 
 ## 1. Introdução
 
