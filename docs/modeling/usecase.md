@@ -16,7 +16,7 @@ Além disso, durante a fase de projeto, são usados para descrever o sistema par
 ## 2. Metodologia
 <p style="text-indent: 20px; text-align: justify">
 Para a criação de desse artefato escolhemos a abordagem tradicional, ou seja, representar os casos de uso através um diagrama UML.
-A ferramenta escolhida para criar essa representação foi o creately. Além disso, o grupo se no resultado da elicitação e nos 
+A ferramenta escolhida para criar essa representação foi o creately. Além disso, o grupo teve como referência o resultado da elicitação e os 
 cenários para a criação desse artefato.  
 </p>
 
