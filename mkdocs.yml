@@ -21,6 +21,9 @@ theme:
 extra_css:
   - extra.css
 
+plugins:
+  - mkdocs-video
+
 # Content Menu
 nav:
   - Início: index.md
@@ -44,3 +47,5 @@ nav:
     - Especificação Suplementar: modeling/supplementary_specification.md
   - Apresentações:
     - Apresentação 1: presentations/presentation1.md
+    - Apresentação 2: presentations/presentation2.md
+    - Apresentação 3: presentations/presentation3.md
