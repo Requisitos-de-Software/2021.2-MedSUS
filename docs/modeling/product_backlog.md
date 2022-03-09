@@ -9,7 +9,7 @@ O Product Backlog, um dos pilares do desenvolvimento Scrum, é uma lista contend
 ## 2. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
-A metodologia utilizada foi partir dos [Léxicos](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/lexicos/) da [Introspecção](https://requisitos-de-software.github.io/2021.2-MedSUS/elicitation/introspective/) e dos [Cenários](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/scenarios/). Assim, a equipe tabelou os requisitos levantados em Tema, Épico e Feature. Além disso, na mesma tabela, adicionamos o nível de prioridade discutido no [MoscoW](https://requisitos-de-software.github.io/2021.2-MedSUS/priorization/moscow/).
+A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/lexicos/"> Léxicos</a> da <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/elicitation/introspective/"> Introspecção</a> e dos <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/scenarios/"> Cenários</a>. Assim, a equipe tabelou os requisitos levantados em Tema, Épico e Feature. Além disso, na mesma tabela, adicionamos o nível de prioridade discutido no <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/priorization/moscow/"> MoscoW</a>.
 </p>
 
 ## 3. Product Backlog
@@ -127,9 +127,10 @@ A metodologia utilizada foi partir dos [Léxicos](https://requisitos-de-software
 
 ## Histórico de versões
 
-| Versão |   Data   |                       Alteração                       | Responsável |  Revisão   |
-| :----: | :------: | :---------------------------------------------------: | :---------: | :--------: |
-| 0.0.1  | 08/03/22 |                        Criação                        |  Thalisson  | João Durso |
-| 0.0.2  | 09/03/22 |                   Adição do Backlog                   |  Thalisson  | João Durso |
-| 0.0.3  | 09/03/22 |                    Adição de links                    |  Thalisson  | João Durso |
-| 0.0.4  | 09/03/22 | Revisão do texto e adição de introdução e metodologia | João Durso  |    ---     |
+| Versão  |   Data   |                       Alteração                       | Responsável |  Revisão   |
+| :-----: | :------: | :---------------------------------------------------: | :---------: | :--------: |
+|  0.0.1  | 08/03/22 |                        Criação                        |  Thalisson  | João Durso |
+|  0.0.2  | 09/03/22 |                   Adição do Backlog                   |  Thalisson  | João Durso |
+|  0.0.3  | 09/03/22 |                    Adição de links                    |  Thalisson  | João Durso |
+|  0.0.4  | 09/03/22 | Revisão do texto e adição de introdução e metodologia | João Durso  |    ---     |
+| 0.0.4.1 | 09/03/22 |                   Revisão do texto                    | João Durso  |    ---     |
