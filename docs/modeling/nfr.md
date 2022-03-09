@@ -12,11 +12,29 @@
 
 </p>
 
-## 3. Artefato
+## 3. NFR
 
-<p>
+<!-- 
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <img>
+        </div>
+    </div>
+</div>
+-->
 
-</p>
+### 3.1. NFR GERAL
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <img src="NFR01.svg">
+        </div>
+    </div>
+</div>
+
+![NFR01]()
 
 ## 4. Conclusão
 
