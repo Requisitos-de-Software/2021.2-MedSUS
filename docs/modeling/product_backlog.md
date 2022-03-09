@@ -56,66 +56,66 @@
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="7">Filtro</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="2">Favoritar</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="../../elicitation/brainstorm#3requisitos-levantados">R03</a> <a href="../../elicitation/storytelling#41-requisitos">ST14</a></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de favoritar os medicamentos que eu mais utilizo para facilitar a minha busca por eles depois</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de favoritar os <a href="../../modeling/lexicos#medicamento">medicamentos</a> que eu mais utilizo para facilitar a minha busca por eles depois</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Should</td>
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="../../elicitation/introspective#4resultado">IR5</a> <a href="../../elicitation/storytelling#41-requisitos">ST15</a></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria que meus medicamentos favoritos fossem atrelados a uma conta para que eu consiga acessá-los em outros dispositivos.</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria que meus <a href="../../modeling/lexicos#medicamento">medicamentos</a> favoritos fossem atrelados a uma conta para que eu consiga acessá-los em outros dispositivos.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Won't</td>
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Filtrar por Palavras-chave</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="../../elicitation/brainstorm#3requisitos-levantados">R12</a> <a href="../../elicitation/introspective#4resultado">IR4</a></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de filtrar os medicamentos por suas palavras-chave para que eu consiga encontrar os medicamentos mesmo sem saber seu nome.</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de filtrar os <a href="../../modeling/lexicos#medicamento">medicamentos</a> por suas palavras-chave para que eu consiga encontrar os <a href="../../modeling/lexicos#medicamento">medicamentos</a> mesmo sem saber seu nome.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Could</td>
         </tr>
         <tr>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="4">Filtrar por Atributos do medicamento</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="4">Filtrar por Atributos do <a href="../../modeling/lexicos#medicamento">medicamento</a></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="../../elicitation/brainstorm#3requisitos-levantados">R04</a></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de filtrar os medicamentos por Grupo Anatômico Principal para facilitar a minha busca.</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de filtrar os <a href="../../modeling/lexicos#medicamento">medicamentos</a> por Grupo Anatômico Principal para facilitar a minha busca.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Could</td>
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="../../elicitation/brainstorm#3requisitos-levantados">R05</a></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de filtrar os medicamentos por anexo da Rename para facilitar a minha busca.</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de filtrar os <a href="../../modeling/lexicos#medicamento">medicamentos</a> por anexo da Rename para facilitar a minha busca.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Could</td>
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="../../elicitation/brainstorm#3requisitos-levantados">R06</a></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de filtrar os medicamentos por controle especial para facilitar a minha busca.</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de filtrar os <a href="../../modeling/lexicos#medicamento">medicamentos</a> por controle especial para facilitar a minha busca.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Could</td>
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="../../elicitation/brainstorm#3requisitos-levantados">R07</a></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de filtrar os medicamentos por medicamentos que possuam genérico ou não para facilitar a minha busca.</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de filtrar os <a href="../../modeling/lexicos#medicamento">medicamentos</a> por <a href="../../modeling/lexicos#medicamento">medicamentos</a> que possuam genérico ou não para facilitar a minha busca.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Could</td>
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="3">Notificação</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="3">Notificar usuários</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="3"><a href="../../elicitation/storytelling#41-requisitos">ST17</a></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de ser notificado sempre que um novo medicamento for adicionado ao aplicativo para que eu fique sempre atualizado para com as minhas opções</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de ser notificado sempre que um novo <a href="../../modeling/lexicos#medicamento">medicamento</a> for adicionado ao aplicativo para que eu fique sempre atualizado para com as minhas opções</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Won't</td>
         </tr>
         <tr>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de ser notificado sempre que um medicamento for removido do aplicativo para que eu fique sempre atualizado para com as minhas opções</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de ser notificado sempre que um <a href="../../modeling/lexicos#medicamento">medicamento</a> for removido do aplicativo para que eu fique sempre atualizado para com as minhas opções</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Won't</td>
         </tr>
         <tr>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de ser notificado sempre que um medicamento sofrer alguma alteração para que eu fique sempre atualizado.</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de ser notificado sempre que um <a href="../../modeling/lexicos#medicamento">medicamento</a> sofrer alguma alteração para que eu fique sempre atualizado.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Won't</td>
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="2">Compartilhamento</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="2">Compartilhar monografias</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="../../elicitation/storytelling#41-requisitos">ST08</a></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de compartilhar monografias de medicamentos com outras pessoas para promover o uso racional dos medicamentos.</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de compartilhar monografias de <a href="../../modeling/lexicos#medicamento">medicamentos</a> com outras pessoas para promover o uso racional dos <a href="../../modeling/lexicos#medicamento">medicamentos</a>.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Must</td>
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="../../elicitation/introspective#4resultado">IR10</a></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de compartilhar informações de medicamentos no formato PDF para outras pessoas tenham acesso a informação mesmo sem possuir o app instalado em seu dispositivo.</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de compartilhar informações de <a href="../../modeling/lexicos#medicamento">medicamentos</a> no formato <a href="../../modeling/lexicos#pdf">pdf</a> para outras pessoas tenham acesso a informação mesmo sem possuir o app instalado em seu dispositivo.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Must</td>
         </tr>
     </tbody>
