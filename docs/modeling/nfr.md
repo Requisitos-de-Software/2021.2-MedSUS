@@ -24,17 +24,25 @@
 </div>
 -->
 
-### 3.1. NFR GERAL
+### 3.1. [NFR01] NFR-Geral
 
 <div class="container">
     <div class="row">
         <div class="col">
-            <img src="NFR01.svg">
+            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/NFR01.svg">
         </div>
     </div>
 </div>
 
-![NFR01]()
+### 3.2. [NFR02] NFR-Usabilidade
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/NFR02.svg">
+        </div>
+    </div>
+</div>
 
 ## 4. Conclusão
 
