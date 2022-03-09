@@ -50,7 +50,7 @@
     </div>
 </div>
 
-### 3.2. [NFR03] NFR-Desempenho
+### 3.3. [NFR03] NFR-Desempenho
 
 <div class="container">
     <div class="row">
@@ -63,7 +63,7 @@
     </div>
 </div>
 
-### 3.2. [NFR04] NFR-Disponibilidade
+### 3.4. [NFR04] NFR-Disponibilidade
 
 <div class="container">
     <div class="row">
@@ -76,7 +76,7 @@
     </div>
 </div>
 
-### 3.2. [NFR05] NFR-Confiabilidade
+### 3.5. [NFR05] NFR-Confiabilidade
 
 <div class="container">
     <div class="row">
@@ -89,7 +89,7 @@
     </div>
 </div>
 
-### 3.2. [NFR06] NFR-Manutenibilidade
+### 3.6. [NFR06] NFR-Manutenibilidade
 
 <div class="container">
     <div class="row">
@@ -97,6 +97,19 @@
             <p>EXPLICAÇÃO</p>
             <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/NFR06.svg">
             <figcaption>Figura 6: Versão 1.0 - NFR para a análise de Confiabilidade do sistema. </figcaption>
+            <figcaption>Fonte: Autor.</figcaption>
+        </div>
+    </div>
+</div>
+
+### 3.7. [NFR07] NFR-Segurança
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <p>EXPLICAÇÃO</p>
+            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/NFR07.svg">
+            <figcaption>Figura 7: Versão 1.0 - NFR para a análise de Confiabilidade do sistema. </figcaption>
             <figcaption>Fonte: Autor.</figcaption>
         </div>
     </div>
