@@ -76,6 +76,19 @@
     </div>
 </div>
 
+### 3.2. [NFR05] NFR-Confiabilidade
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <p>EXPLICAÇÃO</p>
+            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/NFR05.svg">
+            <figcaption>Figura 5: Versão 1.0 - NFR para a análise de Confiabilidade do sistema. </figcaption>
+            <figcaption>Fonte: Autor.</figcaption>
+        </div>
+    </div>
+</div>
+
 ## 4. Conclusão
 
 <p>
