@@ -29,7 +29,10 @@
 <div class="container">
     <div class="row">
         <div class="col">
+            <p>EXPLICAÇÃO</p>
             <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/NFR01.svg">
+            <figcaption>Figura 1: Versão 1.0 - NFR para visão geral do sistema </figcaption>
+            <figcaption>Fonte: Autor</figcaption>
         </div>
     </div>
 </div>
@@ -39,7 +42,23 @@
 <div class="container">
     <div class="row">
         <div class="col">
+            <p>EXPLICAÇÃO</p>
             <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/NFR02.svg">
+            <figcaption>Figura 2: Versão 1.0 - NFR para a <a href="../supplementary_specification/">usabilidade</a> do sistema. </figcaption>
+            <figcaption>Fonte: Autor.</figcaption>
+        </div>
+    </div>
+</div>
+
+### 3.2. [NFR03] NFR-Desempenho
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <p>EXPLICAÇÃO</p>
+            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/NFR03.svg">
+            <figcaption>Figura 3: Versão 1.0 - NFR para a análise de <a href="../supplementary_specification/">Desempenho</a> do sistema. </figcaption>
+            <figcaption>Fonte: Autor.</figcaption>
         </div>
     </div>
 </div>
@@ -64,5 +83,8 @@ Versão|Data|Alteração|Responsável|Revisão|
     p {
         text-indent: 20px; 
         text-align: justify;
+    }
+    figcaption {
+        text-align: center;
     }
 </style>
