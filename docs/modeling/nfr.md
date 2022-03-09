@@ -69,7 +69,7 @@
     <div class="row">
         <div class="col">
             <p>EXPLICAÇÃO</p>
-            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/28-modelagem-nfr-framework/docs/assets/nfr/NFR04.svg">
+            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/NFR04.svg">
             <figcaption>Figura 4: Versão 1.0 - NFR para a análise de <a href="../supplementary_specification/">Disponibilidade</a> do sistema. </figcaption>
             <figcaption>Fonte: Autor.</figcaption>
         </div>
@@ -84,6 +84,19 @@
             <p>EXPLICAÇÃO</p>
             <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/NFR05.svg">
             <figcaption>Figura 5: Versão 1.0 - NFR para a análise de Confiabilidade do sistema. </figcaption>
+            <figcaption>Fonte: Autor.</figcaption>
+        </div>
+    </div>
+</div>
+
+### 3.2. [NFR06] NFR-Manutenibilidade
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <p>EXPLICAÇÃO</p>
+            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/NFR06.svg">
+            <figcaption>Figura 6: Versão 1.0 - NFR para a análise de Confiabilidade do sistema. </figcaption>
             <figcaption>Fonte: Autor.</figcaption>
         </div>
     </div>
