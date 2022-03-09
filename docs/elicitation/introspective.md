@@ -34,7 +34,7 @@
    atendido ficarei mais motivado não só para usar o aplicativo, como também para indica-lo.
    Para mim as principais funcionalidades são pesquisar medicamentos pelo nome, compartilhar informações por PDF, apresentar as informações de forma legível.
    
- ## 4.Resultado
+## 4.Resultado
  
  | Número          | Requisitos     | 
  |:-----------------:|:-------------|
@@ -52,10 +52,11 @@
   
   Legenda: Introspection Requirement (IR)
   
-  ## Referências
+## Referências
 > Carlos Eduardo Vazquez, Guilherme Siqueira Simões, Engenharia de requisitos: software orientado ao negócio, 1ª ed., Brasport, 2016.
 
 ## Histórico de versões
 Versão|Data|Alteração|Responsável|Revisão|
 :-:|:-:|:-:|:-:|:-:|
 0.0.1|20/02/22|Criação do documento|Fernando | -- |
+0.0.2|09/03/22|Correção de indentação|Thalisson| -- |
