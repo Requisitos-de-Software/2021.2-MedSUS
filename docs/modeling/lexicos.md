@@ -16,7 +16,7 @@
 ## 2. Metodologia
 
 <p class="paragraph">
-    Através da utilização do aplicativo e da concsulta a fontes do <a href="#sus">SUS</a> e da Anvisa, levantamos significados dos vocábulos e o papel dele dentro do sistema. Os Léxicos podem ser objetos, verbos(ações) ou estados, para todos eles temos as noções e seus impactos no domínio. Podemos resumir suas descrições da seguinte maneira:
+    Através da utilização do aplicativo e da consulta a fontes do <a href="#sus">SUS</a> e da Anvisa, levantamos significados dos vocábulos e o papel dele dentro do sistema. Os Léxicos podem ser objetos, verbos(ações) ou estados, para todos eles temos as noções e seus impactos no domínio. Podemos resumir suas descrições da seguinte maneira:
 </p>
 
 |  Tipo |Noção|Impacto|

@@ -3,13 +3,13 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-
+O Product Backlog, um dos pilares do desenvolvimento Scrum, é uma lista contendo todas as funcionalidades desejadas para um produto. O conteúdo desta lista é definido pelo Product Owner, o responsável por gerenciar e definir esses itens. Ademais, o Product Backlog não precisa estar completo no início de um projeto, isto é, pode-se começar com tudo aquilo que é mais óbvio em um primeiro momento e com o tempo alterá-lo, à medida que se aprende mais sobre o produto e seus usuários.
 </p>
 
 ## 2. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
-
+A metodologia utilizada foi partir dos [Léxicos](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/lexicos/) da [Introspecção](https://requisitos-de-software.github.io/2021.2-MedSUS/elicitation/introspective/) e dos [Cenários](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/scenarios/). Assim, a equipe tabelou os requisitos levantados em Tema, Épico e Feature. Além disso, na mesma tabela, adicionamos o nível de prioridade discutido no [MoscoW](https://requisitos-de-software.github.io/2021.2-MedSUS/priorization/moscow/).
 </p>
 
 ## 3. Product Backlog
@@ -121,15 +121,15 @@
     </tbody>
 </table>
 
-
 ## Referências bibliográficas
 
-> https://aprender3.unb.br/pluginfile.php/1668185/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf
+> SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 15): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 46 slides. color. Disponível em: https://aprender3.unb.br/pluginfile.php/1668185/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf. Acesso em: 08 mar. 2022.
 
 ## Histórico de versões
 
-Versão|Data|Alteração|Responsável|Revisão|
-:---:|:---:|:---:|:---:|:---:|
-0.0.1|08/03/22|Criação|Thalisson|---|
-0.0.2|09/03/22|Adição do Backlog|Thalisson|---|
-0.0.3|09/03/22|Adição de links|Thalisson|---|
+| Versão |   Data   |                       Alteração                       | Responsável |  Revisão   |
+| :----: | :------: | :---------------------------------------------------: | :---------: | :--------: |
+| 0.0.1  | 08/03/22 |                        Criação                        |  Thalisson  | João Durso |
+| 0.0.2  | 09/03/22 |                   Adição do Backlog                   |  Thalisson  | João Durso |
+| 0.0.3  | 09/03/22 |                    Adição de links                    |  Thalisson  | João Durso |
+| 0.0.4  | 09/03/22 | Revisão do texto e adição de introdução e metodologia | João Durso  |    ---     |
