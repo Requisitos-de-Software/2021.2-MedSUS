@@ -358,7 +358,7 @@
             </div>
         </div>
     </div>
-
+</div>
 
 <br>
 
@@ -435,7 +435,7 @@
             </div>
         </div>
     </div>
-
+</div>
 <br>
 
 # Letra P
@@ -513,6 +513,7 @@
                 </div>
             </div>
         </div>
+    </div>
 </div>
 
 <br>
@@ -541,6 +542,7 @@
                 </div>
             </div>
         </div>
+    </div>
 </div>
 
 <br>
@@ -571,6 +573,7 @@
                 </div>
             </div>
         </div>
+    </div>
 </div>
 
 <br>
@@ -643,3 +646,4 @@ Versão|Data|Alteração|Responsável|Revisão|
 0.0.3|05/03/22|Finalização dos Léxicos|Adrian|Fernando|
 0.0.4|06/03/22|Introdução e metodologia|Adrian|Fernando|
 0.0.5|06/03/22|Referências|Adrian|Fernando|
+0.0.6|09/03/22|Correção das tags de fechamento|Thalisson|---|
