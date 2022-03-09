@@ -108,8 +108,21 @@
     <div class="row">
         <div class="col">
             <p>EXPLICAÇÃO</p>
-            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/NFR07.svg">
+            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/28-modelagem-nfr-framework/docs/assets/nfr/NFR07.svg">
             <figcaption>Figura 7: Versão 1.0 - NFR para a análise de Confiabilidade do sistema. </figcaption>
+            <figcaption>Fonte: Autor.</figcaption>
+        </div>
+    </div>
+</div>
+
+### 3.8. [NFR08] NFR-Segurança
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <p>EXPLICAÇÃO</p>
+            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/28-modelagem-nfr-framework/docs/assets/nfr/NFR08.svg">
+            <figcaption>Figura 8: Versão 1.0 - NFR para a análise de Confiabilidade do sistema. </figcaption>
             <figcaption>Fonte: Autor.</figcaption>
         </div>
     </div>
