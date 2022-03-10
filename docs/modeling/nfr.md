@@ -137,21 +137,20 @@ A partir dos <a href="../priorization/moscow">requisitos já levantados</a> atra
     </div>
 </div>
 
-## 4. Conclusão
-
-<p>
-
-</p>
-
 ## Referências bibliográficas
 
-> Silva, F. D.; Souza, M.; (2000) Nome do Livro. Editora. Edição
+>  NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados, SILVA, Antônio Reinaldo, Universidade Federal de Pernambuco , Brazil, 2019. CD-ROM.
 
 ## Histórico de versões
 
 Versão|Data|Alteração|Responsável|Revisão|
 :-:|:-:|:-:|:-:|:-:|
-0.0.1|29/01/22|Criação|Adrian|Fernando|
+0.0.1|07/03/22|Criação|Adrian|Fernando|
+0.0.2|08/03/22|NFR 1, 2, 3, 4|Adrian|Fernando|
+0.0.3|08/03/22|NFR 5, 6, 7, 8|Adrian|Fernando|
+0.0.4|09/03/22|Inserção da Metodologia|Adrian|Fernando|
+0.0.5|09/03/22||Adrian|Fernando|
+
 
 <style>
     p {
