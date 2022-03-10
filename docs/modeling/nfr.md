@@ -26,7 +26,24 @@ A partir dos <a href="../priorization/moscow">requisitos já levantados</a> atra
 
 | Símbolo  | Legenda  |
 |   ---    |    ---   |
-|||
+|<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/and.svg">|Caso os softgoals descendentes forem satisfeitos os ascendentes também serão
+|<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/or.svg">|Caso algum softgoal descendente for satisfeito, o ascendente também será|
+|<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/make.svg">|Contribuição suficientemente positiva entre um softgoal descendente e um 
+ascendente que é concebida no nível mais alto de satisfação|
+|<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/break.svg">|Contribuição suficientemente negativa entre um softgoal descendente e um 
+ascendente que é concebida no nível mais alto de negação|
+|<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/help.svg">|Contribuição parcialmente positiva entre um softgoal descendente e um 
+ascendente|
+|<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/hurt.svg">|Contribuição parcialmente negativa entre um softgoal descendente e um 
+ascendente|
+|<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/unknow.svg">|Contribuição desconhecida entre um softgoal descendente e um 
+ascendente|
+|<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/equals.svg">|O softgoal descendente será satisfeito, apenas se o softgoal ascendente for 
+satisfeito ou o softgoal descendente será negado apenas se o softgoal ascendente for 
+negado|
+|<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/some.svg">|Utilizado quando o sinal da contribuição é conhecido, mas a extensão não é. Em caso 
+de dúvidas de se utilizar o HELP ou MAKE por exemplo deve-se utilizar SOME+. O mesmo 
+vale para o HURT ou BREAK, porém nesse caso se usa o SOME-|
 
 
 ## 3. NFR
@@ -206,6 +223,7 @@ Versão|Data|Alteração|Responsável|Revisão|
 0.0.3|08/03/22|NFR 5, 6, 7, 8|Adrian|Fernando|
 0.0.4|09/03/22|Inserção da Metodologia|Adrian|Fernando|
 0.0.5|09/03/22|Adição dos links ANFR|Adrian e Thalisson|Fernando|
+0.0.5|09/03/22|Adição legenda|Adrian e Thalisson|Fernando|
 
 
 <style>
