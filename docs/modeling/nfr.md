@@ -26,7 +26,8 @@ A partir dos <a href="../priorization/moscow">requisitos já levantados</a> atra
 
 | Símbolo  | Legenda  |
 |   ---    |    ---   |
-|<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/and.svg">|Caso os softgoals descendentes forem satisfeitos os ascendentes também serão
+|||
+<!-- |<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/and.svg">|Caso os softgoals descendentes forem satisfeitos os ascendentes também serão
 |<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/or.svg">|Caso algum softgoal descendente for satisfeito, o ascendente também será|
 |<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/make.svg">|Contribuição suficientemente positiva entre um softgoal descendente e um 
 ascendente que é concebida no nível mais alto de satisfação|
@@ -43,7 +44,7 @@ satisfeito ou o softgoal descendente será negado apenas se o softgoal ascendent
 negado|
 |<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/some.svg">|Utilizado quando o sinal da contribuição é conhecido, mas a extensão não é. Em caso 
 de dúvidas de se utilizar o HELP ou MAKE por exemplo deve-se utilizar SOME+. O mesmo 
-vale para o HURT ou BREAK, porém nesse caso se usa o SOME-|
+vale para o HURT ou BREAK, porém nesse caso se usa o SOME-| -->
 
 
 ## 3. NFR
