@@ -51,6 +51,13 @@ A partir dos <a href="../priorization/moscow">requisitos já levantados</a> atra
             <figcaption>Fonte: Autor</figcaption>
         </div>
     </div>
+    <div class="row">
+        <div class="col">
+            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/ANFR01.svg">
+            <figcaption>Figura 1: Versão 1.0 - ANFR para visão geral do sistema </figcaption>
+            <figcaption>Fonte: Autor</figcaption>
+        </div>
+    </div>
 </div>
 
 ### 3.2. [NFR02] NFR-Usabilidade
@@ -60,6 +67,13 @@ A partir dos <a href="../priorization/moscow">requisitos já levantados</a> atra
         <div class="col">
             <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/NFR02.svg">
             <figcaption>Figura 2: Versão 1.0 - NFR para a <a href="../supplementary_specification/">Usabilidade</a> do sistema. </figcaption>
+            <figcaption>Fonte: Autor.</figcaption>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/ANFR02.svg">
+            <figcaption>Figura 2: Versão 1.0 - ANFR para a <a href="../supplementary_specification/">Usabilidade</a> do sistema. </figcaption>
             <figcaption>Fonte: Autor.</figcaption>
         </div>
     </div>
@@ -75,6 +89,13 @@ A partir dos <a href="../priorization/moscow">requisitos já levantados</a> atra
             <figcaption>Fonte: Autor.</figcaption>
         </div>
     </div>
+    <div class="row">
+        <div class="col">
+            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/ANFR03.svg">
+            <figcaption>Figura 3: Versão 1.0 - ANFR para a análise de <a href="../supplementary_specification/">Desempenho</a> do sistema. </figcaption>
+            <figcaption>Fonte: Autor.</figcaption>
+        </div>
+    </div>
 </div>
 
 ### 3.4. [NFR04] NFR-Disponibilidade
@@ -84,6 +105,13 @@ A partir dos <a href="../priorization/moscow">requisitos já levantados</a> atra
         <div class="col">
             <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/NFR04.svg">
             <figcaption>Figura 4: Versão 1.0 - NFR para a análise de <a href="../supplementary_specification/">Disponibilidade</a> do sistema. </figcaption>
+            <figcaption>Fonte: Autor.</figcaption>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/ANFR04.svg">
+            <figcaption>Figura 4: Versão 1.0 - ANFR para a análise de <a href="../supplementary_specification/">Disponibilidade</a> do sistema. </figcaption>
             <figcaption>Fonte: Autor.</figcaption>
         </div>
     </div>
@@ -99,6 +127,13 @@ A partir dos <a href="../priorization/moscow">requisitos já levantados</a> atra
             <figcaption>Fonte: Autor.</figcaption>
         </div>
     </div>
+    <div class="row">
+        <div class="col">
+            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/ANFR05.svg">
+            <figcaption>Figura 5: Versão 1.0 - ANFR para a análise de Confiabilidade do sistema. </figcaption>
+            <figcaption>Fonte: Autor.</figcaption>
+        </div>
+    </div>
 </div>
 
 ### 3.6. [NFR06] NFR-Manutenibilidade
@@ -108,6 +143,13 @@ A partir dos <a href="../priorization/moscow">requisitos já levantados</a> atra
         <div class="col">
             <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/NFR06.svg">
             <figcaption>Figura 6: Versão 1.0 - NFR para a análise de Manutenibilidade do sistema. </figcaption>
+            <figcaption>Fonte: Autor.</figcaption>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/ANFR06.svg">
+            <figcaption>Figura 6: Versão 1.0 - ANFR para a análise de Manutenibilidade do sistema. </figcaption>
             <figcaption>Fonte: Autor.</figcaption>
         </div>
     </div>
@@ -123,6 +165,13 @@ A partir dos <a href="../priorization/moscow">requisitos já levantados</a> atra
             <figcaption>Fonte: Autor.</figcaption>
         </div>
     </div>
+    <div class="row">
+        <div class="col">
+            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/ANFR07.svg">
+            <figcaption>Figura 7: Versão 1.0 - ANFR para a análise de Segurança do sistema. </figcaption>
+            <figcaption>Fonte: Autor.</figcaption>
+        </div>
+    </div>
 </div>
 
 ### 3.8. [NFR08] NFR-Portabilidade
@@ -132,6 +181,13 @@ A partir dos <a href="../priorization/moscow">requisitos já levantados</a> atra
         <div class="col">
             <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/NFR08.svg">
             <figcaption>Figura 8: Versão 1.0 - NFR para a análise de Portabilidade do sistema. </figcaption>
+            <figcaption>Fonte: Autor.</figcaption>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/ANFR08.svg">
+            <figcaption>Figura 8: Versão 1.0 - ANFR para a análise de Portabilidade do sistema. </figcaption>
             <figcaption>Fonte: Autor.</figcaption>
         </div>
     </div>
@@ -149,7 +205,7 @@ Versão|Data|Alteração|Responsável|Revisão|
 0.0.2|08/03/22|NFR 1, 2, 3, 4|Adrian|Fernando|
 0.0.3|08/03/22|NFR 5, 6, 7, 8|Adrian|Fernando|
 0.0.4|09/03/22|Inserção da Metodologia|Adrian|Fernando|
-0.0.5|09/03/22||Adrian|Fernando|
+0.0.5|09/03/22|Adição dos links ANFR|Adrian e Thalisson|Fernando|
 
 
 <style>
