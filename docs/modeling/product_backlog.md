@@ -9,7 +9,7 @@ O Product Backlog, um dos pilares do desenvolvimento Scrum, é uma lista contend
 ## 2. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
-A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/lexicos/"> Léxicos</a>, da <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/elicitation/introspective/"> Introspecção</a> e dos <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/scenarios/"> Cenários</a>. Assim, a equipe tabelou os requisitos levantados em Tema, Épico e Feature. Além disso, na mesma tabela, adicionamos o nível de prioridade discutido no <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/priorization/moscow/"> MoscoW</a>.
+A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/lexicos/">Léxicos</a>, da <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/elicitation/introspective/"> Introspecção</a> e dos <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/scenarios/"> Cenários</a>. Assim, a equipe tabelou os requisitos levantados em Tema, Épico e Feature. Além disso, na mesma tabela, adicionamos o nível de prioridade discutido no <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/priorization/moscow/"> MoscoW</a>.
 </p>
 
 ## 3. Product Backlog

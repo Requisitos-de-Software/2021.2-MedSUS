@@ -46,6 +46,7 @@ nav:
     - Cenários: modeling/scenarios.md
     - Especificação Suplementar: modeling/supplementary_specification.md
     - Backlog: modeling/product_backlog.md
+    - História de usuário: modeling/userstory.md
   - Apresentações:
     - Apresentação 1: presentations/presentation1.md
     - Apresentação 2: presentations/presentation2.md
