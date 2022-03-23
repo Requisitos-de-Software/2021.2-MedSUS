@@ -21,11 +21,11 @@ Existem várias estratégias de verificação de software. Neste projeto, utiliz
 <div class="container">
     <div class="row">
         <div class="col">
-            <div style = "text-align: center;">
+            <p align = "center">
                 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/inspector_image.jpg">
                 <figcaption>Figura 1: Inspetor de Verificação do MedSUS (Ilustrativo)</figcaption>            
                 <figcaption>Fonte: iStock</figcaption>
-            </div>
+            </p>
         </div>
     </div>
 </div>
