@@ -1,4 +1,4 @@
-# Inspeção (Casos de Uso)
+# Inspeção dos Caso de Uso
 
 <div class="container">
     <div class="row">
@@ -12,7 +12,7 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-Para a inspeção dos casos de uso, o autor realiza a visualização do artefato para saber qual a funcionalidade que está sendo desenvolvida, podendo visualizar também de qual funcionalidade a mesma possui dependência e as funcionalidades que dependem da funcionalidade em referência.
+A inspeção dos casos de uso possibilita conhecer aspectos relacionados a informações, abrangência, completude e qualidade dos objetos analisados. Através de gráficos e checklist, é possível descobrir as fraquezas existentes no trabalho e facilita a melhoria da qualidade do artefato em questão.
 </p>
 
 ## 2. Metodologia
@@ -72,13 +72,13 @@ Para a detecção de defeitos, elaborou-se um checklist, utilizando o Google Pla
 ### 3.2. Correção de Defeitos
 
 <p style="text-indent: 20px; text-align: justify">
-O autor envolvido nos Casos de Uso são responsáveis pela remoção de todos os problemas detectados nos Casos de Uso. O objetivo desta fase é garantir que os defeitos de requisitos identificados tenham sido eliminados.
+Os autores envolvidos nos Casos de Uso são responsáveis pela remoção de todos os problemas detectados nos Casos de Uso. O objetivo desta fase é garantir que os defeitos de requisitos identificados tenham sido eliminados.
 </p>
 
-### 3.2. Acompanhamento
+### 3.3. Acompanhamento
 
 <p style="text-indent: 20px; text-align: justify">
-A fim de garantir que as modificações necessárias nos Casos de Uso foram feitas em conformidade, o moderador e o autor são responsáveis por isso. O objetivo do processo de acompanhamento é garantir que o(s) autor(es) dos Casos de Uso tenha(m) retificado todos os requisitos declarados incompletos e/ou inconsistentes ou os defeitos detectados.
+A fim de garantir que as modificações necessárias nos Casos de Uso foram feitas em conformidade, o autor e o inspetor são responsáveis por isso. O objetivo do processo de acompanhamento é garantir que o(s) autor(es) dos Casos de Uso tenha(m) retificado todos os requisitos declarados incompletos e/ou inconsistentes ou os defeitos detectados.
 
 Diagramas de casos de uso atualizados após a avaliação:
 
