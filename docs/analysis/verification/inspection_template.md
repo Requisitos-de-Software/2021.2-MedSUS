@@ -22,13 +22,13 @@
 
 </p>
 
-## 4. Correções
+## 4. Correções 
 
 <p style="text-indent: 20px; text-align: justify">
 
 </p>
 
-## 5. Correções
+## 5. Conclusão
 
 ## Referências bibliográficas
 
