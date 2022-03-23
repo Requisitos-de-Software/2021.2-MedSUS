@@ -67,9 +67,9 @@ A fim de garantir que as modificações necessárias no Rich Picture foram feita
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 23): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 52 slides. color. Disponível em: https://aprender3.unb.br/pluginfile.php/1668221/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 22 mar. 2022.
 
-> MIGUEL, Tiago; MEDEIROS, Lucas. Inspeção Casos de Uso. GitHub, 30 out. 2019. Disponível em: https://requisitos-de-software.github.io/2019.2-Rico/An%C3%A1lise/Verifica%C3%A7%C3%A3o/Casos%20de%20Uso/#historico-de-revisoes. Acesso em: 23 mar. 2022
+> MIGUEL, Tiago; MEDEIROS, Lucas. Inspeção Rich Picture. GitHub, 30 out. 2019. Disponível em: https://requisitos-de-software.github.io/2019.2-Rico/An%C3%A1lise/Verifica%C3%A7%C3%A3o/Rich%20Picture/. Acesso em: 23 mar. 2022
 
-> REGIS, Welison; SANTOS, Lieverton. Casos de Uso. GitHub, 09 jun. 2019. Disponível em: https://welisonr.github.io/2019.1-Requisitos-Brainly/analise_casos_de_uso/#:~:text=A%20inspe%C3%A7%C3%A3o%20dos%20casos%20de,e%20qualidade%20dos%20objetos%20analisados.. Acesso em: 23 mar. 2022
+> REGIS, Welison; SANTOS, Lieverton. Casos de Uso. GitHub, 09 jun. 2019. Disponível em: https://welisonr.github.io/2019.1-Requisitos-Brainly/analise_casos_de_uso/#:~:text=A%20inspe%C3%A7%C3%A3o%20dos%20casos%20de,e%20qualidade%20dos%20objetos%20analisados. Acesso em: 23 mar. 2022
 
 ## Histórico de versões
 
