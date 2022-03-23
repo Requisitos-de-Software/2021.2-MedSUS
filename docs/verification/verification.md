@@ -18,13 +18,14 @@ Para desenvolver a verificação, iremos analisar os artefatos e detectar defeit
 Existem várias estratégias de verificação de software. Neste projeto, utilizar-se-á as inspeções. O objetivo básico das inspeções é verificar se o modelo está de acordo com a sua notação e o que se espera dele. Além disso, as inspeções podem ser aplicadas na definição de requisitos para a verificação em documentos de requisitos, quer eles sejam produzidos por clientes, e sem uma estrutura própria, ou produzidos por Engenheiros de Software/Requisitos, sendo, nesse caso, uma lista de requisitos. Trata-se de um método gerencial de reuniões, o qual possui como objetivo descobrir defeitos em documentos. Atráves de inspeções, é possível descobrir defeitos antes do sistema ser testado.
 </p>
 
-
 <div class="container">
     <div class="row">
         <div class="col">
-            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/inspector_image.jpg">
-            <figcaption>Figura 1: Inspetor de Verificação do MedSUS (Ilustrativo)</figcaption>            
-            <figcaption>Fonte: iStock</figcaption>
+            <div class = "center">
+                <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/inspector_image.jpg">
+                <figcaption>Figura 1: Inspetor de Verificação do MedSUS (Ilustrativo)</figcaption>            
+                <figcaption>Fonte: iStock</figcaption>
+            </div>
         </div>
     </div>
 </div>
