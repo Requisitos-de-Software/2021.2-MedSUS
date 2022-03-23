@@ -48,6 +48,10 @@ nav:
     - Backlog: modeling/product_backlog.md
     - História de usuário: modeling/userstory.md
     - NFR: modeling/nfr.md
+  - Análise:
+    - Verificação:
+      - Cenários: verification/inspection_scenarios.md
+      - NFR: verification/inspection_nfr.md
   - Apresentações:
     - Apresentação 1: presentations/presentation1.md
     - Apresentação 2: presentations/presentation2.md
