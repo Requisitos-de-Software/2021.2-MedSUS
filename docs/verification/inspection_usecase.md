@@ -33,9 +33,11 @@ Para a detecção de defeitos, elaborou-se um checklist, utilizando o Google Pla
 <div class="container">
     <div class="row">
         <div class="col">
-            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/verification/usecase/checklist.png">
-            <figcaption>Figura 1: Versão 1.0 - Checklist</figcaption>
-            <figcaption>Fonte: Autor</figcaption>
+            <p align = "center">
+                <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/verification/usecase/checklist.png">
+                <figcaption>Figura 1: Versão 1.0 - Checklist</figcaption>
+                <figcaption>Fonte: Autor</figcaption>
+            </p>
         </div>
     </div>
 </div>
@@ -43,9 +45,11 @@ Para a detecção de defeitos, elaborou-se um checklist, utilizando o Google Pla
 <div class="container">
     <div class="row">
         <div class="col">
-            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/verification/usecase/grafico_quantidade.png">
-            <figcaption>Figura 2: Versão 1.0 - Ocorrência de Erros (Por Quantidade)</figcaption>
-            <figcaption>Fonte: Autor</figcaption>
+            <p align = "center">
+                <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/verification/usecase/grafico_quantidade.png">
+                <figcaption>Figura 2: Versão 1.0 - Ocorrência de Erros (Por Quantidade)</figcaption>
+                <figcaption>Fonte: Autor</figcaption>
+            </p>
         </div>
     </div>
 </div>
@@ -53,9 +57,11 @@ Para a detecção de defeitos, elaborou-se um checklist, utilizando o Google Pla
 <div class="container">
     <div class="row">
         <div class="col">
-            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/verification/usecase/grafico_item.png">
-            <figcaption>Figura 3: Versão 1.0 - Ocorrência de Erros (Por Item)</figcaption>
-            <figcaption>Fonte: Autor</figcaption>
+            <p align = "center">
+                <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/verification/usecase/grafico_item.png">
+                <figcaption>Figura 3: Versão 1.0 - Ocorrência de Erros (Por Item)</figcaption>
+                <figcaption>Fonte: Autor</figcaption>
+            </p>
         </div>
     </div>
 </div>
@@ -63,9 +69,11 @@ Para a detecção de defeitos, elaborou-se um checklist, utilizando o Google Pla
 <div class="container">
     <div class="row">
         <div class="col">
-            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/verification/usecase/histograma.png">
-            <figcaption>Figura 4: Versão 1.0 - Histograma de Erros</figcaption>
-            <figcaption>Fonte: Autor</figcaption>
+            <p align = "center">
+                <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/verification/usecase/histograma.png">
+                <figcaption>Figura 4: Versão 1.0 - Histograma de Erros</figcaption>
+                <figcaption>Fonte: Autor</figcaption>
+            </p>
         </div>
     </div>
 </div>
