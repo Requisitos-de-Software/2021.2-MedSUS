@@ -22,13 +22,24 @@
 
 </p>
 
-## 4. Correções 
+### 3.1 Detecção de Defeitos 
 
 <p style="text-indent: 20px; text-align: justify">
 
 </p>
 
-## 5. Conclusão
+### 3.2 Correção de Defeitos
+
+<p style="text-indent: 20px; text-align: justify">
+
+</p>
+
+### 3.3 Acompanhamento
+
+<p style="text-indent: 20px; text-align: justify">
+
+</p>
+
 
 ## Referências bibliográficas
 
