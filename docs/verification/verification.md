@@ -39,4 +39,4 @@ Existem várias estratégias de verificação de software. Neste projeto, utiliz
 | Versão |   Data   |                  Alteração                   | Responsável |   Revisão    |
 | :----: | :------: | :------------------------------------------: | :---------: | :----------: |
 | 0.0.1  | 22/03/22 |                   Criação                    | João Durso  | Gabriel Luiz |
-| 0.0.2  | 22/03/22 | Adição de introdução, metodologia e artefato | João Durso  | Gabriel Luiz |
+| 0.0.2  | 22/03/22 | Adição de Introdução, Metodologia e Artefato | João Durso  | Gabriel Luiz |

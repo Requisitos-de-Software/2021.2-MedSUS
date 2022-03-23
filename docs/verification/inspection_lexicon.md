@@ -85,4 +85,4 @@ A fim de garantir que as modificações necessárias nos Léxicos foram feitas e
 | Versão |   Data   |                         Alteração                         | Responsável |   Revisão    |
 | :----: | :------: | :-------------------------------------------------------: | :---------: | :----------: |
 | 0.0.1  | 22/03/22 |                          Criação                          | João Durso  | Gabriel Luiz |
-| 0.0.1  | 23/03/22 | Adição de Introdução, Metodologia, Artefato e Referências | João Durso  | Gabriel Luiz |
+| 0.0.2  | 23/03/22 | Adição de Introdução, Metodologia, Artefato e Referências | João Durso  | Gabriel Luiz |
