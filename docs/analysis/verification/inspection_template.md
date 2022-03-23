@@ -22,19 +22,19 @@
 
 </p>
 
-### 3.1 Detecção de Defeitos 
+### 3.1. Detecção de Defeitos 
 
 <p style="text-indent: 20px; text-align: justify">
 
 </p>
 
-### 3.2 Correção de Defeitos
+### 3.2. Correção de Defeitos
 
 <p style="text-indent: 20px; text-align: justify">
 
 </p>
 
-### 3.3 Acompanhamento
+### 3.3. Acompanhamento
 
 <p style="text-indent: 20px; text-align: justify">
 
