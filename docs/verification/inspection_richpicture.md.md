@@ -1,4 +1,13 @@
-# Inspeção (Cenários)
+# Inspeção (Rich Picture)
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/inspector_image">
+            <figcaption>Fonte: iStock</figcaption>
+        </div>
+    </div>
+</div>
 
 ## 1. Introdução
 
@@ -12,7 +21,7 @@
 
 </p>
 
-## 3. Inspeção (Cenários)
+## 3. Inspeção (Rich Picture)
 
 <p style="text-indent: 20px; text-align: justify">
 

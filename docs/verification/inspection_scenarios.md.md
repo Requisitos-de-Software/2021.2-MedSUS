@@ -1,4 +1,13 @@
-# Inspeção (Casos de Uso)
+# Inspeção (Cenários)
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/inspector_image">
+            <figcaption>Fonte: iStock</figcaption>
+        </div>
+    </div>
+</div>
 
 ## 1. Introdução
 
@@ -12,7 +21,7 @@
 
 </p>
 
-## 3. Inspeção (Casos de Uso)
+## 3. Inspeção (Cenários)
 
 <p style="text-indent: 20px; text-align: justify">
 
@@ -27,4 +36,3 @@
 | Versão |   Data   | Alteração | Responsável |   Revisão    |
 | :----: | :------: | :-------: | :---------: | :----------: |
 | 0.0.1  | 22/03/22 |  Criação  | João Durso  | Gabriel Luiz |
-
