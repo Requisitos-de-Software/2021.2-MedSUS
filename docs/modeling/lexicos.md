@@ -422,7 +422,7 @@
                 <div class="card-body p-2">
                     <h5 class="card-text">Noções</h5>
                     <ul class="m-0 list-group">
-                        <li class="m-0 list-group-item">Atualização da bula pelos órgão públicos responsáveis</li>
+                        <li class="m-0 list-group-item">Atualização da bula pelos órgãos públicos responsáveis</li>
                     </ul>
                 </div>
                 <div class="card-footer p-2">
