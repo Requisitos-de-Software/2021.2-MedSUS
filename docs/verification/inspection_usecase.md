@@ -32,7 +32,38 @@ Para a detecção de defeitos, elaborou-se um checklist, utilizando o Google Pla
 <div class="container">
     <div class="row">
         <div class="col">
-            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/usecase_errors_verification">
+            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/verification/usecase/checklist.png">
+            <figcaption>Figura 1: Versão 1.0 - Checklist</figcaption>
+            <figcaption>Fonte: Autor</figcaption>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/verification/usecase/grafico_quantidade.png">
+            <figcaption>Figura 2: Versão 1.0 - Ocorrência de Erros (Por Quantidade)</figcaption>
+            <figcaption>Fonte: Autor</figcaption>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/verification/usecase/grafico_item.png">
+            <figcaption>Figura 3: Versão 1.0 - Ocorrência de Erros (Por Item)</figcaption>
+            <figcaption>Fonte: Autor</figcaption>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/verification/usecase/histograma.png">
+            <figcaption>Figura 4: Versão 1.0 - Histograma de Erros</figcaption>
             <figcaption>Fonte: Autor</figcaption>
         </div>
     </div>
@@ -51,12 +82,12 @@ A fim de garantir que as modificações necessárias nos Casos de Uso foram feit
 
 Diagramas de casos de uso atualizados após a avaliação:
 
-[] - UC (Geral)
-[] - UC01
-[] - UC02
-[] - UC03
-
 </p>
+
+- [ ] - UC (Geral)
+- [ ] - UC01
+- [ ] - UC02
+- [ ] - UC03
 
 ## Referências bibliográficas
 
@@ -70,3 +101,4 @@ Diagramas de casos de uso atualizados após a avaliação:
 | :----: | :------: | :------------------------------------------: | :---------: | :----------: |
 | 0.0.1  | 22/03/22 |                   Criação                    | João Durso  | Gabriel Luiz |
 | 0.0.2  | 23/03/22 | Adição de Introdução, Metodologia e Artefato | João Durso  | Gabriel Luiz |
+| 0.0.3  | 23/03/22 |        Adição de Checklist e Gráficos        | João Durso  | Gabriel Luiz |
