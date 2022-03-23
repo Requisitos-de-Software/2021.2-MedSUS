@@ -65,7 +65,7 @@ vale para o HURT ou BREAK, porém nesse caso se usa o SOME-| -->
     <div class="row">
         <div class="col">
             <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/NFR01.svg">
-            <figcaption>Figura 1: Versão 1.0 - NFR para visão geral do sistema </figcaption>
+            <figcaption>Figura 1: Versão 1.0 - NFR para visão geral do sistema. </figcaption>
             <figcaption>Fonte: Autor</figcaption>
         </div>
     </div>
