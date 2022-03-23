@@ -12,7 +12,7 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-A inspeção dos casos de uso possibilita conhecer aspectos relacionados a informações, abrangência, completude e qualidade dos objetos analisados. Através de gráficos e checklist, é possível descobrir as fraquezas existentes no trabalho e facilita a melhoria da qualidade do artefato em questão.
+A inspeção dos Casos de Uso possibilita conhecer aspectos relacionados a informações, abrangência, completude e qualidade dos objetos analisados. Através de gráficos e checklist, é possível descobrir as fraquezas existentes no trabalho e facilita a melhoria da qualidade do artefato em questão.
 </p>
 
 ## 2. Metodologia

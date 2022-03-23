@@ -52,7 +52,7 @@ Para a detecção de defeitos, elaborou-se um checklist, utilizando o Google Pla
 ### 3.2. Correção de Defeitos
 
 <p style="text-indent: 20px; text-align: justify">
-Os autores envolvidos no Rich Picture são responsáveis pela remoção de todos os problemas detectados nos Casos de Uso. O objetivo desta fase é garantir que os defeitos de requisitos identificados tenham sido eliminados.
+Os autores envolvidos no Rich Picture são responsáveis pela remoção de todos os problemas detectados no Rich Picture. O objetivo desta fase é garantir que os defeitos de requisitos identificados tenham sido eliminados.
 </p>
 
 ### 3.3. Acompanhamento
