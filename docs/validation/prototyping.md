@@ -14,7 +14,7 @@ Nesse sentido, o protótipo de alta fidelidade é interativo.
 
 ## 2. Metodologia
 <p style="text-indent: 20px; text-align: justify">
-Para a criação desse artefato utilizamos os requisitos levantados até o momento e para desenvolver o Protótipo utilizamos o Figma. Assim, criamos um representação visual através da simulação do aplicativo que permite o PO ou o usuário testar o produto que ainda não foi desenvolvido.
+Para a criação desse artefato utilizamos os requisitos levantados até o momento e para desenvolver o Protótipo utilizamos o Figma. Assim, criamos uma representação visual através da simulação do aplicativo que permite o PO ou o usuário testar o produto que ainda não foi desenvolvido.
 </p>
 
 ## 3. Protótipo de Alta Fidelidade
