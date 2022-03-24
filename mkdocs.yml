@@ -58,7 +58,7 @@ nav:
       - RichPicture: verification/inspection_richpicture.md
       - Especificação Suplementar: verification/inspection_suplementary.md
       - Casos de Uso: verification/inspection_usecase.md
-    - Validação:
+    - Validação: validation/prototyping.md
   - Apresentações:
     - Apresentação 1: presentations/presentation1.md
     - Apresentação 2: presentations/presentation2.md
