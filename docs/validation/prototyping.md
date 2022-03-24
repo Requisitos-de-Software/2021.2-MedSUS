@@ -9,15 +9,12 @@ O principal objetivo na criação do protótipo é reduzir os riscos e permitir 
 
 Protótipos comumente são classificados com relação a sua fidelidade.
 A fidelidade do protótipo refere-se ao nível de detalhes e funcionalidade incorporada a ele. 
-Nesse sentido, o protótipo de alta fidelidade é interativo, enquanto que o de baixa fidelidade é apenas um recunho.
+Nesse sentido, o protótipo de alta fidelidade é interativo.
 </p>
 
 ## 2. Metodologia
-
-Para a criação desse artefato utilizamos os requisitos levantados até o momento criação do protótipo de alta ultimatos o figma
-
 <p style="text-indent: 20px; text-align: justify">
-
+Para a criação desse artefato utilizamos os requisitos levantados até o momento e para desenvolver o Protótipo utilizamos o Figma. Assim, criamos um representação visual através da simulação do aplicativo que permite o PO ou o usuário testar o produto que ainda não foi desenvolvido.
 </p>
 
 ## 3. Artefato
