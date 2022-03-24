@@ -36,4 +36,6 @@ Para a criação desse artefato utilizamos os requisitos levantados até o momen
 
 Versão|Data|Alteração|Responsável|Revisão|
 :-:|:-:|:-:|:-:|:-:|
-0.0.1|23/01/22|Criação|Gabriel Costa|Fernando|
+0.0.1|23/01/22|Criação|Fernando e Gabriel Costa||
+0.0.2|23/01/22|Adição da Metodologia| Fernando e Gabriel Costa||
+0.0.3|23/01/22|Criação da primeira versão do Protótipo de Alta Fidelidade| Fernando e Gabriel Costa||
