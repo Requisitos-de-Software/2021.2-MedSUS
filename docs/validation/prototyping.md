@@ -17,7 +17,7 @@ Nesse sentido, o protótipo de alta fidelidade é interativo.
 Para a criação desse artefato utilizamos os requisitos levantados até o momento e para desenvolver o Protótipo utilizamos o Figma. Assim, criamos um representação visual através da simulação do aplicativo que permite o PO ou o usuário testar o produto que ainda não foi desenvolvido.
 </p>
 
-## 3. Artefato
+## 3. Protótipo de Alta Fidelidade
 
 <p style="text-indent: 20px; text-align: justify">
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/brLhxsnnfkbU47JAwS9Nqc/Untitled?node-id=0%3A1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A74" allowfullscreen></iframe>
