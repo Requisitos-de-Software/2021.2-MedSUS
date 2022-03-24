@@ -19,13 +19,7 @@ Para a criação desse artefato utilizamos os requisitos levantados até o momen
 
 ## 3. Protótipo de Alta Fidelidade
 
-<p style="text-indent: 20px; text-align: justify">
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/brLhxsnnfkbU47JAwS9Nqc/Untitled?node-id=0%3A1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A74" allowfullscreen></iframe>
-</p>
-
-<p style="text-indent: 20px; text-align: justify">
-
-</p>
+Pode ser acessado [neste link](https://www.figma.com/proto/brLhxsnnfkbU47JAwS9Nqc/Untitled?node-id=0%3A1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A74)
 
 
 ## Referências bibliográficas
