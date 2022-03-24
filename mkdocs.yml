@@ -50,8 +50,15 @@ nav:
     - NFR: modeling/nfr.md
   - Análise:
     - Verificação:
+      - Explicação: verification/verification.md
       - Cenários: verification/inspection_scenarios.md
       - NFR: verification/inspection_nfr.md
+      - Backlog: verification/inspection_backlog.md
+      - Léxico: verification/inspection_lexicon.md
+      - RichPicture: verification/inspection_richpicture.md
+      - Especificação Suplementar: verification/inspection_suplementary.md
+      - Casos de Uso: verification/inspection_usecase.md
+    - Validação:
   - Apresentações:
     - Apresentação 1: presentations/presentation1.md
     - Apresentação 2: presentations/presentation2.md
