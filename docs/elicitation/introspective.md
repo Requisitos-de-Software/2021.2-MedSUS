@@ -35,7 +35,9 @@
    Para mim as principais funcionalidades são pesquisar medicamentos pelo nome, compartilhar informações por PDF, apresentar as informações de forma legível.
    
 ## 4.Resultado
- 
+
+ <div id="requisitos-introsp"></div>
+
  | Número          | Requisitos     | 
  |:-----------------:|:-------------|
   |IR1| Acessar uma forma resumida da bula: efeitos colaterais, as indicações e contra indicações, com menos termos técnicos.|
