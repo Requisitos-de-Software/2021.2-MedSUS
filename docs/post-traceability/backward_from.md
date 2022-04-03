@@ -14,6 +14,7 @@
 
 ## 3. Pós-rastreabilidade
 
+### 3.1. Matriz
 <html> 
     <div class="container"> 
         <div class="row">
@@ -23,6 +24,8 @@
         </div>
     </div>
 </html>
+
+### 3.1. Elos
 
 ## 4. Conclusão
 

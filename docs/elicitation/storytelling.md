@@ -84,7 +84,7 @@ O objetivo das histórias é chegar em alguns objetivos e ter uma boa ideia gera
 ### 4.1. Requisitos
 
 **Legenda:**
-  - ST: Requisitos de Storytelling
+  - ST: Requisitos de <span id="requisitos-storytelling">Storytelling</span>
 
 |Identificador|Descrição|
 |:-:|:-|
