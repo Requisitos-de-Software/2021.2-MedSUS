@@ -1,9 +1,20 @@
 # Inspeção (Cenários)
 
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <p align="center">
+                <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/inspector_image.jpg">
+                <figcaption>Fonte: iStock</figcaption>
+            </p>
+        </div>
+    </div>
+</div>
+
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-A verificação tem como objetivo verificar se existe algo de errado com o modelo em questão em termos de notação, processo, procedimento. A inspeção é um método gerencial de reuniões utilizado para descobrir possíveis defeitos em documentos e verificar se o modelo em questão está de acordo com a notação do modelo e com o que se espera desse modelo.
+A inspeção dos cenários possibilita verificar as possíveis formas de se utilizar a aplicação com a finalidade de encontrar possíveis defeitos para que eles sejam corrigidos e fiquem mais coerentes com o artefato. Ainda conseguimos verificar questões que auxiliam o projeto, como a rastreabilidade.
 </p>
 
 ## 2. Metodologia
@@ -14,20 +25,31 @@ Para a realização das verificações, é desejável que o autor do artefato n�
 
 ## 3. Inspeção (Cenários)
 
-|Código|Item|Sim|Não|Ocorrencia de erros|Tipo de erro|Pontos a serem ajustados|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|1|título sucinto e com verbos no infinitivo indicando uma ação|✔|0|0%|-|-|
-|2|O objetivo descreve com clareza a finalidade do cenário|15|3|16%|Ambiguidade, Defeito de Informação Estranha|Revisar o objetivo dos cenários 15, 16, 17, para verificar se o cenário faz sentido para a aplicação e se o objetivo está coerente |
-|3|O contexto estabelece as précondições|✔|0|0%|-|
-|4|O contexto estabelece o local|✔|0|0%|-|
-|5|O contexto estabelece o tempo em que a ação ocorrerá|✔|0|0%|-|
-|6|Todos os atores necessários foram listados|✔|0|0%|-|
-|7|Os atores estão bem definidos e corretos|✔|0|0%|-|
-|8|Todos os recursos necessários foram listados|✔|0|0%|-|
-|9|Os episódios estão na terceira pessoa|✔|0|0%|-|
-|10|Os episódios estão claros e completos|✔|0|0%|-|
-|11|Restrições estão claras|✔|0|0%|-|
-|12|Exceções estão claras|✔|0|0%|-|
+### 3.1 Detecção de Defeitos
+
+<p style="text-indent: 20px; text-align: justify">
+Para a detecção de defeitos, elaborou-se um checklist, utilizando o Google Planilhas. As imagens abaixo apresentam o resultado da inspeção.
+</p>
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <img src="../assets/verification/scenarios/checklist.png">
+            <figcaption>Figura 1: Versão 1.0 - Checklist</figcaption>
+            <figcaption>Fonte: Autor</figcaption>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <img src="../assets/verification/scenarios/grafico_item.png">
+            <figcaption>Figura 2: Versão 1.0 - Ocorrência de Itens com erros </figcaption>
+            <figcaption>Fonte: Autor</figcaption>
+        </div>
+    </div>
+</div>
 
 ## Referências bibliográficas
 
@@ -41,3 +63,4 @@ Versão|Data|Alteração|Responsável|Revisão|
 0.0.2|23/03/22|Adição da introdução|Thalisson|---|
 0.0.3|23/03/22|Adição da metodologia|Thalisson|---|
 0.0.3|23/03/22|Adição da Inspeção|Thalisson|---|
+0.0.4|02/04/22|Ajustes de padronização|Thalisson|---|
