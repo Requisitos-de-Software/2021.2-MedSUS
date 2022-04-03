@@ -3,7 +3,7 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-Como a rastreabilidade Forward, existem dois tipos de rastreabilidade Backward. No entando, esse par de Backward possui pontos diferentes de partida. Este documento trata da rasteabilidade Backward From, a qual fornece informações sobre como um requisito surgiu, por meio da vinculação do requisito ao caso de uso do cliente que ele aborda. Isso permite que as equipes melhorem a tomada de decisões, entendendo a origem de um requisito.
+Como a rastreabilidade Forward, existem dois tipos de rastreabilidade Backward. No entando, esse par de Backward possui pontos diferentes de partida. Este documento trata da rastreabilidade Backward From, a qual fornece informações sobre como um requisito surgiu, por meio da vinculação do requisito ao caso de uso do cliente que ele aborda. Isso permite que as equipes melhorem a tomada de decisões, entendendo a origem de um requisito.
 </p>
 
 ## 2. Metodologia
