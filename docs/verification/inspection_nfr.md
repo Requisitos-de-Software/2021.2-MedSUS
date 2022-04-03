@@ -1,10 +1,20 @@
 # Inspeção (NFR Framework)
 
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <p align="center">
+                <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/inspector_image.jpg">
+                <figcaption>Fonte: iStock</figcaption>
+            </p>
+        </div>
+    </div>
+</div>
+
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-
-A verificação tem como objetivo verificar se existe algo de errado com o modelo em questão em termos de notação, processo, procedimento. A inspeção é um método gerencial de reuniões utilizado para descobrir possíveis defeitos em documentos e verificar se o modelo em questão está de acordo com a notação do modelo e com o que se espera desse modelo.
+A inspeção do NFR Framework possibilita verificar os requisitos não funcionais, suas softgoals, objetivos e as relações entre eles. Ainda conseguimos verificar questões que auxiliam o projeto, como a rastreabilidade.
 </p>
 
 ## 2. Metodologia
@@ -15,22 +25,36 @@ Para a realização das verificações, é desejável que o autor do artefato n�
 
 ## 3. Inspeção (NFR Framework)
 
-|Código|Item|Sim|Não|Ocorrencia de erros|Tipo de erro|Pontos a serem ajustados|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|1|Os softgoals estão bem definidos|✔|0|0%|-|-|
-|2|Os softgoals são decompostos em operacionalizações|✔|0|0%|-|-|
-|3|A transição é representada com clareza|✔|0|0%|-|-|
-|4|Os objetivos estão decompostos em uma hierarquia AND/OR de softgoals|✔|0|0%|-|-|
-|5|Os graus de satisfação foram definidos corretamente|✔|0|0%|-|-|
-|6|As setas possuem sentido coerente|✔|0|0%|-|-|
-|7|As linhas contínuas e tracejadas foram utilizadas corretamente|✔|0|0%|-|-|
-|8|Existem claims|✔|0|0%|-|-|
-|9|Impactos contribuem apenas entre softgoals|✔|0|0%|-|-|
-|10|Existem legendas para cada símbolo utilizado|0|15|100%|-|Adicionar legenda para todos os símbolos utilizados|
+### 3.1 Detecção de Defeitos
+
+<p style="text-indent: 20px; text-align: justify">
+Para a detecção de defeitos, elaborou-se um checklist, utilizando o Google Planilhas. As imagens abaixo apresentam o resultado da inspeção.
+</p>
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <img src="../assets/verification/nfr/checklist.png">
+            <figcaption>Figura 1: Versão 1.0 - Checklist</figcaption>
+            <figcaption>Fonte: Autor</figcaption>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <img src="../assets/verification/nfr/grafico_item.png">
+            <figcaption>Figura 2: Versão 1.0 - Ocorrência de Itens com erros </figcaption>
+            <figcaption>Fonte: Autor</figcaption>
+        </div>
+    </div>
+</div>
 
 ## Referências bibliográficas
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 23): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 52 slides. color. Disponível em: https://aprender3.unb.br/pluginfile.php/1668221/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 22 mar. 2022.
+
 > Enhancing Data Warehouse Design with the NFR Framework. Disponível em: http://www.inf.puc-rio.br/wer02/zip/Enhancing_Data(4).pdf. Acesso em: 23/03/22
 
 ## Histórico de versões
@@ -41,3 +65,4 @@ Versão|Data|Alteração|Responsável|Revisão|
 0.0.2|23/03/22|Adição da introdução|Thalisson|---|
 0.0.3|23/03/22|Adição da metodologia|Thalisson|---|
 0.0.3|23/03/22|Adição da Inspeção|Thalisson|---|
+0.0.4|02/04/22|Ajustes de padronização|Thalisson|---|
