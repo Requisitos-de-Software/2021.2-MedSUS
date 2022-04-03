@@ -12,7 +12,7 @@ Como a rastreabilidade Forward, existem dois tipos de rastreabilidade Backward. 
 Para a realização desse artefato, primeiramente a baseline e o backlog do produto foi retificado. Em seguida, foi possível organizar os Requisitos Funcionais e Não Funcionais previamente elicitados, formando uma tabela com as suas origens (rastros), levando em consideração todas as suas aparições. Além disso, elaborou-se os elos relacionados a cada artefato elencado.
 </p>
 
-## 3. Pós-rastreabilidade
+## 3. Pós-Rastreabilidade
 
 ### 3.1. Matriz
 
@@ -26,7 +26,7 @@ Para a realização desse artefato, primeiramente a baseline e o backlog do prod
     </div>
 </html>
 
-### 3.1. Elos
+### 3.2. Elos
 
 ## 4. Conclusão
 
