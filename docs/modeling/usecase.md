@@ -120,4 +120,4 @@ O diagrama de caso de uso é uma ótima maneira de modelar os requisitos levanta
 | Versão  |   Data   |                        Alteração                         | Responsável   |    Revisão    |
 | :-----: | :------: | :------------------------------------------------------: | :---------:   | :-----------: |
 |  0.0.1  | 05/03/22 |                         Criação                          | Gabriel Costa |         |
-|  0.1.0  | 05/03/22 |                         Verificação                      | Gabriel Costa |         |
+|  0.1.0  | 03/04/22 |                         Verificação                      | Gabriel Costa |         |
