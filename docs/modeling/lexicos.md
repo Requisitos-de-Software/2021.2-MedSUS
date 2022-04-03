@@ -34,7 +34,12 @@
         <div class="col-sm-6">
             <div id="adicionar-medicamento"class="card">
                 <div class="card-header p-1 bg-primary">
-                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Adicionar Medicamento</h5>
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Adicionar Medicamento</h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Verbo</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Adição de Medicamento, Adicionar Droga, Adição de Nova Entrada do RENAME</p>
                 </div>
                 <div class="card-body p-2">
                     <h5 class="card-text">Noções</h5>
@@ -55,6 +60,11 @@
             <div id="administracao" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Administração</h5>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Ingestão, Utilização, Formas de uso</p>
                 </div>
                 <div class="card-body p-2">
                     <h5 class="card-text"> Noções </h5>
@@ -78,6 +88,11 @@
             <div id="advertencia" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Advertência</h5>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Cuidados, Perigos</p>
                 </div>
                 <div class="card-body p-2">
                     <h5 class="card-text">Noções</h5>
@@ -108,6 +123,11 @@
             <div id="barra-pesquisa" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Barra de Pesquisa</h5>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Cuidados, Perigos</p>
                 </div>
                 <div class="card-body p-2">
                     <h5 class="card-text">Noções</h5>
@@ -130,6 +150,11 @@
             <div id="bula" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Bula</h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Monografia, Características do Medicamento, Informações do Medicamento</p>
                 </div>
                 <div class="card-body p-2">
                     <h5 class="card-text">Noções</h5>
@@ -164,6 +189,11 @@
             <div id="bula-paciente" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Bula para o Paciente</h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Monografia para o Paciente, Características do Medicamento, Informações do Medicamento para o paciente</p>
                 </div>
                 <div class="card-body p-2">
                     <h5 class="card-text">Noções</h5>
@@ -191,7 +221,12 @@
             <div id="bula-profissional-saude" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Bula para o Profissional de Saúde
-                        </h5>
+                        </h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Monografia técnica, Características do Medicamento, Informações técnicas do Medicamento</p>
                 </div>
                 <div class="card-body p-2">
                     <h5 class="card-text">Noções</h5>
@@ -215,6 +250,11 @@
             <div id="busca-medicamento" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Busca de medicamento</h5>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Verbo</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Pesquisa de Medicamento, Busca de Monografias, Pesquisa de Bulas</p>
                 </div>
                 <div class="card-body p-2">
                     <h5 class="card-text">Noções</h5>
@@ -252,6 +292,11 @@
             <div id="compartilhar" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Compartilhar</h5>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Verbo</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Enviar bula</p>
                 </div>
                 <div class="card-body p-2">
                     <h5 class="card-text">Noções</h5>
@@ -311,6 +356,11 @@
             <div id="filtro" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Filtrar Medicamentos</h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Verbo</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Regras de Busca, Restrições de pesquisa</p>
                 </div>
                 <div class="card-body p-2">
                     <h5 class="card-text">Noções</h5>
@@ -340,6 +390,11 @@
             <div id="lista-medicamentos" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Lista de Medicamentos</h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Grupo de medicações, Itens do Rename</p>
                 </div>
                 <div class="card-body p-2">
                     <h5 class="card-text">Noções</h5>
@@ -370,6 +425,11 @@
             <div id="medicamento" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Medicamento</h5>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Droga, Medicação, Fármaco</p>
                 </div>
                 <div class="card-body p-2">
                     <h5 class="card-text"> Noções </h5>
@@ -392,6 +452,11 @@
             <div id="medico" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Médico</h5>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Doutor, Profissiona de Saúde</p>
                 </div>
                 <div class="card-body p-2">
                     <h5 class="card-text">Noções</h5>
@@ -417,7 +482,12 @@
         <div class="col-sm-6">
             <div id="modificar-bula"class="card">
                 <div class="card-header p-1 bg-primary">
-                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Modificar bula</h5>
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Modificar bula</h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Verbo</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Atualizar bula, renovar bula</p>
                 </div>
                 <div class="card-body p-2">
                     <h5 class="card-text">Noções</h5>
@@ -445,7 +515,12 @@
         <div class="col-sm-6">
             <div id="paciente"class="card">
                 <div class="card-header p-1 bg-primary">
-                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Paciente</h5>
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Paciente</h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Consultado, Enfermo</p>
                 </div>
                 <div class="card-body p-2">
                     <h5 class="card-text">Noções</h5>
@@ -465,7 +540,12 @@
         <div class="col-sm-6">
             <div id="pdf" class="card">
                 <div class="card-header p-1 bg-primary">
-                    <h4 class="card-title text-white text-center m-1 font-weight-bold">PDF</h5>
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">PDF</h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item"><em>Portable Document Format</em>(Formato de Documento Portável)</p>
                 </div>
                 <div class="card-body p-2">
                     <h5 class="card-text">Noções</h5>
@@ -494,7 +574,12 @@
         <div class="col-sm-6">
             <div id="rename" class="card">
                 <div class="card-header p-1 bg-primary">
-                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Rename</h5>
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Rename</h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Relação Nacional de Medicamentos Essenciais</p>
                 </div>
                 <div class="card-body p-2">
                     <h5 class="card-text"> Noções </h5>
@@ -525,7 +610,12 @@
         <div class="col-sm-6">
             <div id="sus" class="card">
                 <div class="card-header p-1 bg-primary">
-                    <h4 class="card-title text-white text-center m-1 font-weight-bold">SUS</h5>
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">SUS</h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Sistema Único de Saúde, Sistema de saúde brasileiro</p>
                 </div>
                 <div class="card-body p-2">
                     <h5 class="card-text"> Noções </h5>
@@ -554,7 +644,8 @@
         <div class="col-sm-6">
             <div id="tratamento" class="card">
                 <div class="card-header p-1 bg-primary">
-                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Tratamento</h5>
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Tratamento</h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Estado</h5>
                 </div>
                 <div class="card-body p-2">
                     <h5 class="card-text"> Noções </h5>
@@ -585,7 +676,12 @@
         <div class="col-sm-6">
             <div id="usuario-saude" class="card">
                 <div class="card-header p-1 bg-primary">
-                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Usuário da Saúde</h5>
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Usuário da Saúde</h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Cidadão</p>
                 </div>
                 <div class="card-body p-2">
                     <h5 class="card-text"> Noções </h5>
@@ -605,6 +701,11 @@
             <div id="usuario-leigo" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Usuário Leigo</h5>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Usuário não-especializado, Usuário não-técnico</p>
                 </div>
                 <div class="card-body p-2">
                     <h5 class="card-text">Noções</h5>
@@ -646,4 +747,5 @@ Versão|Data|Alteração|Responsável|Revisão|
 0.0.3|05/03/22|Finalização dos Léxicos|Adrian|Fernando|
 0.0.4|06/03/22|Introdução e metodologia|Adrian|Fernando|
 0.0.5|06/03/22|Referências|Adrian|Fernando|
-0.0.6|09/03/22|Correção das tags de fechamento|Thalisson|---|
+0.0.6|09/03/22|Correção das tags de fechamento|Thalisson|---| 
+1.0.0|01/04/22|Correções da análise e pré-rastreabilidade|Adrian|---|
