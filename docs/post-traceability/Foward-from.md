@@ -70,7 +70,7 @@ Como o MedSus não é um softfware de código aberto, não foi possível relacio
 | Épico                  | Filtro |
 | Feature                | Favoritar |
 | História de Usuário    | [US05](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
-| Funcionalidade         |  |
+| Funcionalidade         | <img src="../images/R03.gif" alt="Favoritar medicamento" width="25%"> |
 
 **R12**
 
