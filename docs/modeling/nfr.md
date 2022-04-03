@@ -22,30 +22,29 @@ A partir dos <a href="../priorization/moscow">requisitos já levantados</a> atra
 
 ### 2.1. Funcionamento do Framework
 
+
+
 #### 2.1.1. Legenda
 
 | Símbolo  | Legenda  |
 |   ---    |    ---   |
-|||
-<!-- |<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/and.svg">|Caso os softgoals descendentes forem satisfeitos os ascendentes também serão
-|<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/or.svg">|Caso algum softgoal descendente for satisfeito, o ascendente também será|
-|<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/make.svg">|Contribuição suficientemente positiva entre um softgoal descendente e um 
-ascendente que é concebida no nível mais alto de satisfação|
-|<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/break.svg">|Contribuição suficientemente negativa entre um softgoal descendente e um 
-ascendente que é concebida no nível mais alto de negação|
-|<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/help.svg">|Contribuição parcialmente positiva entre um softgoal descendente e um 
-ascendente|
-|<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/hurt.svg">|Contribuição parcialmente negativa entre um softgoal descendente e um 
-ascendente|
-|<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/unknow.svg">|Contribuição desconhecida entre um softgoal descendente e um 
-ascendente|
-|<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/equals.svg">|O softgoal descendente será satisfeito, apenas se o softgoal ascendente for 
-satisfeito ou o softgoal descendente será negado apenas se o softgoal ascendente for 
-negado|
-|<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/some.svg">|Utilizado quando o sinal da contribuição é conhecido, mas a extensão não é. Em caso 
-de dúvidas de se utilizar o HELP ou MAKE por exemplo deve-se utilizar SOME+. O mesmo 
-vale para o HURT ou BREAK, porém nesse caso se usa o SOME-| -->
-
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/softgoal.png">|Softgoal (Requisito Levantado)|
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/operacional.png">|Operacional (Forma de cumprimento do requisitp)|
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/afirmacao.png">|Afirmação (Informações sobre as decisões ou recomendações)|
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs\assets\nfr\and.png">|Caso os softgoals descendentes forem satisfeitos os ascendentes também serão|
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/or.png">|Caso algum softgoal descendente for satisfeito, o ascendente também será|
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/make.png">|Contribuição suficientemente positiva entre um softgoal descendente e um ascendente que é concebida no nível mais alto de satisfação|
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/break.png">|Contribuição suficientemente negativa entre um softgoal descendente e um ascendente que é concebida no nível mais alto de negação|
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/help.png">|Contribuição parcialmente positiva entre um softgoal descendente e um ascendente|
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/hurt.png">|Contribuição parcialmente negativa entre um softgoal descendente e um ascendente|
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/unknow.png">|Contribuição desconhecida entre um softgoal descendente e um ascendente|
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/equals.png">|O softgoal descendente será satisfeito, apenas se o softgoal ascendente for satisfeito ou o softgoal descendente será negado apenas se o softgoal ascendente for negado|
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/satisfeito.png">|O softgoal foi cumprido|
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/negado.png">|O softgoal foi negado/rejeitado|
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/parcialmente_satisfeito.png">|O softgoal foi parcialmente satisfeito|
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/parcialmente_negado.png">|O softgoal foi parcialmente negado/rejeitado|
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/conflitante.png">|O softgoal é conflitante com outros, em sua resolução|
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/desconhecido.png">|O estado do softgoal é desconhecido|
 
 ## 3. NFR
 
