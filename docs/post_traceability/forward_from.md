@@ -1,15 +1,15 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-Existem dois tipo de rastreabilidade Forward: Forward-to e Forward-from. Os dois rastreiam de um componente upstream para artefatos downstream, a diferente está onde cada um começa. Este documento trata da rastreabilidade Forward From, a qual rastreia relacionamentos entre requerimentos e artefatos downstream correspondentes, incluindo casos de teste. Esse tipo de rastreamento garante que cada requerimento, além de satisfeito, foi verificado e validado.
+Existem dois tipos de rastreabilidade Forward: Forward-to e Forward-from. Os dois rastreiam de um componente upstream para artefatos downstream, a diferença está onde cada um começa. Este documento trata da rastreabilidade Forward From, a qual rastreia relacionamentos entre requerimentos e artefatos downstream correspondentes, incluindo casos de teste. Esse tipo de rastreamento garante que cada requerimento, além de satisfeito, foi verificado e validado.
 </p>
 
 ## 2. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
-Visto os artefatos construidos até agora, foi possível elaborar uma Matriz de Rastreabilidade para conectar os Requisitos, Épicos, Features, História de Usuário e Funcionalidade.
+Visto os artefatos construídos até agora, foi possível elaborar uma Matriz de Rastreabilidade para conectar os Requisitos, Épicos, Features, História de Usuário e Funcionalidade.
 
-Como o MedSUS não é um softfware de código aberto, não foi possível relacionar o código fontes aos requisitos.
+Como o MedSUS não é um software de código aberto, não foi possível relacionar o código-fonte aos requisitos.
 
 </p>
 
@@ -165,4 +165,4 @@ Como o MedSUS não é um softfware de código aberto, não foi possível relacio
 | Versão |   Data   |              Alteração               | Responsável |  Revisão   |
 | :----: | :------: | :----------------------------------: | :---------: | :--------: |
 | 0.0.1  | 03/04/22 |               Criação                |  Fernando   | João Durso |
-| 0.0.1  | 03/04/22 | Correções na padronização e no texto |  Fernando   | João Durso |
+| 0.0.2  | 03/04/22 | Correções na padronização e no texto | João Durso  |  Fernando  |
