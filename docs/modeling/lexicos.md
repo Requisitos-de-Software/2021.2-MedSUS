@@ -233,12 +233,15 @@
                     <ul class="m-0 list-group">
                         <li class="m-0 list-group-item">Disponível em separado da <a href="#bula-paciente">Bula para o
                                 Paciente</a></li>
+                        <li class="m-0 list-group-item">Especificações técnicas para guiarem o <a href="#medico">profissional de saúde</li>
+                        <li class="m-0 list-group-item">Informações direcionadas sobre os efeitos dos <a href="#medicamentos">fármacos</a> e suas recomendaçõwa</li>
                     </ul>
                 </div>
                 <div class="card-footer p-2">
                     <h5 class="card-text">Impacto</h5>
                     <ul class="m-0 list-group">
-                        <li class="m-0 list-group-item">Contém as informações técnicas e legais</li>
+                        <li class="m-0 list-group-item">Contém as informações técnicas e legais</li>,
+                        <li class="m-0 list-group-item">Guia para melhor receitar ao <a href="#paciente">paciente</li>
                     </ul>
                 </div>
             </div>
@@ -263,6 +266,7 @@
                                 usuário da área da saúde</a> ou pelo <a href="#usuario-leigo">usuário leigo</a>
                         </li>
                         <li class="m-0 list-group-item">Podem ser aplicados outros <a href="#filtro">filtros</a></li>
+                        <li class="m-0 list-group-item">Recuperação de <a href="#medicamentos">medicamento da <a href="#lista-medicamentos">lista de medicamentos</a>, caso conste</li>
                     </ul>
                 </div>
                 <div class="card-footer p-2">
@@ -401,6 +405,7 @@
                     <ul class="m-0 list-group">
                         <li class="m-0 list-group-item">Constantes na <a href="#rename">Relação Nacional de Medicamentos
                                 Essenciais (Rename)</a></li>
+                        <li class="m-0 list-group-item">Lista disponível na aplicação para <a href="#busca-medicamento">consulta</a> de <a href="#medicamentos">medicações</a></li>
                     </ul>
                 </div>
                 <div class="card-footer p-2">
