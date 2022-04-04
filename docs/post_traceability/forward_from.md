@@ -93,7 +93,7 @@ Como o MedSUS não é um software de código aberto, não foi possível relacion
 |        Épico        |                                       Filtro                                       |
 |       Feature       |                        Filtrar por Atributos do medicamento                        |
 | História de Usuário | [US07](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
-|   Funcionalidade    |     <img src="../images/R04.gif" alt="Favoritar medicamento" width="35%">          |
+|   Funcionalidade    |     ![R04](../images/R04.gif)          |
 
 **R05**
 
@@ -102,7 +102,7 @@ Como o MedSUS não é um software de código aberto, não foi possível relacion
 |        Épico        |                                    Visualização                                    |
 |       Feature       |                                   Alterar Perfil                                   |
 | História de Usuário | [US09](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
-|   Funcionalidade    |       <img src="../images/R05.gif" alt="Favoritar medicamento" width="55%">        |
+|   Funcionalidade    |      ![R05](../images/R05.gif)         |
 
 **R06**
 
@@ -111,7 +111,7 @@ Como o MedSUS não é um software de código aberto, não foi possível relacion
 |        Épico        |                                       Filtro                                       |
 |       Feature       |                        Filtrar por Atributos do medicamento                        |
 | História de Usuário | [US10](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
-|   Funcionalidade    |       <img src="../images/R06.gif" alt="Favoritar medicamento" width="40%">        |
+|   Funcionalidade    |      ![R06](../images/R06.gif)        |
 
 **R07**
 
@@ -120,7 +120,7 @@ Como o MedSUS não é um software de código aberto, não foi possível relacion
 |        Épico        |                                       Filtro                                       |
 |       Feature       |                        Filtrar por Atributos do medicamento                        |
 | História de Usuário | [US11](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
-|   Funcionalidade    |      <img src="../images/R07.gif" alt="Favoritar medicamento" width="30%">         |
+|   Funcionalidade    |     ![R07](../images/R07.gif)       |
 
 **ST17**
 
