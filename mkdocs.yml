@@ -60,8 +60,8 @@ nav:
       - Casos de Uso: verification/inspection_usecase.md
     - Validação: validation/prototyping.md
   - Pós Rastreabilidade:
-    - Backward from: post-traceability/backward_from.md
-    - Forward from: post-traceability/forward_from.md
+    - Backward from: post_traceability/backward_from.md
+    - Forward from: post_traceability/forward_from.md
   - Apresentações:
     - Apresentação 1: presentations/presentation1.md
     - Apresentação 2: presentations/presentation2.md
