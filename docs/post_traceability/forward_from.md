@@ -40,7 +40,7 @@ Como o MedSUS não é um software de código aberto, não foi possível relacion
 
 ### 3.2. Especificações
 
-**R08**
+<!-- **R08**
 
 |         R08         | O usuário deve ser capaz de alterar informações baseado no perfil de usuário (Profissional de saúde/Usuário comum). |
 | :-----------------: | :-----------------------------------------------------------------------------------------------------------------: |
@@ -65,7 +65,7 @@ Como o MedSUS não é um software de código aberto, não foi possível relacion
 |        Épico        |                                    Visualização                                    |
 |       Feature       |                                 Apresentar índice                                  |
 | História de Usuário | [US04](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
-|   Funcionalidade    |                                                                                    |
+|   Funcionalidade    |                                                                                    | -->
 
 **R03**
 
@@ -76,14 +76,14 @@ Como o MedSUS não é um software de código aberto, não foi possível relacion
 | História de Usuário | [US05](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
 |   Funcionalidade    |       <img src="../images/R03.gif" alt="Favoritar medicamento" width="25%">        |
 
-**R12**
+<!-- **R12**
 
 |         R12         |      O usuário deve conseguir buscar palavras-chave no texto das informações.      |
 | :-----------------: | :--------------------------------------------------------------------------------: |
 |        Épico        |                                       Filtro                                       |
 |       Feature       |                             Filtrar por Palavras-chave                             |
 | História de Usuário | [US06](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
-|   Funcionalidade    |                                                                                    |
+|   Funcionalidade    |                                                                                    | -->
 
 **R04**
 
@@ -92,7 +92,7 @@ Como o MedSUS não é um software de código aberto, não foi possível relacion
 |        Épico        |                                       Filtro                                       |
 |       Feature       |                        Filtrar por Atributos do medicamento                        |
 | História de Usuário | [US07](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
-|   Funcionalidade    |                                                                                    |
+|   Funcionalidade    |     <img src="../images/R04.gif" alt="Favoritar medicamento" width="35%">          |
 
 **R05**
 
@@ -101,7 +101,7 @@ Como o MedSUS não é um software de código aberto, não foi possível relacion
 |        Épico        |                                    Visualização                                    |
 |       Feature       |                                   Alterar Perfil                                   |
 | História de Usuário | [US09](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
-|   Funcionalidade    |                                                                                    |
+|   Funcionalidade    |       <img src="../images/R05.gif" alt="Favoritar medicamento" width="55%">        |
 
 **R06**
 
@@ -110,7 +110,7 @@ Como o MedSUS não é um software de código aberto, não foi possível relacion
 |        Épico        |                                       Filtro                                       |
 |       Feature       |                        Filtrar por Atributos do medicamento                        |
 | História de Usuário | [US10](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
-|   Funcionalidade    |                                                                                    |
+|   Funcionalidade    |       <img src="../images/R06.gif" alt="Favoritar medicamento" width="40%">        |
 
 **R07**
 
@@ -119,11 +119,11 @@ Como o MedSUS não é um software de código aberto, não foi possível relacion
 |        Épico        |                                       Filtro                                       |
 |       Feature       |                        Filtrar por Atributos do medicamento                        |
 | História de Usuário | [US11](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
-|   Funcionalidade    |                                                                                    |
+|   Funcionalidade    |      <img src="../images/R07.gif" alt="Favoritar medicamento" width="30%">         |
 
 **ST17**
 
-|        ST17         | O app deve notificar os usuários acerca das atualizações da monografia dos medicamentos (inclusão, remoção e alteração). |
+<!-- |        ST17         | O app deve notificar os usuários acerca das atualizações da monografia dos medicamentos (inclusão, remoção e alteração). |
 | :-----------------: | :----------------------------------------------------------------------------------------------------------------------: |
 |        Épico        |                                                       Notificação                                                        |
 |       Feature       |                                                    Notificar usuários                                                    |
@@ -147,7 +147,7 @@ Como o MedSUS não é um software de código aberto, não foi possível relacion
 |       Feature       |                              Compartilhar monografias                              |
 | História de Usuário | [US16](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
 |   Funcionalidade    |                                                                                    |
-
+ -->
 ## 4. Conclusão
 
 <p style="text-indent: 20px; text-align: justify">
@@ -166,3 +166,4 @@ Como o MedSUS não é um software de código aberto, não foi possível relacion
 | :----: | :------: | :----------------------------------: | :---------: | :--------: |
 | 0.0.1  | 03/04/22 |               Criação                |  Fernando   | João Durso |
 | 0.0.2  | 03/04/22 | Correções na padronização e no texto | João Durso  |  Fernando  |
+| 0.0.3  | 03/04/22 |          Correção nas tabelas        | Fernando    | João Durso |
