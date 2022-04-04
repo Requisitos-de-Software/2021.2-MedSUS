@@ -35,47 +35,63 @@ Esse sistema visa classificar os requisitos de acordo com os atributos de qualid
 
 ### 3.2 Usabilidade
 
-- O aplicativo não exigirá treinamento prévio por parte do usuário. <sup>[IR7](../elicitation/introspective.md#4resultado)</sup>
-- Design simples e familiar que facilite a memorização <sup>[R12](../elicitation/brainstorm.md#requisitos-levantados) [IR6](../elicitation/introspective.md#4resultado)</sup>
-- As informações devem ser apresentadas de modo que facilite a busca e o acesso a informação. <sup>[ST06](../elicitation/storytelling.md#41-requisitos)</sup>
-- As informações apresentadas no aplicativo devem ser de fácil entendimento. <sup>[IR11](../elicitation/introspective.md#4resultado)</sup>
-- O aplicativo deve fornecer opções de tamanhos diferentes para as fontes utilizadas. <sup>[ST19 ST13](../elicitation/storytelling.md#41-requisitos)</sup>
+<span id="usabilidade"></span>
+
+- [ES01] O aplicativo não exigirá treinamento prévio por parte do usuário. <sup>[IR7](../elicitation/introspective.md#4resultado)</sup>
+- [ES02] Design simples e familiar que facilite a memorização <sup>[R12](../elicitation/brainstorm.md#requisitos-levantados) [IR6](../elicitation/introspective.md#4resultado)</sup>
+- [ES03] As informações devem ser apresentadas de modo que facilite a busca e o acesso a informação. <sup>[ST06](../elicitation/storytelling.md#41-requisitos)</sup>
+- [ES04] As informações apresentadas no aplicativo devem ser de fácil entendimento. <sup>[IR11](../elicitation/introspective.md#4resultado)</sup>
+- [ES05] O aplicativo deve fornecer opções de tamanhos diferentes para as fontes utilizadas. <sup>[ST19 ST13](../elicitation/storytelling.md#41-requisitos)</sup>
 
 ### 3.3 Confiabilidade
 
-- As informações presentes no aplicativo devem ser provenientes de fontes de dados confiáveis. <sup>[ST03](../elicitation/storytelling.md#41-requisitos)</sup>
-- As informações a respeito dos medicamentos devem estar sempre atualizadas. <sup>[ST03](../elicitation/storytelling.md#41-requisitos)</sup>
-- As monografias salvas como favoritas devem estar disponíveis mesmo após queda de internet.
+<span id="confiabilidade"></span>
+
+- [ES06] As informações presentes no aplicativo devem ser provenientes de fontes de dados confiáveis. <sup>[ST03](../elicitation/storytelling.md#41-requisitos)</sup>
+- [ES07] As informações a respeito dos medicamentos devem estar sempre atualizadas. <sup>[ST03](../elicitation/storytelling.md#41-requisitos)</sup>
+- [ES08] As monografias salvas como favoritas devem estar disponíveis mesmo após queda de internet.
 
 ### 3.4 Desempenho
 
-- O aplicativo não deve consumir muitos recursos. <sup>[ST02](../elicitation/storytelling.md#41-requisitos)</sup>
-- As buscas não devem demorar mais de 1 segundo para serem concluídas. <sup>[IR8](../elicitation/introspective.md#4resultado)</sup>
+<span id="desempenho"></span>
+
+- [ES09] O aplicativo não deve consumir muitos recursos. <sup>[ST02](../elicitation/storytelling.md#41-requisitos)</sup>
+- [ES10] As buscas não devem demorar mais de 1 segundo para serem concluídas. <sup>[IR8](../elicitation/introspective.md#4resultado)</sup>
 
 ### 3.5 Suportabilidade
 
-- Deve ser disponibilizado nas lojas oficiais dos dispositivos móveis. <sup>[R14](../elicitation/brainstorm.md#requisitos-levantados)</sup>
-- Tempo médio máximo de reparação dos servidores deve ser de 4 horas.
-- O aplicativo deve suportar 300 mil usuários simultâneos.
+<span id="suportabilidade"></span>
+
+- [ES11] Deve ser disponibilizado nas lojas oficiais dos dispositivos móveis. <sup>[R14](../elicitation/brainstorm.md#requisitos-levantados)</sup>
+- [ES12] Tempo médio máximo de reparação dos servidores deve ser de 4 horas.
+- [ES13] O aplicativo deve suportar 300 mil usuários simultâneos.
 
 ### 3.6 Design
 
-- O aplicativo deve seguir uma palheta de cores fixa.
-- Os ícones utilizados no aplicativo devem ser coerentes com a funcionalidade que eles representam.
+<span id="design"></span>
+
+- [ES14] O aplicativo deve seguir uma palheta de cores fixa.
+- [ES15] Os ícones utilizados no aplicativo devem ser coerentes com a funcionalidade que eles representam.
 
 ### 3.7 Implementação
 
-- O aplicativo deve ser compatível com o sistema Android e IOS. <sup>[R14](../elicitation/brainstorm.md#requisitos-levantados)</sup>
-- O aplicativo não deve usar mais de 50 MegaBytes de memória interna.
+<span id="implementacao"></span>
+
+- [ES16] O aplicativo deve ser compatível com o sistema Android e IOS. <sup>[R14](../elicitation/brainstorm.md#requisitos-levantados)</sup>
+- [ES17] O aplicativo não deve usar mais de 50 MegaBytes de memória interna.
 
 ### 3.8 Interface
 
-- A interface dos diferentes componentes devem sequir o mesmo padrão para não confundir o usuário.
+<span id="interface"></span>
+
+- [ES18] A interface dos diferentes componentes devem sequir o mesmo padrão para não confundir o usuário.
 
 ### 3.9 Físico
 
-- O dispositivel Android deve estar em uma versão 4.4 ou superior.
-- O dispositivel IOS deve estar em uma versão 10.0 ou superior.
+<span id="fisico"></span>
+
+- [ES19] O dispositivel Android deve estar em uma versão 4.4 ou superior.
+- [ES20] O dispositivel IOS deve estar em uma versão 10.0 ou superior.
 
 ## Referências bibliográficas
 
