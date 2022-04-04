@@ -74,8 +74,9 @@ Como o MedSUS não é um software de código aberto, não foi possível relacion
 |        Épico        |                                       Filtro                                       |
 |       Feature       |                                     Favoritar                                      |
 | História de Usuário | [US05](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
-|   Funcionalidade    |       <img src="../images/R03.gif" alt="Favoritar medicamento" width="25%">        |
-
+|   Funcionalidade    |      ![R03](../images/R03.gif)       |
+<!-- |   Funcionalidade    |       <img src="../images/R03.gif" alt="Favoritar medicamento" width="25%">        | -->
+<!--  -->
 <!-- **R12**
 
 |         R12         |      O usuário deve conseguir buscar palavras-chave no texto das informações.      |
