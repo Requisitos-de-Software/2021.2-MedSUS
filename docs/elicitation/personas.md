@@ -176,4 +176,4 @@ própria clínica ano que vem.
 | 0.0.2  | 20/02/22 |        Formatação        | Adrian e João Durso | Thalisson e Fernando |
 | 0.0.3  | 20/02/22 |    Adição de personas    | Adrian e João Durso | Thalisson e Fernando |
 | 0.0.4  | 20/02/22 | Introdução e metodologia |       Adrian        |      João Durso      |
-| 0.0.5  | 20/02/22 |  ADição de Antipersona   |     João Durso      |          -           |
+| 0.0.5  | 20/02/22 |  Adição de Antipersona   |     João Durso      |          -           |
