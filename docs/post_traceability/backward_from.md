@@ -28,7 +28,6 @@ Para a realização desse artefato, primeiramente a baseline e o backlog do prod
     </div>
 </html>
 
-<<<<<<< HEAD
 ### 3.2. Elos
 ### EF01
 
@@ -340,9 +339,6 @@ Para a realização desse artefato, primeiramente a baseline e o backlog do prod
 **Elo**:
 - Agregação: [ST02](../elicitation/storytelling.md) é composto por [ES20](../modeling/supplementary_specification.md)
 
-=======
-### 3.2. Elos de Rastreabilidade
->>>>>>> d3b4d0769187a1098b0761eb510c10374289c467
 
 ## 4. Conclusão
 
