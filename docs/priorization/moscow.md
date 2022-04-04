@@ -60,7 +60,7 @@
 
 
 ## Referências bibliográficas
-SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 50 slides. color. Disponível em: https://aprender3.unb.br/pluginfile.php/1668148/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 20 fev. 2022.
+> SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 50 slides. color. Disponível em: https://aprender3.unb.br/pluginfile.php/1668148/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 20 fev. 2022.
 
 ## Histórico de versões
 
