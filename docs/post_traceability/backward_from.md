@@ -3,13 +3,15 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-Como a rastreabilidade Forward, existem dois tipos de rastreabilidade Backward. No entando, esse par de Backward possui pontos diferentes de partida. Este documento trata da rastreabilidade Backward From, a qual fornece informações sobre como um requisito surgiu, por meio da vinculação do requisito ao caso de uso do cliente que ele aborda. Isso permite que as equipes melhorem a tomada de decisões, entendendo a origem de um requisito.
+Como a rastreabilidade Forward, existem dois tipos de rastreabilidade Backward. No entando, esse par de Backward possui pontos diferentes de partida. Este documento trata da rastreabilidade Backward From, a qual fornece informações sobre como um requisito surgiu, por meio da vinculação do requisito ao caso de uso do cliente que ele aborda. Isso permite que as equipes melhorem a tomada de decisões, entendendo a origem de um requisito. 
+
+Ademais, os elos de rastreabilidade são concebidos pelo relacionamento entre dois artefatos. São fortes aliados na criação de bibliotecas de componentes, pois deixam evidentes as correlações entre código e demais artefatos, sejam de desenho e/ou de requisitos. Dada a observância dos mesmos problemas ou das mesmas demandas,em um projeto similar, perceberá que é possível fazer uso das mesmas soluções, ou seja, dos mesmos componentes. Isso proporciona maior produtividade.
 </p>
 
 ## 2. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
-Para a realização desse artefato, primeiramente a baseline e o backlog do produto foi retificado. Em seguida, foi possível organizar os Requisitos Funcionais e Não Funcionais previamente elicitados, formando uma tabela com as suas origens (rastros), levando em consideração todas as suas aparições. Além disso, elaborou-se os elos relacionados a cada artefato elencado.
+Para a realização desse artefato, primeiramente a baseline e o backlog do produto foi retificado. Em seguida, foi possível organizar os Requisitos Funcionais e Não Funcionais previamente elicitados, formando uma tabela com as suas origens (rastros), levando em consideração todas as suas aparições. Por fim, utilizando a tabela já pronta, elaborou-se os elos de rastreabilidade supracitados.
 </p>
 
 ## 3. Pós-Rastreabilidade
@@ -26,6 +28,7 @@ Para a realização desse artefato, primeiramente a baseline e o backlog do prod
     </div>
 </html>
 
+<<<<<<< HEAD
 ### 3.2. Elos
 ### EF01
 
@@ -337,6 +340,9 @@ Para a realização desse artefato, primeiramente a baseline e o backlog do prod
 **Elo**:
 - Agregação: [ST02](../elicitation/storytelling.md) é composto por [ES20](../modeling/supplementary_specification.md)
 
+=======
+### 3.2. Elos de Rastreabilidade
+>>>>>>> d3b4d0769187a1098b0761eb510c10374289c467
 
 ## 4. Conclusão
 
@@ -356,3 +362,4 @@ Com esse artefato poderá servir como o ponto de referência para entender todos
 | :----: | :------: | :---------------------------------------------: | :----------------: | :-----: |
 | 0.0.1  | 02/04/22 |                     Criação                     | Adrian, João Durso |         |
 | 0.0.2  | 02/04/22 | Adição da Introdução, Metodologia e Referências | Adrian, João Durso |         |
+
