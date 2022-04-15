@@ -22,33 +22,31 @@ A partir dos <a href="../priorization/moscow">requisitos já levantados</a> atra
 
 ### 2.1. Funcionamento do Framework
 
-
-
 #### 2.1.1. Legenda
 
-| Símbolo  | Legenda  |
-|   ---    |    ---   |
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/softgoal.png">|Softgoal (Requisito Levantado)|
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/operacional.png">|Operacional (Forma de cumprimento do requisitp)|
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/afirmacao.png">|Afirmação (Informações sobre as decisões ou recomendações)|
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs\assets\nfr\and.png">|Caso os softgoals descendentes forem satisfeitos os ascendentes também serão|
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/or.png">|Caso algum softgoal descendente for satisfeito, o ascendente também será|
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/make.png">|Contribuição suficientemente positiva entre um softgoal descendente e um ascendente que é concebida no nível mais alto de satisfação|
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/break.png">|Contribuição suficientemente negativa entre um softgoal descendente e um ascendente que é concebida no nível mais alto de negação|
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/help.png">|Contribuição parcialmente positiva entre um softgoal descendente e um ascendente|
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/hurt.png">|Contribuição parcialmente negativa entre um softgoal descendente e um ascendente|
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/unknow.png">|Contribuição desconhecida entre um softgoal descendente e um ascendente|
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/equals.png">|O softgoal descendente será satisfeito, apenas se o softgoal ascendente for satisfeito ou o softgoal descendente será negado apenas se o softgoal ascendente for negado|
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/satisfeito.png">|O softgoal foi cumprido|
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/negado.png">|O softgoal foi negado/rejeitado|
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/parcialmente_satisfeito.png">|O softgoal foi parcialmente satisfeito|
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/parcialmente_negado.png">|O softgoal foi parcialmente negado/rejeitado|
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/conflitante.png">|O softgoal é conflitante com outros, em sua resolução|
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/desconhecido.png">|O estado do softgoal é desconhecido|
+| Símbolo                                                                                                                             | Legenda                                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/softgoal.png">                | Softgoal (Requisito Levantado)                                                                                                                                          |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/operacional.png">             | Operacional (Forma de cumprimento do requisitp)                                                                                                                         |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/afirmacao.png">               | Afirmação (Informações sobre as decisões ou recomendações)                                                                                                              |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs\assets\nfr\and.png">                     | Caso os softgoals descendentes forem satisfeitos os ascendentes também serão                                                                                            |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/or.png">                      | Caso algum softgoal descendente for satisfeito, o ascendente também será                                                                                                |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/make.png">                    | Contribuição suficientemente positiva entre um softgoal descendente e um ascendente que é concebida no nível mais alto de satisfação                                    |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/break.png">                   | Contribuição suficientemente negativa entre um softgoal descendente e um ascendente que é concebida no nível mais alto de negação                                       |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/help.png">                    | Contribuição parcialmente positiva entre um softgoal descendente e um ascendente                                                                                        |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/hurt.png">                    | Contribuição parcialmente negativa entre um softgoal descendente e um ascendente                                                                                        |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/unknow.png">                  | Contribuição desconhecida entre um softgoal descendente e um ascendente                                                                                                 |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/equals.png">                  | O softgoal descendente será satisfeito, apenas se o softgoal ascendente for satisfeito ou o softgoal descendente será negado apenas se o softgoal ascendente for negado |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/satisfeito.png">              | O softgoal foi cumprido                                                                                                                                                 |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/negado.png">                  | O softgoal foi negado/rejeitado                                                                                                                                         |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/parcialmente_satisfeito.png"> | O softgoal foi parcialmente satisfeito                                                                                                                                  |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/parcialmente_negado.png">     | O softgoal foi parcialmente negado/rejeitado                                                                                                                            |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/conflitante.png">             | O softgoal é conflitante com outros, em sua resolução                                                                                                                   |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/desconhecido.png">            | O estado do softgoal é desconhecido                                                                                                                                     |
 
 ## 3. NFR
 
-<!-- 
+<!--
 <div class="container">
     <div class="row">
         <div class="col">
@@ -205,19 +203,18 @@ A partir dos <a href="../priorization/moscow">requisitos já levantados</a> atra
 
 ## Referências bibliográficas
 
->  NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados, SILVA, Antônio Reinaldo, Universidade Federal de Pernambuco , Brazil, 2019. CD-ROM.
+> NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados, SILVA, Antônio Reinaldo, Universidade Federal de Pernambuco , Brazil, 2019. CD-ROM.
 
 ## Histórico de versões
 
-Versão|Data|Alteração|Responsável|Revisão|
-:-:|:-:|:-:|:-:|:-:|
-0.0.1|07/03/22|Criação|Adrian|Fernando|
-0.0.2|08/03/22|NFR 1, 2, 3, 4|Adrian|Fernando|
-0.0.3|08/03/22|NFR 5, 6, 7, 8|Adrian|Fernando|
-0.0.4|09/03/22|Inserção da Metodologia|Adrian|Fernando|
-0.0.5|09/03/22|Adição dos links ANFR|Adrian e Thalisson|Fernando|
-0.0.5|09/03/22|Adição legenda|Adrian e Thalisson|Fernando|
-
+| Versão |   Data   |        Alteração        |    Responsável     | Revisão  |
+| :----: | :------: | :---------------------: | :----------------: | :------: |
+| 0.0.1  | 07/03/22 |         Criação         |       Adrian       | Fernando |
+| 0.0.2  | 08/03/22 |     NFR 1, 2, 3, 4      |       Adrian       | Fernando |
+| 0.0.3  | 08/03/22 |     NFR 5, 6, 7, 8      |       Adrian       | Fernando |
+| 0.0.4  | 09/03/22 | Inserção da Metodologia |       Adrian       | Fernando |
+| 0.0.5  | 09/03/22 |  Adição dos links ANFR  | Adrian e Thalisson | Fernando |
+| 0.0.5  | 09/03/22 |     Adição legenda      | Adrian e Thalisson | Fernando |
 
 <style>
     p {

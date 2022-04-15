@@ -56,6 +56,7 @@ Apesar de não ser tão ligada nessas questões de tecnologia, sra. Dercy usa co
 </p>
 
 ### 3.4. Otimizando as minhas consultas
+
 <p style="text-indent: 20px; text-align: justify">
 Depois de um domingo agitado, acordei, seis horas da manhã na segunda, para trabalhar. Desde já, sabia que seria um dia complicado, pois a pandemia estava piorando com as novas variantes do Corona Vírus. Além disso, hoje era dia do meu plantão no Hospital de Base.
 Chegando no hospital, minhas expectativas já haviam sido confirmadas: o local estava superlotado.
@@ -67,6 +68,7 @@ Estou estusiasmado e irei recomendar para meus pacientes, pois há uma aba apena
 </p>
 
 ### 3.5. Reduzindo as preocupações
+
 <p style="text-indent: 20px; text-align: justify">
 Sempre fui uma mulher bastante agitada, gosto de fazer o dia render: lavar roupas, passar pano na casa, fazer café pros meus filhos, fazer almoço, plantar e colher meus milhos e minhas mandiocas. “Tá com a molesta”, eu faço coisa demais.
 Certo dia, acordei cedo para realizar meus exames de rotina. É muito médico: neurologista, cardiologista, oncologista, clínica geral, reumatologista e ortopedista. Liguei para minha filha e ela me levou nas clínicas.
@@ -84,30 +86,30 @@ O objetivo das histórias é chegar em alguns objetivos e ter uma boa ideia gera
 ### 4.1. Requisitos
 
 **Legenda:**
-  - ST: Requisitos de <span id="requisitos-storytelling">Storytelling</span>
 
-|Identificador|Descrição|
-|:-:|:-|
-|ST01|O app precisa mostrar os efeitos colaterais das medicações|
-|ST02|O app deve ser otimizado para a experiência mobile|
-|ST03|O app deve usar uma base de dados confiáveis|
-|ST04|O app deve disponibilizar busca|
-|ST05|A ferramenta de busca é a principal e deve ser diponibilizada ao abrir o app|
-|ST06|O app deve fornecer a lista ordenada de remédios|
-|ST07|A busca de medicamentos deve retornar rapidamente os resultados|
-|ST08|O app deve gerar arquivos para compartilhar com qualquer outra pessoa|
-|ST09|O app deve utilizar as APIs disponíveis para compartilhamento através dos aplicativos de comunicação mais comuns (E-mail e mensagens)|
-|ST10|O documento gerado pela aplicação deve ter um índice com links para as seções da bula|
-|ST11|A bula disponibilizada deve conter as indicações e contra-indicações do remédio|
-|ST12|A bula disponibilizada deve conter o modo de uso da medicação|
-|ST13|A aplicação deve fornecer opções de acessibilidade para quem tem visão ruim|
-|ST14|Deve ser possível favoritar as medicações|
-|ST15|O app deve conseguir marcar (favoritar) medicações vinculadas ao usuário e não só ao dispositivo|
-|ST16|A aplicação deve utilizar ícones comuns ao domínio mobile (mais utilizado)|
-|ST17|O app deve notificar os usuários acerca das atualizações da monografia dos medicamentos (inclusão, remoção e alteração)|
-|ST18|O app deve possui um link de compartilhamento do próprio aplicativo, para que os usuários possam recomendá-lo e outros possam baixá-lo|
-|ST19|A aplicação deve disponibilizar o aumento (e redução) do tamanho da fonte das monografias|
+- ST: Requisitos de <span id="requisitos-storytelling">Storytelling</span>
 
+| Identificador | Descrição                                                                                                                              |
+| :-----------: | :------------------------------------------------------------------------------------------------------------------------------------- |
+|     ST01      | O app precisa mostrar os efeitos colaterais das medicações                                                                             |
+|     ST02      | O app deve ser otimizado para a experiência mobile                                                                                     |
+|     ST03      | O app deve usar uma base de dados confiáveis                                                                                           |
+|     ST04      | O app deve disponibilizar busca                                                                                                        |
+|     ST05      | A ferramenta de busca é a principal e deve ser diponibilizada ao abrir o app                                                           |
+|     ST06      | O app deve fornecer a lista ordenada de remédios                                                                                       |
+|     ST07      | A busca de medicamentos deve retornar rapidamente os resultados                                                                        |
+|     ST08      | O app deve gerar arquivos para compartilhar com qualquer outra pessoa                                                                  |
+|     ST09      | O app deve utilizar as APIs disponíveis para compartilhamento através dos aplicativos de comunicação mais comuns (E-mail e mensagens)  |
+|     ST10      | O documento gerado pela aplicação deve ter um índice com links para as seções da bula                                                  |
+|     ST11      | A bula disponibilizada deve conter as indicações e contra-indicações do remédio                                                        |
+|     ST12      | A bula disponibilizada deve conter o modo de uso da medicação                                                                          |
+|     ST13      | A aplicação deve fornecer opções de acessibilidade para quem tem visão ruim                                                            |
+|     ST14      | Deve ser possível favoritar as medicações                                                                                              |
+|     ST15      | O app deve conseguir marcar (favoritar) medicações vinculadas ao usuário e não só ao dispositivo                                       |
+|     ST16      | A aplicação deve utilizar ícones comuns ao domínio mobile (mais utilizado)                                                             |
+|     ST17      | O app deve notificar os usuários acerca das atualizações da monografia dos medicamentos (inclusão, remoção e alteração)                |
+|     ST18      | O app deve possui um link de compartilhamento do próprio aplicativo, para que os usuários possam recomendá-lo e outros possam baixá-lo |
+|     ST19      | A aplicação deve disponibilizar o aumento (e redução) do tamanho da fonte das monografias                                              |
 
 ## Referências bibliográficas
 
@@ -116,9 +118,9 @@ O objetivo das histórias é chegar em alguns objetivos e ter uma boa ideia gera
 
 ## Histórico de versões
 
-Versão|Data|Alteração|Responsável|Revisão|
-:-:|:-:|:-:|:-:|:-:|
-0.0.1|17/02/22|Criação|Adrian e João Durso|Thalisson e Fernando|
-0.0.2|18/02/22|Introdução e História 1|Adrian|Thalisson e Fernando|
-0.0.3|19/02/22|História 2 e 3, Requisitos Levantados|Adrian|Thalisson e Fernando|
-0.0.4|20/02/22|História 3 e 4, Requisitos Levantados|João Durso|Thalisson e Fernando|
+| Versão |   Data   |               Alteração               |     Responsável     |       Revisão        |
+| :----: | :------: | :-----------------------------------: | :-----------------: | :------------------: |
+| 0.0.1  | 17/02/22 |                Criação                | Adrian e João Durso | Thalisson e Fernando |
+| 0.0.2  | 18/02/22 |        Introdução e História 1        |       Adrian        | Thalisson e Fernando |
+| 0.0.3  | 19/02/22 | História 2 e 3, Requisitos Levantados |       Adrian        | Thalisson e Fernando |
+| 0.0.4  | 20/02/22 | História 3 e 4, Requisitos Levantados |     João Durso      | Thalisson e Fernando |

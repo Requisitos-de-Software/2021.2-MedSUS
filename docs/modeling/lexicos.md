@@ -1,7 +1,7 @@
 # Léxicos
 
 ## 1. Introdução
-  
+
 <p class="paragraph">
     O léxico é uma impotante ferramenta para entender o vocabulário dentro do escopo do problema que será solucionado. Com ele, busca-se descrever as principais palavras pertencentes ao universo do usuário e ao uso do sistema, e a relação dessas palavras.   
 </p>
@@ -12,18 +12,17 @@
     Os léxicos poderão ser usados para uma rastrabilidade dos termos quando forem utilizados, através de referências por links internos e externos pelas páginas do nosso projeto.
 </p>
 
-
 ## 2. Metodologia
 
 <p class="paragraph">
     Através da utilização do aplicativo e da consulta a fontes do <a href="#sus">SUS</a> e da Anvisa, levantamos significados dos vocábulos e o papel dele dentro do sistema. Os Léxicos podem ser objetos, verbos(ações) ou estados, para todos eles temos as noções e seus impactos no domínio. Podemos resumir suas descrições da seguinte maneira:
 </p>
 
-|  Tipo |Noção|Impacto|
-|  ---  | --- |  ---  |
-|Verbo|Quem Realiza, Quando e Quais os procedimentos|Ações decorrentes e novos estados|
-|Objeto|Definição do objeto e objetos relacionados|Ações aplicáveis ao objeto|
-|Estado|O que significa e quais ações o geram|Estados decorrentes|
+| Tipo   | Noção                                         | Impacto                           |
+| ------ | --------------------------------------------- | --------------------------------- |
+| Verbo  | Quem Realiza, Quando e Quais os procedimentos | Ações decorrentes e novos estados |
+| Objeto | Definição do objeto e objetos relacionados    | Ações aplicáveis ao objeto        |
+| Estado | O que significa e quais ações o geram         | Estados decorrentes               |
 
 ## 3. Léxicos
 
@@ -745,12 +744,12 @@
 
 ## Histórico de versões
 
-Versão|Data|Alteração|Responsável|Revisão|
-:-:|:-:|:-:|:-:|:-:|
-0.0.1|02/03/22|Criação|Adrian|Fernando|
-0.0.2|03/03/22|Adição de Léxicos|Adrian|Fernando|
-0.0.3|05/03/22|Finalização dos Léxicos|Adrian|Fernando|
-0.0.4|06/03/22|Introdução e metodologia|Adrian|Fernando|
-0.0.5|06/03/22|Referências|Adrian|Fernando|
-0.0.6|09/03/22|Correção das tags de fechamento|Thalisson|---| 
-1.0.0|01/04/22|Correções da análise e pré-rastreabilidade|Adrian|---|
+| Versão |   Data   |                 Alteração                  | Responsável | Revisão  |
+| :----: | :------: | :----------------------------------------: | :---------: | :------: |
+| 0.0.1  | 02/03/22 |                  Criação                   |   Adrian    | Fernando |
+| 0.0.2  | 03/03/22 |             Adição de Léxicos              |   Adrian    | Fernando |
+| 0.0.3  | 05/03/22 |          Finalização dos Léxicos           |   Adrian    | Fernando |
+| 0.0.4  | 06/03/22 |          Introdução e metodologia          |   Adrian    | Fernando |
+| 0.0.5  | 06/03/22 |                Referências                 |   Adrian    | Fernando |
+| 0.0.6  | 09/03/22 |      Correção das tags de fechamento       |  Thalisson  |   ---    |
+| 1.0.0  | 01/04/22 | Correções da análise e pré-rastreabilidade |   Adrian    |   ---    |

@@ -13,12 +13,12 @@ Essa especificação cobre todos os requisitos não funcionais do sistema, como 
 
 ## 2. Metodologia
 
-Os requisitos neste documento foram definidos com base no sistema FURPS+. 
+Os requisitos neste documento foram definidos com base no sistema FURPS+.
 
 Esse sistema visa classificar os requisitos de acordo com os atributos de qualidade de software. O acrônimo representa as possíveis categorias para os requisitos, são elas:
 
 - Funcionalidade: Capacidade (generalidade do conjunto de recursos), reutilização (compatibilidade, interoperabilidade, portabilidade), segurança e explorabilidade;
-- Usabilidade: Resposividade, documentação, consistência, estética, fatores humanos em geral; 
+- Usabilidade: Resposividade, documentação, consistência, estética, fatores humanos em geral;
 - Confiabilidade: Disponibilidade(Frequência de Falhas(Robustez/Durabilidade/Responsividade), Extensão e Duração da Falha(Recuperabilidade/Sobrevivênvia)), Previsibilidade/Establidade;
 - Desempenho: Velocidade, Eficiência, Consumo de Recurso, Rendimento, Capacidade, Escalabilidadae;
 - Suportabilidade: Manutenabulidade, Testabilidade, Flexibilidade, Instabilidade, Localizabilidade.
@@ -95,17 +95,15 @@ Esse sistema visa classificar os requisitos de acordo com os atributos de qualid
 
 ## Referências bibliográficas
 
-> http://home.iscte-iul.pt/~hro/RUPSmallProjects/core.base_rup/workproducts/rup_supplementary_specification_F5ACAA22.html
-> https://csis.pace.edu/~marchese/SE616_New/Samples/Example%20%20Supplementary%20Specification.htm
-> https://qualidadebr.wordpress.com/2008/07/10/furps/
+> http://home.iscte-iul.pt/~hro/RUPSmallProjects/core.base_rup/workproducts/rup_supplementary_specification_F5ACAA22.html > https://csis.pace.edu/~marchese/SE616_New/Samples/Example%20%20Supplementary%20Specification.htm > https://qualidadebr.wordpress.com/2008/07/10/furps/
 
 ## Histórico de versões
 
-Versão|Data|Alteração|Responsável|Revisão|
-:---:|:---:|:---:|:---:|:---:|
-0.0.1|03/03/2022|Criação|Thalisson e Fernando| Adrian |
-0.0.2|03/03/2022|Introdução (Propósito e Escopo)|Thalisson e Fernando| Adrian |
-0.0.3|04/03/2022|Metodologia|Thalisson|Adrian|
-0.0.4|04/03/2022|Especificação Suplementar|Thalisson|Adrian|
-0.0.5|05/03/2022|Adição de requisitos|Thalisson|Adrian|
-0.0.6|03/04/2022|Adição dos requisitos adicionais do FURPS+|Thalisson|Adrian|
+| Versão |    Data    |                 Alteração                  |     Responsável      | Revisão |
+| :----: | :--------: | :----------------------------------------: | :------------------: | :-----: |
+| 0.0.1  | 03/03/2022 |                  Criação                   | Thalisson e Fernando | Adrian  |
+| 0.0.2  | 03/03/2022 |      Introdução (Propósito e Escopo)       | Thalisson e Fernando | Adrian  |
+| 0.0.3  | 04/03/2022 |                Metodologia                 |      Thalisson       | Adrian  |
+| 0.0.4  | 04/03/2022 |         Especificação Suplementar          |      Thalisson       | Adrian  |
+| 0.0.5  | 05/03/2022 |            Adição de requisitos            |      Thalisson       | Adrian  |
+| 0.0.6  | 03/04/2022 | Adição dos requisitos adicionais do FURPS+ |      Thalisson       | Adrian  |
