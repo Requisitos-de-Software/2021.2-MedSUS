@@ -6,6 +6,6 @@
 
 ## Versionamento
 
-| Versão | Data | Modificação | Autor |
-| :--: | :--: | :--: | :--: |
-| 1.00 | 06/03/2022 | Gravação da apresentação | Todos os integrantes |
+| Versão |    Data    |       Modificação        |        Autor         |
+| :----: | :--------: | :----------------------: | :------------------: |
+|  1.00  | 06/03/2022 | Gravação da apresentação | Todos os integrantes |
