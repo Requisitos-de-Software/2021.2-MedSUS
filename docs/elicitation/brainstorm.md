@@ -9,12 +9,14 @@ O Brainstorming é uma das mais conhecidas técnicas de Elicitação de requisit
 ## 2.Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
-A princípio, a técnica do Brainstorm é realizada de forma presencial, em uma reunião das partes interessadas e cada um expões as ideias ali pensadas, entretanto estamos enfrentando uma das maiores crises sanitárias da história. Portanto, decidimos nos
+A princípio, a técnica do [Brainstorm](https://requisitos-de-software.github.io/2021.2-MedSUS/elicitation/brainstorm/) é realizada de forma presencial, em uma reunião das partes interessadas e cada um expões as ideias ali pensadas, entretanto estamos enfrentando uma das maiores crises sanitárias da história. Portanto, decidimos nos
 encontrar remotamente através do Discord. E, utilizamos o HackMD para expor nossas ideias num documento compartilhado entre todos os integrantes. Cada ideia, solução e observação foi discutida em conjuto com toda a equipe. Para facilitar no surgimento de ideias e o descubrimento de possíveis problemas, todos os integrantes abriram o aplicativo MedSUS e navegaram em conjunto para discutir
 as funcionalidades do produto. Quando alguma ideia ou funcionalidade estava em discussão, todos os integrantes iam para a suposta funcionalidade e ver o funcionamento na prática. A dinâmica foi realizada com todos integrantes do grupo no dia 16 de fevereiro de 2022 ás 19 horas e durou cerca de 3 horas.
 </p>
 
 ## 3. Brainstorm
+
+<p style="text-indent: 20px; text-align: justify">
 
 ### 3.1. Requisitos já levantados
 
@@ -37,6 +39,8 @@ as funcionalidades do produto. Quando alguma ideia ou funcionalidade estava em d
 **R17 -** A aplicação deve ser suportada por Android e IOS.</p>
 **R18 -** O usuário deve ser capaz de alterar o tamanho da fonte.</p>
 
+</p>
+
 ## Referências
 
 > Carlos Eduardo Vazquez, Guilherme Siqueira Simões, Engenharia de requisitos: software orientado ao negócio, 1ª ed., Brasport, 2016.
@@ -46,4 +50,4 @@ as funcionalidades do produto. Quando alguma ideia ou funcionalidade estava em d
 | Versão |   Data   |      Alteração       | Responsável |  Revisão   |
 | :----: | :------: | :------------------: | :---------: | :--------: |
 | 0.0.1  | 20/02/22 | Criação do documento |  Fernando   | João Durso |
-| 0.0.2  | 05/03/22 |  Correção do texto   | João Durso  | Thalisson  |
+| 0.0.2  | 05/03/22 |   Correção textual   | João Durso  | Thalisson  |

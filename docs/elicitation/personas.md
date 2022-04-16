@@ -3,15 +3,15 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-Este é um método de elicitação muito utilizado, de forma que existem, inclusive metodologias de projeto guiadas por personas. São pessoas fictícias criadas pelos desenvolvedores e projetistas de sistemas, para representar os usuários importantes para guiar a elicitação de requisitos e funcionalidades. São de muita valia pois criam uma percepção tangível dos usuários para os envolvidos no desenvolvimento do software. Os usuários se tornam menos abstratos e genéricos.
-É também uma importante ferramenta de síntese de ideias, de forma que o nome de uma persona já evoca, na mente dos desenvolvedores, todas as necessidades e objetivos ligados àquela persona, podendo ser usado, por exemplo, em reuniões para questionar ou concordar com uma ideia utilizando um argumento como "A Dª Maria jamais saberia utilizar essa função", sendo a Dª Maria uma das personas criadas. 
-As personas podem ser primárias, secundárias ou anti-persona. Determinamos, de início, as personas primárias.
+Este é um método de elicitação muito utilizado, inclusive existem metodologias de projeto guiadas por personas. São pessoas fictícias criadas pelos desenvolvedores e projetistas de sistemas, para representar os usuários importantes para guiar a elicitação de requisitos e funcionalidades. São de muita valia, pois criam uma percepção tangível dos usuários para os envolvidos no desenvolvimento do software. Os usuários se tornam menos abstratos e genéricos.
+É também uma importante ferramenta de síntese de ideias, de forma que o nome de uma persona já evoca, na mente dos desenvolvedores, todas as necessidades e objetivos ligados àquela persona, podendo ser usado, por exemplo, em reuniões para questionar ou concordar com uma ideia, utilizando um argumento como "A dona Nenê jamais saberia utilizar essa função", sendo a dona Nenê uma das personas criadas neste projeto. 
+As personas podem ser primárias, secundárias ou anti-persona. Determinamos, de início, as personas primárias e a anti-persona.
 </p>
 
 ## 2. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
-A partir do Brainstorming realizado em uma reunião com todos os membros do grupo, conseguimos levantar alguns requisitos básico. A partir desses requisitos, buscamos as personas básicas que mais utilizariam esses requisitos. As personas foram detalhadas, com suas histórias, necessidades e objetivos. Pode parecer algo inútil em um primeiro momento, mas é muito importante para criar uma imagem vívida da persona para os designers e estabelcer requistos de forma precisa. 
+A partir do [Brainstorm](https://requisitos-de-software.github.io/2021.2-MedSUS/elicitation/brainstorm/) realizado em uma reunião com todos os membros do grupo, conseguimos levantar alguns requisitos básico. A partir desses requisitos, buscamos as personas básicas que mais utilizariam esses requisitos. As personas foram detalhadas, com suas histórias, necessidades e objetivos. Pode parecer algo inútil em um primeiro momento, mas é muito importante para criar uma imagem vívida da persona para os designers e estabelcer requistos de forma precisa. 
 </p>
 
 ## 3. Personas
@@ -48,10 +48,10 @@ Médico.
 - **Tarefas**
 <p style="text-indent: 20px; text-align: justify">
 Gabriel Moura procura, todos os dias, informações sobre  
-medicamentos em seu trabalho, por exemplo, contraindicações, efeitos  
+medicamentos em seu trabalho, por exemplo: contraindicações, efeitos  
 colaterais indesejados pelo paciente, qual a quantidade indicada para o  
 consumo, entre outros. No entanto, ele percebe que é há a necessidade de obter  
-essas informações de maneira mais intuitiva e facilitada, pelo seu computador.  
+essas informações de maneira mais intuitiva e facilitada, pelo seu computador e/ou smartphone.  
 </p>
 
 - **Relacionamentos**
@@ -133,7 +133,7 @@ Antipersona.
 
 - **Objetivos**
 <p style="text-indent: 20px; text-align: justify">
-Com o advento da pandemia, Vitória acabou tendo seus planos adiados, mas seus objetivo continua sendo trabalhar no hospital até adquirir recurso suficiente para montar sua 
+Com o advento da pandemia, Vitória acabou tendo seus planos adiados, mas seu objetivo continua sendo trabalhar no hospital até adquirir recurso suficiente para montar sua 
 própria clínica. 
 </p>
 
@@ -173,4 +173,5 @@ própria clínica ano que vem.
 | 0.0.2  | 20/02/22 |        Formatação        | Adrian e João Durso | Thalisson e Fernando |
 | 0.0.3  | 20/02/22 |    Adição de personas    | Adrian e João Durso | Thalisson e Fernando |
 | 0.0.4  | 20/02/22 | Introdução e metodologia |       Adrian        |      João Durso      |
-| 0.0.5  | 20/02/22 |  Adição de Antipersona   |     João Durso      |          -           |
+| 0.0.5  | 05/03/22 |  Adição de Antipersona   |     João Durso      |    Gabriel Costa     |
+| 0.0.6  | 15/04/22 |     Correção textual     |     João Durso      |    Gabriel Costa     |

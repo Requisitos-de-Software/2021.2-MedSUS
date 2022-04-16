@@ -1,29 +1,25 @@
 ## 1.Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-O significado da palavra instrospecção é, para psicologia:observação e descrição do conteúdo (pensamentos, sentimentos) da própria mente.
+O significado da palavra instrospecção é, para a psicologia, a observação e descrição do conteúdo (pensamentos, sentimentos) da própria mente.
 
-Portanto, é fácil imaginar como funciona essa técnica de Elicitação de Requisitos. O Engenheiro de Software, por exemplo, se coloca no lugar do usuário e imagina usar o produto
-desenvolvido a partir da visão do usuário.
+Portanto, é fácil imaginar como funciona essa técnica de Elicitação de Requisitos. O Engenheiro de Software, por exemplo, se coloca no lugar do usuário, usando o produto desenvolvido, a partir da visão do usuário. Assim, o Engenheiro monta um cenário em sua mente e, a partir de pensamentos e sentimentos, surgem possíveis novos requisitos ou problemas dos quais podem ser levados em consideração.
 
-Assim, o Engenheiro monta um cenário em sua mente e a partir de pensamentos e sentimos surgem possíveis novos requisitos ou problemas dos quais podem ser levados em consideração.
 </p>
 
 ## 2.Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
-Para realizarmos essa técnica, três integrantes do grupo reuniram-se e dicutiram sobre a técnica. Em seguida, cada um, individualmente, realizou uma introspecção.
+Para realizarmos essa técnica, três integrantes do grupo se reuniram e discutiram sobre a técnica. Em seguida, cada um, individualmente, realizou uma introspecção.
 </p>
 
 ## 3.Participantes e respectiva instrospecção
 
 <p style="text-indent: 20px; text-align: justify">
 
-**Adrian:** Com a busca como principal ferramenta, gostaria que, ao entrar no app. Já estivesse na página de busca, parecido com o Google.
-E com as ferramentas de filtragem
-destacadas:
+**Adrian:** Com a busca como principal ferramenta, gostaria que, ao entrar no app, já estivesse na página de busca, parecido com o Google. E com as ferramentas de filtragem destacadas:
 
-- Gostaria de poder acessar uma forma resumida da bula. Com os efeitos colaterais e as indicações e contra indicações, com menos termos técnicos.
+- Gostaria de poder acessar uma forma resumida da bula, com os efeitos colaterais e as indicações e contra indicações, com menos termos técnicos.
 - Gostaria de poder filtrar medicamentos por doenças, apesar de talvez ser algo muito complexo de implementar.
 - Quero um app que seja eficiente ao retornar às buscas.
 - Ele deve ser agradável aos olhos.
@@ -32,9 +28,9 @@ destacadas:
 - Gostaria de favoritar medicações atrelado a alguma conta, para acessá-las em outros dispositivos.
 - Quero um app que se pareça com apps que já utilizo (ícones, guia de estilo).
 
-**Fernando:** Ao entrar no aplicativo, gostaria que o mesmo fosse fácil de aprender, pois não sou familiarizado com tecnologias e o uso apenas para informações pontuais. Portanto, não estou disposto a aprender uma ferramenta complexa. Apesar de meu dispositivo não ser um dos melhores, esperaria que num aplicativo simples como esse a performance do mesmo fosse agradável para meu uso.
+**Fernando:** Ao entrar no aplicativo, gostaria que o mesmo fosse fácil de aprender, pois não sou familiarizado com a tecnologia e o uso apenas para informações pontuais. Portanto, não estou disposto a aprender uma ferramenta complexa. Apesar de meu dispositivo não ser dos melhores, esperaria que num aplicativo simples como esse a performance do mesmo fosse agradável para meu uso.
 
-**Gabriel Costa:** A princípio eu quero um aplicativo bonito, e que entregue todas as suas principais funcionalidades sem erros críticos. Assim, com esses requisitos básicos atendido ficarei mais motivado não só para usar o aplicativo, como também para indica-lo. Para mim as principais funcionalidades são pesquisar medicamentos pelo nome, compartilhar informações por PDF, apresentar as informações de forma legível.
+**Gabriel Costa:** A princípio, eu quero um aplicativo bonito, e que entregue todas as suas principais funcionalidades sem erros críticos. Assim, com esses requisitos básicos atendidos, ficarei mais motivado não só para usar o aplicativo, como também para indicá-lo. Para mim as principais funcionalidades são pesquisar medicamentos pelo nome, compartilhar informações por PDF e apresentar as informações de forma legível.
 
 </p>
 
@@ -64,7 +60,8 @@ Legenda: Introspection Requirement (IR)
 
 ## Histórico de versões
 
-| Versão |   Data   |       Alteração        | Responsável | Revisão |
-| :----: | :------: | :--------------------: | :---------: | :-----: |
-| 0.0.1  | 20/02/22 |  Criação do documento  |  Fernando   |   --    |
-| 0.0.2  | 09/03/22 | Correção de indentação |  Thalisson  |   --    |
+| Versão |   Data   |       Alteração        | Responsável |  Revisão   |
+| :----: | :------: | :--------------------: | :---------: | :--------: |
+| 0.0.1  | 20/02/22 |  Criação do documento  |  Fernando   | João Durso |
+| 0.0.2  | 09/03/22 | Correção de indentação |  Thalisson  | João Durso |
+| 0.0.2  | 09/03/22 |    Correção textual    | João Durso  | Thalisson  |
