@@ -51,7 +51,7 @@ Por conta das diversas medicações que toma, sra. Dercy, que troca de médico m
 Apesar de não ser tão ligada nessas questões de tecnologia, sra. Dercy usa costumeiramente seu celular, principalmente os aplicativos de mensagem mais comuns. Ela achou muito "supimpa", pois conseguiu localizar facilmente os medicamentos salvos através do ícone de "estrela".
 </p>
 
-### 3.4. Otimizando as minhas consultas
+### 3.4. Otimizando as minhas consultas (Persona: Gabriel Moura)
 
 <p style="text-indent: 20px; text-align: justify">
 Depois de um domingo agitado, acordei, seis horas da manhã na segunda, para trabalhar. Desde já, sabia que seria um dia complicado, pois a pandemia estava piorando com as novas variantes do Corona Vírus. Além disso, hoje era dia do meu plantão no Hospital de Base.
@@ -63,7 +63,7 @@ Ademais, posso ficar sabendo de alterações, inclusões e remoções desses med
 Estou estusiasmado e irei recomendar para meus pacientes, pois descobri que há uma aba apenas para cidadãos leigos no assunto.
 </p>
 
-### 3.5. Reduzindo as preocupações
+### 3.5. Reduzindo as preocupações (Persona: Irene de Souza)
 
 <p style="text-indent: 20px; text-align: justify">
 Sempre fui uma mulher bastante agitada, gosto de fazer o dia render: lavar roupas, passar pano na casa, fazer café pros meus filhos, fazer almoço, plantar e colher meus milhos e minhas mandiocas. “Tá com a molesta”, eu faço coisa demais.

@@ -18,6 +18,11 @@ A partir do [Brainstorm](https://requisitos-de-software.github.io/2021.2-MedSUS/
 
 ### 3.1. Gabriel Moura
 
+![Gabriel Moura](../assets/persona_gabriel_moura.jpeg)
+
+<h6 style="text-align:center">Figura 1: Gabriel Moura</h6>
+<h6 style="text-align: center">Fonte: Autor</h6>
+
 - **Identidade**
 <p style="text-indent: 20px; text-align: justify">
 Gabriel Moura, idade 41 anos, morador do Lago Sul, classe alta, 
@@ -77,6 +82,11 @@ documentação dos medicamentos.
 
 ### 3.2. Irene de Souza
 
+![Irene de Souza](../assets/persona_irene_souza.jpeg)
+
+<h6 style="text-align:center">Figura 1: Irene de Souza</h6>
+<h6 style="text-align: center">Fonte: Google Imagens</h6>
+
 - **Identidade**
 <p style="text-indent: 20px; text-align: justify">
 Irene de Souza, conhecida como dona Nenê, idade 63 anos, moradora de Planaltina, classe média, trabalhava como doméstica, mas atualmente está aposentada. Recebe pensão de seu marido, que trabalhava na CAGEPA.
@@ -118,6 +128,11 @@ Dona Nenê espera facilitar a organização desses medicamentos, transferindo as
 </p>
 
 ### 3.3 Vitória Aly
+
+![Vitória Aly](../assets/persona_vitoria_aly.jpeg)
+
+<h6 style="text-align:center">Figura 1: Vitória Aly</h6>
+<h6 style="text-align: center">Fonte: Autor</h6>
 
 - **Identidade**
 <p style="text-indent: 20px; text-align: justify">
