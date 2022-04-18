@@ -3,13 +3,13 @@
 ## 1. Introdução
 
 <p class="paragraph">
-    O léxico é uma impotante ferramenta para entender o vocabulário dentro do escopo do problema que será solucionado. Com ele, busca-se descrever as principais palavras pertencentes ao universo do usuário e ao uso do sistema, e a relação dessas palavras.   
+    O léxico é uma importante ferramenta para entender o vocabulário dentro do escopo do problema que será solucionado. Com ele, busca-se descrever as principais palavras pertencentes ao universo do usuário e ao uso do sistema, além da relação dessas palavras.   
 </p>
 <p class="paragraph">
-    Considerando que no processo de elicitação, modelagem e análise, como também em todo o desenvolvimento de um software, participam profissionais com diferentes funções e competências, termos técnicos ou de significado diverso do usual podem dar margem a diferentes interpretações para um mesmo termo ou expressão (CONSTRUÇÃO..., 2006, p. 2) . Com o Léxico, consegue-se garantir uma melhor compreensão da pŕopria aplicação para os desenvolvedores e o apoio ao levantamento de requisitos.
+    Considerando que no processo de elicitação, modelagem e análise, como também em todo o desenvolvimento de um software, participam profissionais com diferentes funções e competências, termos técnicos ou de significado diverso do usual podem dar margem a diferentes interpretações para um mesmo termo ou expressão (CONSTRUÇÃO..., 2006, p. 2). Com o Léxico, consegue-se garantir uma melhor compreensão da pŕopria aplicação para os desenvolvedores e o apoio ao levantamento de requisitos.
 </p>
 <p class="paragraph">
-    Os léxicos poderão ser usados para uma rastrabilidade dos termos quando forem utilizados, através de referências por links internos e externos pelas páginas do nosso projeto.
+    Os léxicos poderão ser usados para uma rastreabilidade dos termos quando forem utilizados, através de referências por links internos e externos pelas páginas do nosso projeto.
 </p>
 
 ## 2. Metodologia
@@ -160,7 +160,7 @@
                     <ul class="m-0 list-group">
                         <li class="m-0 list-group-item">
                             Documento legal sanitário que serve para obter informações e orientações sobre <a
-                                href="#medicamento">medicamentos</a> necessárias
+                                href="#medicamento">medicamentos</a> necessários
                             para o uso seguro e <a href="#tratamento">tratamento</a> eficaz.
                         </li>
                         <li class="m-0 list-group-item">
@@ -233,7 +233,7 @@
                         <li class="m-0 list-group-item">Disponível em separado da <a href="#bula-paciente">Bula para o
                                 Paciente</a></li>
                         <li class="m-0 list-group-item">Especificações técnicas para guiarem o <a href="#medico">profissional de saúde</li>
-                        <li class="m-0 list-group-item">Informações direcionadas sobre os efeitos dos <a href="#medicamentos">fármacos</a> e suas recomendaçõwa</li>
+                        <li class="m-0 list-group-item">Informações direcionadas sobre os efeitos dos <a href="#medicamentos">fármacos</a> e suas recomendações</li>
                     </ul>
                 </div>
                 <div class="card-footer p-2">
@@ -460,7 +460,7 @@
                 </div>
                 <div class="card-body p-2">
                     <h5 class="card-text">Sinônimos</h5>
-                    <p class="list-group-item">Doutor, Profissiona de Saúde</p>
+                    <p class="list-group-item">Doutor, Profissional de Saúde</p>
                 </div>
                 <div class="card-body p-2">
                     <h5 class="card-text">Noções</h5>
@@ -624,7 +624,7 @@
                 <div class="card-body p-2">
                     <h5 class="card-text"> Noções </h5>
                     <ul class="m-0 list-group">
-                        <li class="m-0 list-group-item ">Sistema Único de Saúde. um dos maiores e mais complexos sistemas de saúde pública do mundo, garantindo acesso integral, universal e gratuito para toda a população</li>
+                        <li class="m-0 list-group-item ">Sistema Único de Saúde. Um dos maiores e mais complexos sistemas de saúde pública do mundo, garantindo acesso integral, universal e gratuito para toda a população</li>
                         <li class="m-0 list-group-item ">Mantenedor do aplicativo</li>
                     </ul>
                 </div>

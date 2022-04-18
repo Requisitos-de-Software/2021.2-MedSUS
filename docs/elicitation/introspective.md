@@ -1,4 +1,6 @@
-## 1.Introdução
+# Introspecção
+
+## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
 O significado da palavra instrospecção é, para a psicologia, a observação e descrição do conteúdo (pensamentos, sentimentos) da própria mente.
@@ -7,17 +9,17 @@ Portanto, é fácil imaginar como funciona essa técnica de Elicitação de Requ
 
 </p>
 
-## 2.Metodologia
+## 2. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
 Para realizarmos essa técnica, três integrantes do grupo se reuniram e discutiram sobre a técnica. Em seguida, cada um, individualmente, realizou uma introspecção.
 </p>
 
-## 3.Participantes e respectiva instrospecção
+## 3. Introspecção e seus responsáveis
 
+### 3.1 Adrian
 <p style="text-indent: 20px; text-align: justify">
-
-**Adrian:** Com a busca como principal ferramenta, gostaria que, ao entrar no app, já estivesse na página de busca, parecido com o Google. E com as ferramentas de filtragem destacadas:
+Com a busca como principal ferramenta, gostaria que, ao entrar no app, já estivesse na página de busca, parecido com o Google. E com as ferramentas de filtragem destacadas:
 
 - Gostaria de poder acessar uma forma resumida da bula, com os efeitos colaterais e as indicações e contra indicações, com menos termos técnicos.
 - Gostaria de poder filtrar medicamentos por doenças, apesar de talvez ser algo muito complexo de implementar.
@@ -27,14 +29,20 @@ Para realizarmos essa técnica, três integrantes do grupo se reuniram e discuti
 - Gostaria de poder buscar por palavras-chave e não somente pelos nomes das medicações.
 - Gostaria de favoritar medicações atrelado a alguma conta, para acessá-las em outros dispositivos.
 - Quero um app que se pareça com apps que já utilizo (ícones, guia de estilo).
-
-**Fernando:** Ao entrar no aplicativo, gostaria que o mesmo fosse fácil de aprender, pois não sou familiarizado com a tecnologia e o uso apenas para informações pontuais. Portanto, não estou disposto a aprender uma ferramenta complexa. Apesar de meu dispositivo não ser dos melhores, esperaria que num aplicativo simples como esse a performance do mesmo fosse agradável para meu uso.
-
-**Gabriel Costa:** A princípio, eu quero um aplicativo bonito, e que entregue todas as suas principais funcionalidades sem erros críticos. Assim, com esses requisitos básicos atendidos, ficarei mais motivado não só para usar o aplicativo, como também para indicá-lo. Para mim as principais funcionalidades são pesquisar medicamentos pelo nome, compartilhar informações por PDF e apresentar as informações de forma legível.
-
 </p>
 
-## 4.Resultado
+### 3.2 Fernando
+<p style="text-indent: 20px; text-align: justify">
+Ao entrar no aplicativo, gostaria que o mesmo fosse fácil de aprender, pois não sou familiarizado com a tecnologia e o uso apenas para informações pontuais. Portanto, não estou disposto a aprender uma ferramenta complexa. Apesar de meu dispositivo não ser dos melhores, esperaria que num aplicativo simples como esse a performance do mesmo fosse agradável para meu uso.
+</p>
+
+### 3.3 Gabriel Costa
+<p style="text-indent: 20px; text-align: justify">
+A princípio, eu quero um aplicativo bonito, e que entregue todas as suas principais funcionalidades sem erros críticos. Assim, com esses requisitos básicos atendidos, ficarei mais motivado não só para usar o aplicativo, como também para indicá-lo. Para mim as principais funcionalidades são pesquisar medicamentos pelo nome, compartilhar informações por PDF e apresentar as informações de forma legível.
+</p>
+
+
+## 4. Resultado
 
  <div id="requisitos-introsp"></div>
 
