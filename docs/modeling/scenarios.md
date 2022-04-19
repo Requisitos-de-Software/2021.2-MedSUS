@@ -3,7 +3,7 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-Cenário é que uma cena que ilustra a interação entre ambientes e um sistema proposto. Ademais, é uma ferramenta extremamente utilizada durante a análise de requerimentos para descrever o uso de um sistema. Os cenários capturam o sistema, visto de fora, por exemplo, por um usuário, usando exemplo específicos. Para isso, faz uso de algumas abstrações, como título, objetivos, contexto, ator(es), recursos, exceções, episódios e restrições.
+Cenário é uma cena que ilustra a interação entre ambientes e um sistema proposto. Ademais, é uma ferramenta extremamente utilizada durante a análise de requerimentos para descrever o uso de um sistema. Os cenários capturam o sistema, visto de fora, por exemplo, por um usuário, usando exemplo específicos. Para isso, faz uso de algumas abstrações, como título, objetivos, contexto, ator(es), recursos, exceções, episódios e restrições.
 </p>
 
 ## 2. Metodologia
@@ -23,18 +23,18 @@ descrever de que modo este objetivo deve ser alcançado.
 
 **Contexto**
 
-descreve o estado inicial de um cenário, suas précondições, o local (físico) e tempo. Na sua definição podem ser
+descreve o estado inicial de um cenário, suas pré-condições, o local (físico) e tempo. Na sua definição podem ser
 especificadas restrições sobre estes elementos
 
 **Atores**
 
-Pessoa ou estrutura organizacional que tem um papel no cenário
+Pessoa ou estrutura organizacional que tem um papel no cenário.
 
 **Recursos**
 
 identifica os objetos passivos com os quais lidam os
 atores. Na sua definição podem ser especificadas restrições sobre os
-objetos a serem lidados pelo cenário
+objetos a serem lidados pelo cenário.
 
 **Episódios**
 
@@ -59,7 +59,7 @@ Uma exceção é o tratamento para uma situação excepcional ou de erro
 
 **Objetivo**
 
-Buscar por medicamento específico para facilitar achá-lo.
+Buscar por medicamento específico para o encontrar mais facilmente.
 
 **Contexto**
 
@@ -83,7 +83,7 @@ Usuário pesquisa o medicamento desejado.
 
 **Restrições**
 
-_smartphone_ incapaz de executar o a aplicativo corretamente.
+_smartphone_ incapaz de executar o aplicativo corretamente.
 Falha na conexão com a internet  
 Usuário não sabe o nome do medicamento.
 
@@ -162,7 +162,7 @@ Medicamento não existe no sistema.
 
 **Exceções**
 
-Nenhuma exceções foi encontrada.
+Nenhuma exceção foi encontrada.
 
 ### Cenário 004
 
@@ -338,7 +338,7 @@ Usuário seleciona o seu perfil (profissional da saúde ou usuário comum), na a
 
 **Restrições**
 
-Usuário não perceber a aba de seleçao de perfil.
+Usuário não perceber a aba de seleção de perfil.
 
 **Exceções**
 
@@ -356,7 +356,7 @@ Notificar ao usuário a adição de um medicamento no aplicativo, a fim de deix�
 
 Local: Em qualquer tela do celular.
 Tempo: A qualquer momento.
-Pré-condição: Possuir as notificações do aplicativo ligadas e estar conectado a internet.
+Pré-condição: Possuir as notificações do aplicativo ligadas e estar conectado à internet.
 
 **Atores**
 
@@ -364,7 +364,7 @@ Usuário.
 
 **Recursos**
 
-Um **smartphone** com o aplicativo instalado e com acesso à internet.
+Um _smartphone_ com o aplicativo instalado e com acesso à internet.
 
 **Episódios**
 
@@ -393,7 +393,7 @@ Notificar ao usuário a remoção de um medicamento no aplicativo, a fim de deix
 
 Local: Em qualquer tela do celular.
 Tempo: A qualquer momento.
-Pré-condição: Possuir as notificações do aplicativo ligadas e estar conectado a internet.
+Pré-condição: Possuir as notificações do aplicativo ligadas e estar conectado à internet.
 
 **Atores**
 
@@ -430,7 +430,7 @@ Notificar ao usuário a alteração de um medicamento no aplicativo, a fim de de
 
 Local: Em qualquer tela do celular.
 Tempo: A qualquer momento.
-Pré-condição: Possuir as notificações do aplicativo ligadas e estar conectado a internet.
+Pré-condição: Possuir as notificações do aplicativo ligadas e estar conectado à internet.
 
 **Atores**
 
@@ -568,7 +568,7 @@ O usuário não possui o aplicativo.
 
 **Objetivo**
 
-Configurar o aplicativo para que um usuário sem/com pouco conhecimento na área de saúde possa utilizá-lo sem dificuldade.
+Configurar o aplicativo para que um usuário sem/com pouco conhecimento na área da saúde possa utilizá-lo sem dificuldade.
 
 **Contexto**
 
@@ -719,3 +719,4 @@ O usuário não possui dificuldades visuais.
 | 0.0.4.1 | 05/03/22 |                    Correção de texto                     |  João Durso   | Gabriel Costa |
 | 0.0.4.2 | 05/03/22 |         Correção de texto e criação do template          | Gabriel Costa |  João Durso   |
 |  0.0.5  | 05/03/22 |                   Cenários (009 a 018)                   |  João Durso   | Gabriel Costa |
+|  0.0.6  | 19/04/22 |                     Correção textual                     |  João Durso   | Gabriel Costa |

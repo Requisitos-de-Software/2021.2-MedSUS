@@ -12,7 +12,7 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-A inspeção do backlog possibilita verificar as histórias dos usuário, a sua validade, especificidade, o cumprimento da formatação (Usuário, ação e objetivo) e da organização (Épicos, Features e Histórias de ). Ainda conseguimos verificar questões que auxiliam o projeto, como a rastreabilidade e o elace com os léxicos.
+A inspeção do <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/product_backlog/">backlog</a> possibilita verificar as histórias dos usuário, a sua validade, especificidade, o cumprimento da formatação (Usuário, ação e objetivo) e da organização (Épicos, Features e Histórias de Usuário). Ainda conseguimos verificar questões que auxiliam o projeto, como a rastreabilidade e o enlace com os léxicos.
 </p>
 
 ## 2. Metodologia
@@ -83,8 +83,9 @@ A fim de garantir que as modificações necessárias no Backlog foram feitas em 
 
 ## Histórico de versões
 
-| Versão |   Data   |                         Alteração                         | Responsável |   Revisão    |
-| :----: | :------: | :-------------------------------------------------------: | :---------: | :----------: |
-| 0.0.1  | 22/03/22 |                          Criação                          | Adrian Soares | Fernando |
-| 0.0.2  | 22/03/22 |                          Adição do checklist                         | Adrian Soares | Fernando |
-| 0.0.3  | 23/03/22 |                              Introdução e Acompanhamento                     | Adrian Soares | Fernando |
+| Versão |   Data   |          Alteração          |  Responsável  | Revisão  |
+| :----: | :------: | :-------------------------: | :-----------: | :------: |
+| 0.0.1  | 22/03/22 |           Criação           | Adrian Soares | Fernando |
+| 0.0.2  | 22/03/22 |     Adição do checklist     | Adrian Soares | Fernando |
+| 0.0.3  | 23/03/22 | Introdução e Acompanhamento | Adrian Soares | Fernando |
+| 0.0.4  | 19/04/22 |      Correção textual       |  João Durso   | Fernando |

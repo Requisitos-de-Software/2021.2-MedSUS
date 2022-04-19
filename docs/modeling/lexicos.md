@@ -744,12 +744,13 @@
 
 ## Histórico de versões
 
-| Versão |   Data   |                 Alteração                  | Responsável | Revisão  |
-| :----: | :------: | :----------------------------------------: | :---------: | :------: |
-| 0.0.1  | 02/03/22 |                  Criação                   |   Adrian    | Fernando |
-| 0.0.2  | 03/03/22 |             Adição de Léxicos              |   Adrian    | Fernando |
-| 0.0.3  | 05/03/22 |          Finalização dos Léxicos           |   Adrian    | Fernando |
-| 0.0.4  | 06/03/22 |          Introdução e metodologia          |   Adrian    | Fernando |
-| 0.0.5  | 06/03/22 |                Referências                 |   Adrian    | Fernando |
-| 0.0.6  | 09/03/22 |      Correção das tags de fechamento       |  Thalisson  |   ---    |
-| 1.0.0  | 01/04/22 | Correções da análise e pré-rastreabilidade |   Adrian    |   ---    |
+| Versão |   Data   |                 Alteração                  | Responsável |  Revisão   |
+| :----: | :------: | :----------------------------------------: | :---------: | :--------: |
+| 0.0.1  | 02/03/22 |                  Criação                   |   Adrian    |  Fernando  |
+| 0.0.2  | 03/03/22 |             Adição de Léxicos              |   Adrian    |  Fernando  |
+| 0.0.3  | 05/03/22 |          Finalização dos Léxicos           |   Adrian    |  Fernando  |
+| 0.0.4  | 06/03/22 |          Introdução e metodologia          |   Adrian    |  Fernando  |
+| 0.0.5  | 06/03/22 |                Referências                 |   Adrian    |  Fernando  |
+| 0.0.6  | 09/03/22 |      Correção das tags de fechamento       |  Thalisson  | João Durso |
+| 0.0.7  | 01/04/22 | Correções da análise e pré-rastreabilidade |   Adrian    | João Durso |
+| 0.0.8  | 18/04/22 |              Correção textual              | João Durso  |   Adrian   |

@@ -13,7 +13,7 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-A inspeção do Rich Picture possibilita conhecer aspectos relacionados a informações, abrangência, completude e qualidade do objeto analisado. Através de gráficos e checklist, é possível descobrir as fraquezas existentes no trabalho e facilita a melhoria da qualidade do artefato em questão.
+A inspeção dos <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/pre_traceability/rich_picture/">Rich Pictures</a> possibilita analisar problemas e expressar ideias, por meio de diagramas com imagens e símbolos. Além disso, ela também ajuda a indentificar problemas e conflitos em potencial. Através de gráficos e checklist, é possível descobrir as fraquezas existentes no trabalho e facilita a melhoria da qualidade do artefato em questão.
 </p>
 
 ## 2. Metodologia
@@ -82,3 +82,4 @@ A fim de garantir que as modificações necessárias no Rich Picture foram feita
 | :----: | :------: | :-------------------------------------------------------: | :---------: | :----------: |
 | 0.0.1  | 22/03/22 |                          Criação                          | João Durso  | Gabriel Luiz |
 | 0.0.2  | 23/03/22 | Adição de Introdução, Metodologia, Artefato e Referências | João Durso  | Gabriel Luiz |
+| 0.0.3  | 19/04/22 |                     Correção textual                      | João Durso  | Gabriel Luiz |

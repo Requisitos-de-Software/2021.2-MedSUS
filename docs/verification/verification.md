@@ -9,13 +9,13 @@ Verificação é uma análise de modelos sem que haja direta comparação com o 
 ## 2. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
-Para desenvolver a verificação, iremos analisar os artefatos e detectar defeitos no processo de criação dos mesmos, a fim de deixá-los mais claros e melhor apresentável, tornando o projeto mais confiável.
+Para desenvolver a verificação, iremos analisar os artefatos e detectar defeitos no processo de criação dos mesmos, a fim de deixá-los mais claros e mais apresentáveis, tornando o projeto ainda mais confiável.
 </p>
 
 ## 3. Verificação com inspeções
 
 <p style="text-indent: 20px; text-align: justify">
-Existem várias estratégias de verificação de software. Neste projeto, utilizar-se-á as inspeções. O objetivo básico das inspeções é verificar se o modelo está de acordo com a sua notação e o que se espera dele. Além disso, as inspeções podem ser aplicadas na definição de requisitos para a verificação em documentos de requisitos, quer eles sejam produzidos por clientes, e sem uma estrutura própria, ou produzidos por Engenheiros de Software/Requisitos, sendo, nesse caso, uma lista de requisitos. Trata-se de um método gerencial de reuniões, o qual possui como objetivo descobrir defeitos em documentos. Atráves de inspeções, é possível descobrir defeitos antes do sistema ser testado.
+Existem várias estratégias de verificação de software. Neste projeto, utilizar-se-á as inspeções proposta por Fagan, o qual sugere a inspeção, seguida da correção e do acompanhamento dessas retificações. O objetivo básico das inspeções é verificar se o modelo está de acordo com a sua notação e o que se espera dele. Além disso, as inspeções podem ser aplicadas na definição de requisitos para a verificação em documentos, quer eles sejam produzidos por clientes, e sem uma estrutura própria, ou produzidos por Engenheiros de Software/Requisitos. Trata-se de um método gerencial de reuniões, o qual possui como objetivo descobrir defeitos em documentos. Atráves de inspeções, é possível descobrir defeitos antes do sistema ser testado.
 </p>
 
 <div class="container">
@@ -40,3 +40,4 @@ Existem várias estratégias de verificação de software. Neste projeto, utiliz
 | :----: | :------: | :------------------------------------------: | :---------: | :----------: |
 | 0.0.1  | 22/03/22 |                   Criação                    | João Durso  | Gabriel Luiz |
 | 0.0.2  | 22/03/22 | Adição de Introdução, Metodologia e Artefato | João Durso  | Gabriel Luiz |
+| 0.0.3  | 19/04/22 |               Correção textual               | João Durso  | Gabriel Luiz |

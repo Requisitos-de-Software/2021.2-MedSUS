@@ -2,14 +2,9 @@
 
 ## 1. Introdução
 
-### 1.1 Propósito
+O objetivo da Especificação Suplementar é capturar os requisitos do sistema que não são facilmente definidos pela modelagem de casos de uso. De modo que a Especificação Suplementar em conjunto com a modelagem de [Casos de Uso](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/usecase) define todos os requisitos do sistema.
 
-Capturar os requisitos do sistema que não são facilmente definidos pela modelagem de casos de uso. De modo que a Especificação Suplementar em conjunto com a [modelagem de Casos de Uso](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/usecase) definem todos os requisitos do sistema.
-
-### 1.2 Escopo
-
-Essa Especificação Suplementar se aplica à versão 2.1.5 do aplicativo MedSUS disponibilizado pelo ministério da saúde.
-Essa especificação cobre todos os requisitos não funcionais do sistema, como os requisitos de usabilidade, confiabilidade, desempenho e suportabilidade.
+Esta Especificação Suplementar se aplica à versão 2.1.5 do aplicativo MedSUS disponibilizado pelo ministério da saúde. Ademais, especificação cobre todos os requisitos não funcionais do sistema, como os requisitos de usabilidade, confiabilidade, desempenho e suportabilidade.
 
 ## 2. Metodologia
 
@@ -19,13 +14,13 @@ Esse sistema visa classificar os requisitos de acordo com os atributos de qualid
 
 - Funcionalidade: Capacidade (generalidade do conjunto de recursos), reutilização (compatibilidade, interoperabilidade, portabilidade), segurança e explorabilidade;
 - Usabilidade: Resposividade, documentação, consistência, estética, fatores humanos em geral;
-- Confiabilidade: Disponibilidade(Frequência de Falhas(Robustez/Durabilidade/Responsividade), Extensão e Duração da Falha(Recuperabilidade/Sobrevivênvia)), Previsibilidade/Establidade;
-- Desempenho: Velocidade, Eficiência, Consumo de Recurso, Rendimento, Capacidade, Escalabilidadae;
-- Suportabilidade: Manutenabulidade, Testabilidade, Flexibilidade, Instabilidade, Localizabilidade.
-- Design: Restringe o design do sistema com, padrões de design, uso de ferramentas de desenvolvimento, etc.
+- Confiabilidade: Disponibilidade(Frequência de Falhas(Robustez/Durabilidade/Responsividade), Extensão e Duração da Falha(Recuperabilidade/Sobrevivência)), Previsibilidade/Estabilidade;
+- Desempenho: Velocidade, Eficiência, Consumo de Recurso, Rendimento, Capacidade, Escalabilidade;
+- Suportabilidade: Manutenabilidade, Testabilidade, Flexibilidade, Instabilidade, Localizabilidade.
+- Design: Restringe o design do sistema com padrões de design, uso de ferramentas de desenvolvimento, etc.
 - implementação: Restringe o código ou a construção do sistema como, limites de recurso, sistemas operativos, etc.
-- Interface: Restringe as funcionalidades referentes às interface dos diferentes componentes.
-- Físico: Restringe o hardware na qual o sistema será suportado.
+- Interface: Restringe as funcionalidades referentes às interfaces dos diferentes componentes.
+- Físico: Restringe o hardware no qual o sistema será suportado.
 
 ## 3. Especificação Suplementar
 
@@ -39,7 +34,7 @@ Esse sistema visa classificar os requisitos de acordo com os atributos de qualid
 
 - [ES01] O aplicativo não exigirá treinamento prévio por parte do usuário. <sup>[IR7](../elicitation/introspective.md#4resultado)</sup>
 - [ES02] Design simples e familiar que facilite a memorização <sup>[R12](../elicitation/brainstorm.md#requisitos-levantados) [IR6](../elicitation/introspective.md#4resultado)</sup>
-- [ES03] As informações devem ser apresentadas de modo que facilite a busca e o acesso a informação. <sup>[ST06](../elicitation/storytelling.md#41-requisitos)</sup>
+- [ES03] As informações devem ser apresentadas de modo que facilite a busca e o acesso à informação. <sup>[ST06](../elicitation/storytelling.md#41-requisitos)</sup>
 - [ES04] As informações apresentadas no aplicativo devem ser de fácil entendimento. <sup>[IR11](../elicitation/introspective.md#4resultado)</sup>
 - [ES05] O aplicativo deve fornecer opções de tamanhos diferentes para as fontes utilizadas. <sup>[ST19 ST13](../elicitation/storytelling.md#41-requisitos)</sup>
 
@@ -47,7 +42,7 @@ Esse sistema visa classificar os requisitos de acordo com os atributos de qualid
 
 <span id="confiabilidade"></span>
 
-- [ES06] As informações presentes no aplicativo devem ser provenientes de fontes de dados confiáveis. <sup>[ST03](../elicitation/storytelling.md#41-requisitos)</sup>
+- [ES06] As informações presentes no aplicativo devem ser provenientes de fontes de dados confiáveis (SUS, Rename, Ministério da Saúde, Anvisa). <sup>[ST03](../elicitation/storytelling.md#41-requisitos)</sup>
 - [ES07] As informações a respeito dos medicamentos devem estar sempre atualizadas. <sup>[ST03](../elicitation/storytelling.md#41-requisitos)</sup>
 - [ES08] As monografias salvas como favoritas devem estar disponíveis mesmo após queda de internet.
 
@@ -70,7 +65,7 @@ Esse sistema visa classificar os requisitos de acordo com os atributos de qualid
 
 <span id="design"></span>
 
-- [ES14] O aplicativo deve seguir uma palheta de cores fixa.
+- [ES14] O aplicativo deve seguir uma paleta de cores fixa.
 - [ES15] Os ícones utilizados no aplicativo devem ser coerentes com a funcionalidade que eles representam.
 
 ### 3.7 Implementação
@@ -90,20 +85,26 @@ Esse sistema visa classificar os requisitos de acordo com os atributos de qualid
 
 <span id="fisico"></span>
 
-- [ES19] O dispositivel Android deve estar em uma versão 4.4 ou superior.
-- [ES20] O dispositivel IOS deve estar em uma versão 10.0 ou superior.
+- [ES19] O dispositivo Android deve estar em uma versão 4.4 ou superior.
+- [ES20] O dispositivo IOS deve estar em uma versão 10.0 ou superior.
 
 ## Referências bibliográficas
 
-> http://home.iscte-iul.pt/~hro/RUPSmallProjects/core.base_rup/workproducts/rup_supplementary_specification_F5ACAA22.html > https://csis.pace.edu/~marchese/SE616_New/Samples/Example%20%20Supplementary%20Specification.htm > https://qualidadebr.wordpress.com/2008/07/10/furps/
+> INSTITUTO UNIVERSITÁRIO DE LISBOA (Lisboa). Artifact: Supplementary Specifications. Lisboa, 2006. Disponível em: <http://home.iscte-iul.pt/~hro/RUPSmallProjects/core.base_rup/workproducts/rup_supplementary_specification_F5ACAA22.html>. Acesso em: 4 mar. 2022.',
+
+> GAMBLE, S. Example: Supplementary Specification. [S. l.]: Pace University, 21 dez. 1998. Disponível em: <https://csis.pace.edu/~marchese/SE616_New/Samples/Example%20%20Supplementary%20Specification.htm>. Acesso em: 4 mar. 2022.',
+
+> EELES, Peter. FURPS+. [S. l.]: IBM Rational, 10 jul. 2008. Disponível em: <https://qualidadebr.wordpress.com/2008/07/10/furps/>. Acesso em: 4 mar. 2022.',
+    
 
 ## Histórico de versões
 
-| Versão |    Data    |                 Alteração                  |     Responsável      | Revisão |
-| :----: | :--------: | :----------------------------------------: | :------------------: | :-----: |
-| 0.0.1  | 03/03/2022 |                  Criação                   | Thalisson e Fernando | Adrian  |
-| 0.0.2  | 03/03/2022 |      Introdução (Propósito e Escopo)       | Thalisson e Fernando | Adrian  |
-| 0.0.3  | 04/03/2022 |                Metodologia                 |      Thalisson       | Adrian  |
-| 0.0.4  | 04/03/2022 |         Especificação Suplementar          |      Thalisson       | Adrian  |
-| 0.0.5  | 05/03/2022 |            Adição de requisitos            |      Thalisson       | Adrian  |
-| 0.0.6  | 03/04/2022 | Adição dos requisitos adicionais do FURPS+ |      Thalisson       | Adrian  |
+| Versão |   Data   |                 Alteração                 |     Responsável      | Revisão |
+| :----: | :------: | :---------------------------------------: | :------------------: | :-----: |
+| 0.0.1  | 03/03/22 |                  Criação                  | Thalisson e Fernando | Adrian  |
+| 0.0.2  | 03/03/22 |      Introdução (Propósito e Escopo)      | Thalisson e Fernando | Adrian  |
+| 0.0.3  | 04/03/22 |                Metodologia                |      Thalisson       | Adrian  |
+| 0.0.4  | 04/03/22 |         Especificação Suplementar         |      Thalisson       | Adrian  |
+| 0.0.5  | 05/03/22 |           Adição de requisitos            |      Thalisson       | Adrian  |
+| 0.0.6  | 03/04/22 | Adição dos requisitos faltantes do FURPS+ |      Thalisson       | Adrian  |
+| 0.0.7  | 19/04/22 |             Correção textual              |      João Durso      | Adrian  |

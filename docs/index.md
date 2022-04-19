@@ -1,6 +1,6 @@
 # <img src="assets/logo_medsus.png" alt="MedSus" width="48"/> MedSUS - Requisitos de Software
 
-Olá, nós somos o grupo 5 da matéria de requisitos de software da Universidade de Brasília. Nosso objetivo com esse repositório é armazenar os artefatos produzidos na aliasse de engenharia reversa do aplicativo [MedSus](https://www.gov.br/pt-br/apps/medsus).
+Olá, nós somos o grupo 5 da matéria de Requisitos de Software da Universidade de Brasília. Nosso objetivo com esse repositório é armazenar os artefatos produzidos na aliasse de engenharia reversa do aplicativo [MedSUS](https://www.gov.br/pt-br/apps/medsus).
 
 <div class="container">
     <div class="row align-items-center">
@@ -10,7 +10,7 @@ Olá, nós somos o grupo 5 da matéria de requisitos de software da Universidade
             <figure>
         </div>
         <div class="col-9">
-            O <strong>MedSus</strong> é uma aplicação web controlada pelo ministério da saúde e tem como objetivo
+            O <strong>MedSUS</strong> é uma aplicação web controlada pelo ministério da saúde e tem como objetivo
             <blockquote class="blockquote text-primary">
             <p class="mb-0">“... facilitar o acesso às informações sobre medicamentos pelos profissionais de saúde e cidadãos, visando à promoção do uso racional de medicamentos. “</p>
             <footer class="blockquote-footer">Ministério da Saúde na <cite title="Source Title">Play Store</cite></footer>

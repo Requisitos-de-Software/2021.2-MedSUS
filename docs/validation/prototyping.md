@@ -3,33 +3,33 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-
-A prototipação utiliza os requisitos até então levantados para a criação de modelo simplificado do sistema.
+A prototipação utiliza os requisitos até então levantados para a criação de um modelo simplificado do sistema.
 O principal objetivo na criação do protótipo é reduzir os riscos e permitir que todas as validações sejam feitas antes da implementação.
+</p>
 
-Protótipos comumente são classificados com relação a sua fidelidade.
-A fidelidade do protótipo refere-se ao nível de detalhes e funcionalidade incorporada a ele. 
-Nesse sentido, o protótipo de alta fidelidade é interativo.
+<p style="text-indent: 20px; text-align: justify">
+Protótipos são comumente classificados com relação à sua fidelidade. A fidelidade do protótipo refere-se ao nível de detalhes e funcionalidade incorporada a ele. Nesse sentido, o protótipo de <b>alta</b> fidelidade deve ser interativo.
 </p>
 
 ## 2. Metodologia
+
 <p style="text-indent: 20px; text-align: justify">
 Para a criação desse artefato utilizamos os requisitos levantados até o momento e para desenvolver o Protótipo utilizamos o Figma. Assim, criamos uma representação visual através da simulação do aplicativo que permite o PO ou o usuário testar o produto que ainda não foi desenvolvido.
 </p>
 
 ## 3. Protótipo de Alta Fidelidade
 
-Pode ser acessado [neste link](https://www.figma.com/proto/brLhxsnnfkbU47JAwS9Nqc/Untitled?node-id=0%3A1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A74)
-
+O protótipo pode ser acessado [neste link](https://www.figma.com/proto/brLhxsnnfkbU47JAwS9Nqc/Untitled?node-id=0%3A1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A74)
 
 ## Referências bibliográficas
 
-> Silva, F. D.; Souza, M.; (2000) Nome do Livro. Editora. Edição
+> SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 23): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 52 slides. color. Disponível em: https://aprender3.unb.br/pluginfile.php/1668221/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 23 mar. 2022.
 
 ## Histórico de versões
 
-Versão|Data|Alteração|Responsável|Revisão|
-:-:|:-:|:-:|:-:|:-:|
-0.0.1|23/01/22|Criação|Fernando e Gabriel Costa||
-0.0.2|23/01/22|Adição da Metodologia| Fernando e Gabriel Costa||
-0.0.3|23/01/22|Criação da primeira versão do Protótipo de Alta Fidelidade| Fernando e Gabriel Costa||
+| Versão |   Data   |                         Alteração                          |       Responsável        |  Revisão   |
+| :----: | :------: | :--------------------------------------------------------: | :----------------------: | :--------: |
+| 0.0.1  | 23/03/22 |                          Criação                           | Fernando e Gabriel Costa | João Durso |
+| 0.0.2  | 23/03/22 |                   Adição da Metodologia                    | Fernando e Gabriel Costa | João Durso |
+| 0.0.3  | 23/03/22 | Criação da primeira versão do Protótipo de Alta Fidelidade | Fernando e Gabriel Costa | João Durso |
+| 0.0.4  | 19/04/22 |                      Correção textual                      | Fernando e Gabriel Costa | João Durso |

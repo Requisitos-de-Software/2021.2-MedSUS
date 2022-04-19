@@ -3,7 +3,7 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-O Product Backlog, um dos pilares do desenvolvimento Scrum, é uma lista contendo todas as funcionalidades desejadas para um produto. O conteúdo desta lista é definido pelo Product Owner, o responsável por gerenciar e definir esses itens. Ademais, o Product Backlog não precisa estar completo no início de um projeto, isto é, pode-se começar com tudo aquilo que é mais óbvio em um primeiro momento e com o tempo alterá-lo, à medida que se aprende mais sobre o produto e seus usuários.
+O Product Backlog, um dos pilares do desenvolvimento Scrum, é uma lista contendo todas as funcionalidades desejadas para um produto. O conteúdo desta lista é definido pelo Product Owner, o responsável por gerenciar e definir esses itens. Ademais, o Product Backlog não precisa estar completo no início de um projeto, isto é, pode-se começar com tudo aquilo que é mais óbvio em um primeiro momento e com o tempo alterá-lo, a medida que se aprende mais sobre o produto e seus usuários.
 </p>
 
 ## 2. Metodologia
@@ -132,5 +132,6 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
 |  0.0.1  | 08/03/22 |                        Criação                        |  Thalisson  | João Durso |
 |  0.0.2  | 09/03/22 |                   Adição do Backlog                   |  Thalisson  | João Durso |
 |  0.0.3  | 09/03/22 |                    Adição de links                    |  Thalisson  | João Durso |
-|  0.0.4  | 09/03/22 | Revisão do texto e adição de introdução e metodologia | João Durso  |    ---     |
-| 0.0.4.1 | 09/03/22 |                   Revisão do texto                    | João Durso  |    ---     |
+|  0.0.4  | 09/03/22 | Revisão do texto e adição de introdução e metodologia | João Durso  | Thalisson  |
+| 0.0.4.1 | 09/03/22 |                   Revisão do texto                    | João Durso  | Thalisson  |
+|  0.0.5  | 19/04/22 |                   Correção textual                    | João Durso  |   Thalisson   |

@@ -3,20 +3,20 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-As histórias de usuário são um importante recurso no desenvolvimento Ágil de software. Assim, característica dessa filosofia de desenvolvimento são um importante vetor que norteia a construção desse recurso.
+As histórias de usuário são um importante recurso no desenvolvimento Ágil de software. Assim, a característica dessa filosofia de desenvolvimento, é um importante vetor que norteia a construção desse recurso.
 
-Além disso, as histórias são altamente centradas no usuário, isto é, elas são escritas de modo que o sujeito da ação seja o usuário querendo uma solução de um problema que o software está se propondo a resolver. Assim, é possível gerar um produto com um alto para o usuário final, pois ele sempre foi o pivô no desenvolvimento.
+Além disso, as histórias são altamente centradas no usuário, isto é, elas são escritas de modo que o sujeito da ação seja o usuário querendo uma solução de um problema que o software está se propondo a resolver. Assim, é possível gerar um produto com um alta confiabilidade para o usuário final, pois ele sempre foi o pivô no desenvolvimento.
+
 </p>
 
 ## 2. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
-A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/lexicos/">Léxicos</a>, da <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/elicitation/introspective/"> Introspecção</a> e dos <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/scenarios/"> Cenários</a>. Assim, a equipe tabelou os requisitos levantados em Tema, Épico e Feature. Além disso, na mesma tabela, adicionamos o nível de prioridade discutido no <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/priorization/moscow/"> MoscoW</a>. Por fim, no nosso trabalho seguimos modelo formal para a construção das histórias, ou seja, todas são escritas em uma linguagem não técnica. Dessa forma, qualquer ator envolvido no processo de desenvolvimento do software seja eles usuários finais, designs, PO, equipe técnica são capazes de participar no processo de criação das histórias.
+A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/lexicos/">Léxicos</a>, da <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/elicitation/introspective/"> Introspecção</a> e dos <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/scenarios/"> Cenários</a>. Assim, a equipe tabelou os requisitos levantados em Tema, Épico e Feature. Além disso, na mesma tabela, adicionamos o nível de prioridade discutido no <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/priorization/moscow/"> MoscoW</a>. Por fim, no nosso trabalho seguimos modelo formal para a construção das histórias, ou seja, todas são escritas em uma linguagem não técnica. Dessa forma, qualquer ator envolvido no processo de desenvolvimento do software seja eles usuários finais, designs, PO e/ou equipe técnica, são capazes de participar no processo de criação das histórias.
 
 </p>
 
 ## 3. História de Usuário
-
 
 <table>
     <thead>
@@ -136,7 +136,7 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US16</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de compartilhar informações de <a href="../../modeling/lexicos#medicamento">medicamentos</a> no formato <a href="../../modeling/lexicos#pdf">PDF</a> para outras pessoas tenham acesso a informação mesmo sem possuir o app instalado em seu dispositivo.</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de compartilhar informações de <a href="../../modeling/lexicos#medicamento">medicamentos</a> no formato <a href="../../modeling/lexicos#pdf">PDF</a> para outras pessoas tenham acesso à informação mesmo sem possuir o app instalado em seu dispositivo.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">TODO</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Must</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">13</td>
@@ -144,16 +144,14 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
     </tbody>
 </table>
 
-
-
 ## Referências bibliográficas
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 15): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 46 slides. color. Disponível em: https://aprender3.unb.br/pluginfile.php/1668185/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf. Acesso em: 08 mar. 2022.
 
 ## Histórico de versões
 
-Versão|Data|Alteração|Responsável|Revisão|
-:-:|:-:|:-:|:-:|:-:|
-0.0.1|09/03/22|Criação|Gabriel Costa|João Durso e Thalisson|
-0.0.2|09/03/22|Conteúdo|Todos os integrantes|Todos os integrantes|
-
+| Versão |   Data   |    Alteração     |     Responsável      |        Revisão         |
+| :----: | :------: | :--------------: | :------------------: | :--------------------: |
+| 0.0.1  | 09/03/22 |     Criação      |    Gabriel Costa     | João Durso e Thalisson |
+| 0.0.2  | 09/03/22 |     Conteúdo     | Todos os integrantes |  Todos os integrantes  |
+| 0.0.3  | 19/04/22 | Correção textual |      João Durso      |         Adrian         |

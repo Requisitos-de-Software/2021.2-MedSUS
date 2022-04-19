@@ -13,13 +13,13 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-A inspeção dos Léxicos possibilita conhecer aspectos relacionados a informações, abrangência, completude e qualidade dos objetos analisados. Através de gráficos e checklist, é possível descobrir as fraquezas existentes no trabalho e facilita a melhoria da qualidade do artefato em questão.
+A inspeção dos <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/lexicos/">Léxicos</a> possibilita conhecer aspectos relacionados a informações, abrangência, completude e qualidade dos objetos analisados. Através de gráficos e checklist, é possível descobrir as fraquezas existentes no trabalho e facilita a melhoria da qualidade do artefato em questão.
 </p>
 
 ## 2. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
-Para a realização das verificações, é desejável que o autor do artefato não realize a inspeção do mesmo, selecionando outros membros da equipe para a tarefa. Para a inspeção dos casos de uso tratado neste documento, a equipe escolheu o João Durso para desenvolvê-la e o Gabriel Luiz para revisá-la.
+Para a realização das verificações, é desejável que o autor do artefato não realize a inspeção do mesmo, selecionando outros membros da equipe para a tarefa. Para a inspeção dos léxicos tratado neste documento, a equipe escolheu o João Durso para desenvolvê-la e o Gabriel Luiz para revisá-la.
 </p>
 
 ## 3. Inspeção (Léxicos)
@@ -92,3 +92,4 @@ A fim de garantir que as modificações necessárias nos Léxicos foram feitas e
 | :----: | :------: | :-------------------------------------------------------: | :---------: | :----------: |
 | 0.0.1  | 22/03/22 |                          Criação                          | João Durso  | Gabriel Luiz |
 | 0.0.2  | 23/03/22 | Adição de Introdução, Metodologia, Artefato e Referências | João Durso  | Gabriel Luiz |
+| 0.0.3  | 19/04/22 |                     Correção textual                      | João Durso  |   Fernando   |
