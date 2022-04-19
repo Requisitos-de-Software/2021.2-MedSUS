@@ -18,7 +18,7 @@ A partir do <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/elic
 
 ### 3.1. Gabriel Moura
 
-![Gabriel](../assets/persona_gabriel_moura.jpeg)
+<img src="../assets/persona_gabriel_moura.jpeg" alt="Gabriel" width="200"/>
 
 <h6 style="text-align:center">Figura 1: Gabriel Moura</h6>
 <h6 style="text-align:center">Fonte: Autor</h6>
