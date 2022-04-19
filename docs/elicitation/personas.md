@@ -82,7 +82,7 @@ documentação dos medicamentos.
 
 ### 3.2. Irene de Souza
 
-<img src="../assets/persona_irene_souza.jpeg" alt="Irene" width="200"/>
+<img src="../assets/persona_irene_souza.jpeg" alt="Irene" width="300"/>
 
 <h6 style="text-align:center">Figura 2: Irene de Souza</h6>
 <h6 style="text-align: center">Fonte: Google Imagens</h6>
