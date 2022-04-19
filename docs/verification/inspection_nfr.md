@@ -14,13 +14,13 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-A inspeção do NFR Framework possibilita verificar os requisitos não funcionais, suas softgoals, objetivos e as relações entre eles. Ainda conseguimos verificar questões que auxiliam o projeto, como a rastreabilidade.
+A inspeção do <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/nfr/">NFR</a> Framework possibilita verificar os requisitos não funcionais, suas softgoals, objetivos e as relações entre eles. Ainda conseguimos verificar questões que auxiliam o projeto, como a rastreabilidade.
 </p>
 
 ## 2. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
-Para a realização das verificações, é desejável que o autor do artefato não realize a inspeção do mesmo, selecionando outros membros da equipe para a tarefa. Para a inspeção do Rich Picture tratado neste documento, a equipe escolheu o Thalisson para desenvolvê-la e o ... para revisá-la.
+Para a realização das verificações, é desejável que o autor do artefato não realize a inspeção do mesmo, selecionando outros membros da equipe para a tarefa. Para a inspeção do NFR tratado neste documento, a equipe escolheu o Thalisson para desenvolvê-la e o João Durso para revisá-la.
 </p>
 
 ## 3. Inspeção (NFR Framework)
@@ -59,10 +59,12 @@ Para a detecção de defeitos, elaborou-se um checklist, utilizando o Google Pla
 
 ## Histórico de versões
 
-Versão|Data|Alteração|Responsável|Revisão|
-:-:|:-:|:-:|:-:|:-:|
-0.0.1|23/03/22|Criação|Thalisson|---|
-0.0.2|23/03/22|Adição da introdução|Thalisson|---|
-0.0.3|23/03/22|Adição da metodologia|Thalisson|---|
-0.0.3|23/03/22|Adição da Inspeção|Thalisson|---|
-0.0.4|02/04/22|Ajustes de padronização|Thalisson|---|
+| Versão |   Data   |        Alteração        | Responsável |  Revisão   |
+| :----: | :------: | :---------------------: | :---------: | :--------: |
+| 0.0.1  | 23/03/22 |         Criação         |  Thalisson  | João Durso |
+| 0.0.2  | 23/03/22 |  Adição da introdução   |  Thalisson  | João Durso |
+| 0.0.3  | 23/03/22 |  Adição da metodologia  |  Thalisson  | João Durso |
+| 0.0.3  | 23/03/22 |   Adição da Inspeção    |  Thalisson  | João Durso |
+| 0.0.4  | 02/04/22 | Ajustes de padronização |  Thalisson  | João Durso |
+| 0.0.5  | 02/04/22 |   Correções textuais    | João Durso  | Thalisson  |
+| 0.0.6  | 19/04/22 |    Correção textual     | João Durso  | Thalisson  |

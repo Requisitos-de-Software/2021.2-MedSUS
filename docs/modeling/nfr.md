@@ -3,7 +3,7 @@
 ## 1. Introdução
 
 <p>
-Os Requisitos não Funcionais são um aspecto muito sensível do planejamento e desenvolvimento de Software. Muitos vezes não são triviais de serem percebidos e levantados, pois costumam ter aspecto subjetivo e abstrato, não sendo percebidos da mesma maneira por todos os envolvidos. Eles também tem relações entre si  , conflituosas ou harmônicas. Por todas essas dificuldades, geralmente, os requisitos não funcionais são os piores elicitados, com um baixo nível de detalhamento.
+Os Requisitos não Funcionais são um aspecto muito sensível do planejamento e desenvolvimento de Software. Muitas vezes não são triviais de serem percebidos e levantados, pois costumam ter aspecto subjetivo e abstrato, não sendo percebidos da mesma maneira por todos os envolvidos. Eles também tem relações entre si  , conflituosas ou harmônicas. Por todas essas dificuldades, geralmente, os requisitos não funcionais são os piores elicitados, com um baixo nível de detalhamento.
 </p>
 
 <p>
@@ -17,7 +17,7 @@ O Framework costuma utilizar a representação via grafo SIG, um diagrama com s�
 ## 2. Metodologia
 
 <p>
-A partir dos <a href="../priorization/moscow">requisitos já levantados</a> através das técnicas de <a href="../elicitacion/"> elicitação </a> e de boas práticas e da experiência dos usuários e dos envolvidos no projeto, conseguimos analisar esses requisitos não funcionais e atribuir correlações e  interdependências através do grafo.
+A partir dos requisitos já levantados no <a href="../priorization/moscow">Moscow</a>, através das técnicas de <a href="../elicitacion/"> elicitação </a>, de boas práticas e da experiência dos usuários e dos envolvidos no projeto, conseguimos analisar esses requisitos não funcionais e atribuir correlações e interdependências através do grafo.
 </p>
 
 ### 2.1. Funcionamento do Framework
@@ -27,7 +27,7 @@ A partir dos <a href="../priorization/moscow">requisitos já levantados</a> atra
 | Símbolo                                                                                                                             | Legenda                                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/softgoal.png">                | Softgoal (Requisito Levantado)                                                                                                                                          |
-| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/operacional.png">             | Operacional (Forma de cumprimento do requisitp)                                                                                                                         |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/operacional.png">             | Operacional (Forma de cumprimento do requisito)                                                                                                                         |
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/afirmacao.png">               | Afirmação (Informações sobre as decisões ou recomendações)                                                                                                              |
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs\assets\nfr\and.png">                     | Caso os softgoals descendentes forem satisfeitos os ascendentes também serão                                                                                            |
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/or.png">                      | Caso algum softgoal descendente for satisfeito, o ascendente também será                                                                                                |
@@ -214,7 +214,8 @@ A partir dos <a href="../priorization/moscow">requisitos já levantados</a> atra
 | 0.0.3  | 08/03/22 |     NFR 5, 6, 7, 8      |       Adrian       | Fernando |
 | 0.0.4  | 09/03/22 | Inserção da Metodologia |       Adrian       | Fernando |
 | 0.0.5  | 09/03/22 |  Adição dos links ANFR  | Adrian e Thalisson | Fernando |
-| 0.0.5  | 09/03/22 |     Adição legenda      | Adrian e Thalisson | Fernando |
+| 0.0.6  | 09/03/22 |     Adição legenda      | Adrian e Thalisson | Fernando |
+| 0.0.7  | 19/04/22 |    Correção textual     |     João Durso     |  Adrian  |
 
 <style>
     p {

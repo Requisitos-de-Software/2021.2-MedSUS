@@ -13,7 +13,7 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-A inspeção dos Casos de Uso possibilita conhecer aspectos relacionados a informações, abrangência, completude e qualidade dos objetos analisados. Através de gráficos e checklist, é possível descobrir as fraquezas existentes no trabalho e facilita a melhoria da qualidade do artefato em questão.
+A inspeção dos <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/supplementary_specification/">Casos de Uso</a> possibilita conhecer aspectos relacionados a informações, abrangência, completude e qualidade dos objetos analisados. Através de gráficos e checklist, é possível descobrir as fraquezas existentes no trabalho e facilita a melhoria da qualidade do artefato em questão.
 </p>
 
 ## 2. Metodologia
@@ -111,3 +111,4 @@ Diagramas de casos de uso atualizados após a avaliação:
 | 0.0.1  | 22/03/22 |                   Criação                    | João Durso  | Gabriel Luiz |
 | 0.0.2  | 23/03/22 | Adição de Introdução, Metodologia e Artefato | João Durso  | Gabriel Luiz |
 | 0.0.3  | 23/03/22 |        Adição de Checklist e Gráficos        | João Durso  | Gabriel Luiz |
+| 0.0.4  | 19/04/22 |               Correção textual               | João Durso  | Gabriel Luiz |

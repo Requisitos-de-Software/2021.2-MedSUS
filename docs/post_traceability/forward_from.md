@@ -9,7 +9,7 @@ Existem dois tipos de rastreabilidade Forward: Forward-to e Forward-from. Os doi
 <p style="text-indent: 20px; text-align: justify">
 Visto os artefatos construídos até agora, foi possível elaborar uma Matriz de Rastreabilidade para conectar os Requisitos, Épicos, Features, História de Usuário e Funcionalidade.
 
-Como o MedSUS não é um software de código aberto, não foi possível relacionar o código-fonte aos requisitos.
+Como o MedSUS não é um software de código aberto, não foi possível relacionar o código-fonte aos requisitos. Além disso, alguns requisitos estão designados como "Em construção", pois o aplicativo se encontrava fora do ar no momento da criação deste artefato. Assim que ele voltar, estaremos completando o documento.
 
 </p>
 
@@ -40,51 +40,15 @@ Como o MedSUS não é um software de código aberto, não foi possível relacion
 
 ### 3.2. Especificações
 
-<!-- **R08**
-
-|         R08         | O usuário deve ser capaz de alterar informações baseado no perfil de usuário (Profissional de saúde/Usuário comum). |
-| :-----------------: | :-----------------------------------------------------------------------------------------------------------------: |
-|        Épico        |                                                    Visualização                                                     |
-|       Feature       |                                                   Alterar Perfil                                                    |
-| História de Usuário |                 [US01](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/)                  |
-|   Funcionalidade    |                                                                                                                     |
-
-**ST19**
-
-|        ST19         | A aplicação deve disponibilizar o aumento (e redução) do tamanho da fonte das monografias |
-| :-----------------: | :---------------------------------------------------------------------------------------: |
-|        Épico        |                                       Visualização                                        |
-|       Feature       |                                 Alterar tamanho da fonte                                  |
-| História de Usuário |    [US03](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/)     |
-|   Funcionalidade    |                                                                                           |
-
-**IR3**
-
-|         IR3         |              Acessar partes específicas da bula através de um índice.              |
-| :-----------------: | :--------------------------------------------------------------------------------: |
-|        Épico        |                                    Visualização                                    |
-|       Feature       |                                 Apresentar índice                                  |
-| História de Usuário | [US04](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
-|   Funcionalidade    |                                                                                    | -->
-
 **R03**
 
 |         R03         |                O usuário deve ser capaz de favoritar medicamentos.                 |
-| :-----------------: | :--------------------------------------------------------------------------------: |
+| :-----------------: | :--------------------------------------------------------------------------------: | --------------------------------------------------------------------- | --- |
 |        Épico        |                                       Filtro                                       |
 |       Feature       |                                     Favoritar                                      |
 | História de Usuário | [US05](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
-|   Funcionalidade    |      ![R03](../images/R03.gif)       |
-<!-- |   Funcionalidade    |       <img src="../images/R03.gif" alt="Favoritar medicamento" width="25%">        | -->
-<!--  -->
-<!-- **R12**
-
-|         R12         |      O usuário deve conseguir buscar palavras-chave no texto das informações.      |
-| :-----------------: | :--------------------------------------------------------------------------------: |
-|        Épico        |                                       Filtro                                       |
-|       Feature       |                             Filtrar por Palavras-chave                             |
-| História de Usuário | [US06](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
-|   Funcionalidade    |                                                                                    | -->
+|   Funcionalidade    |                             ![R03](../images/R03.gif)                              |
+|        <!--         |                                   Funcionalidade                                   | <img src="../images/R03.gif" alt="Favoritar medicamento" width="25%"> | --> |
 
 **R04**
 
@@ -93,7 +57,7 @@ Como o MedSUS não é um software de código aberto, não foi possível relacion
 |        Épico        |                                       Filtro                                       |
 |       Feature       |                        Filtrar por Atributos do medicamento                        |
 | História de Usuário | [US07](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
-|   Funcionalidade    |     ![R04](../images/R04.gif)          |
+|   Funcionalidade    |                             ![R04](../images/R04.gif)                              |
 
 **R05**
 
@@ -102,7 +66,7 @@ Como o MedSUS não é um software de código aberto, não foi possível relacion
 |        Épico        |                                    Visualização                                    |
 |       Feature       |                                   Alterar Perfil                                   |
 | História de Usuário | [US09](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
-|   Funcionalidade    |      ![R05](../images/R05.gif)         |
+|   Funcionalidade    |                             ![R05](../images/R05.gif)                              |
 
 **R06**
 
@@ -111,7 +75,7 @@ Como o MedSUS não é um software de código aberto, não foi possível relacion
 |        Épico        |                                       Filtro                                       |
 |       Feature       |                        Filtrar por Atributos do medicamento                        |
 | História de Usuário | [US10](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
-|   Funcionalidade    |      ![R06](../images/R06.gif)        |
+|   Funcionalidade    |                             ![R06](../images/R06.gif)                              |
 
 **R07**
 
@@ -120,9 +84,45 @@ Como o MedSUS não é um software de código aberto, não foi possível relacion
 |        Épico        |                                       Filtro                                       |
 |       Feature       |                        Filtrar por Atributos do medicamento                        |
 | História de Usuário | [US11](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
-|   Funcionalidade    |     ![R07](../images/R07.gif)       |
+|   Funcionalidade    |                             ![R07](../images/R07.gif)                              |
+
+**R08**
+Em construção (Aplicativo fora do ar)
+
+<!--
+|         R08         | O usuário deve ser capaz de alterar informações baseado no perfil de usuário (Profissional de saúde/Usuário comum). |
+| :-----------------: | :-----------------------------------------------------------------------------------------------------------------: |
+|        Épico        |                                                    Visualização                                                     |
+|       Feature       |                                                   Alterar Perfil                                                    |
+| História de Usuário |                 [US01](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/)                  |
+|   Funcionalidade    |                                                                                                                     |
+ -->
+
+**R12**
+Em construção (Aplicativo fora do ar)
+
+<!--
+|         R12         |      O usuário deve conseguir buscar palavras-chave no texto das informações.      |
+| :-----------------: | :--------------------------------------------------------------------------------: |
+|        Épico        |                                       Filtro                                       |
+|       Feature       |                             Filtrar por Palavras-chave                             |
+| História de Usuário | [US06](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
+|   Funcionalidade    |                                                                                    | -->
+
+**ST08**
+Em construção (Aplicativo fora do ar)
+
+<!-- |
+|        ST08         |       O app deve gerar arquivos para compartilhar com qualquer outra pessoa.       |
+| :-----------------: | :--------------------------------------------------------------------------------: |
+|        Épico        |                              Compartilhar monografias                              |
+|       Feature       |                                   Alterar Perfil                                   |
+| História de Usuário | [US15](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
+|   Funcionalidade    | 
+ -->                                                                                   |
 
 **ST17**
+Em construção (Aplicativo fora do ar)
 
 <!-- |        ST17         | O app deve notificar os usuários acerca das atualizações da monografia dos medicamentos (inclusão, remoção e alteração). |
 | :-----------------: | :----------------------------------------------------------------------------------------------------------------------: |
@@ -130,18 +130,35 @@ Como o MedSUS não é um software de código aberto, não foi possível relacion
 |       Feature       |                                                    Notificar usuários                                                    |
 | História de Usuário |                    [US13](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/)                    |
 |   Funcionalidade    |                                                                                                                          |
+ -->
 
-**ST08**
+**ST19**
+Em construção (Aplicativo fora do ar)
 
-|        ST08         |       O app deve gerar arquivos para compartilhar com qualquer outra pessoa.       |
+<!--
+|        ST19         | A aplicação deve disponibilizar o aumento (e redução) do tamanho da fonte das monografias |
+| :-----------------: | :---------------------------------------------------------------------------------------: |
+|        Épico        |                                       Visualização                                        |
+|       Feature       |                                 Alterar tamanho da fonte                                  |
+| História de Usuário |    [US03](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/)     |
+|   Funcionalidade    |                                                                                           |
+ -->
+
+**IR3**
+Em construção (Aplicativo fora do ar)
+
+<!--
+|         IR3         |              Acessar partes específicas da bula através de um índice.              |
 | :-----------------: | :--------------------------------------------------------------------------------: |
-|        Épico        |                              Compartilhar monografias                              |
-|       Feature       |                                   Alterar Perfil                                   |
-| História de Usuário | [US15](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
-|   Funcionalidade    |                                                                                    |
+|        Épico        |                                    Visualização                                    |
+|       Feature       |                                 Apresentar índice                                  |
+| História de Usuário | [US04](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
+|   Funcionalidade    |                                                                                    | -->
 
 **IR10**
+Em construção (Aplicativo fora do ar)
 
+<!-- |
 |        IR10         |                         Compartilhar informações por PDF.                          |
 | :-----------------: | :--------------------------------------------------------------------------------: |
 |        Épico        |                                  Compartilhamento                                  |
@@ -149,11 +166,6 @@ Como o MedSUS não é um software de código aberto, não foi possível relacion
 | História de Usuário | [US16](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
 |   Funcionalidade    |                                                                                    |
  -->
-## 4. Conclusão
-
-<p style="text-indent: 20px; text-align: justify">
-
-</p>
 
 ## Referências bibliográficas
 
@@ -167,4 +179,5 @@ Como o MedSUS não é um software de código aberto, não foi possível relacion
 | :----: | :------: | :----------------------------------: | :---------: | :--------: |
 | 0.0.1  | 03/04/22 |               Criação                |  Fernando   | João Durso |
 | 0.0.2  | 03/04/22 | Correções na padronização e no texto | João Durso  |  Fernando  |
-| 0.0.3  | 03/04/22 |          Correção nas tabelas        | Fernando    | João Durso |
+| 0.0.3  | 03/04/22 |         Correção nas tabelas         |  Fernando   | João Durso |
+| 0.0.4  | 19/04/22 |           Correção textual           | João Durso  |  Fernando  |

@@ -12,7 +12,7 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-A inspeção da Especificação Suplementar possibilita verificar os requisitos pertencentes ao formato FURPS+, a sua validade, existência, a consonância com as funcionalidades e aspectos desejados para o aplicativo pelos usuários e pela organização proprietária da aplicação. Ainda conseguimos verificar questões que auxiliam o projeto, como a rastreabilidade e o elace com os léxicos.
+A inspeção da <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/supplementary_specification/">Especificação Suplementar</a> possibilita verificar os requisitos pertencentes ao formato FURPS+, a sua validade, existência, a consonância com as funcionalidades e aspectos desejados para o aplicativo pelos usuários e pela organização proprietária da aplicação. Ainda conseguimos verificar questões que auxiliam o projeto, como a rastreabilidade e o elace com os léxicos.
 </p>
 
 ## 2. Metodologia
@@ -71,8 +71,9 @@ A fim de garantir que as modificações necessárias na Especificação Suplemen
 
 ## Histórico de versões
 
-| Versão |   Data   |                         Alteração                         | Responsável |   Revisão    |
-| :----: | :------: | :-------------------------------------------------------: | :---------: | :----------: |
-| 0.0.1  | 22/03/22 |                          Criação                          | Adrian Soares | Fernando |
-| 0.0.2  | 22/03/22 |                          Adição do checklist                         | Adrian Soares | Fernando |
-| 0.0.3  | 22/03/22 |                              Introdução e Acompanhamento                     | Adrian Soares | Fernando |
+| Versão |   Data   |          Alteração          |  Responsável  | Revisão  |
+| :----: | :------: | :-------------------------: | :-----------: | :------: |
+| 0.0.1  | 22/03/22 |           Criação           | Adrian Soares | Fernando |
+| 0.0.2  | 22/03/22 |     Adição do checklist     | Adrian Soares | Fernando |
+| 0.0.3  | 22/03/22 | Introdução e Acompanhamento | Adrian Soares | Fernando |
+| 0.0.4  | 19/04/22 |      Correção textual       |  João Durso   | Fernando |

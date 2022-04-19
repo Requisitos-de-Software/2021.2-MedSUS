@@ -7,7 +7,7 @@ As histórias, similarmante aos cenários, são uma forma de elicitar requisitos
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
-Também existe o artefato "<a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/scenarios/">cenários</a>"s para a elicitação, que funciona de forma similar às histórias. Apesar disso, a estrutura dos cenários é diferente, sendo mais rígida, especificando entradas e saídas.
+Também existe o artefato de<a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/scenarios/">cenários</a> para a elicitação, que funciona de forma similar às histórias. Apesar disso, a estrutura dos cenários é diferente, sendo mais rígida, especificando entradas e saídas.
 </p>
 
 ## 2. Metodologia
@@ -87,7 +87,7 @@ Os requisitos identificados com o storytelling seguem a seguir:
 | :-----------: | :------------------------------------------------------------------------------------------------------------------------------------- |
 |     ST01      | O app precisa mostrar os efeitos colaterais das medicações                                                                             |
 |     ST02      | O app deve ser otimizado para a experiência mobile                                                                                     |
-|     ST03      | O app deve usar uma base de dados confiáveis                                                                                           |
+|     ST03      | O app deve usar uma base de dados confiáveis (SUS, Rename, Ministério da Saúde, Anvisa)                                                                                          |
 |     ST04      | O app deve disponibilizar busca                                                                                                        |
 |     ST05      | A ferramenta de busca é a principal e deve ser diponibilizada ao abrir o app                                                           |
 |     ST06      | O app deve fornecer a lista ordenada de remédios                                                                                       |
