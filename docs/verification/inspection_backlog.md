@@ -12,7 +12,7 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-A inspeção do <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/product_backlog/">backlog</a> possibilita verificar as histórias dos usuário, a sua validade, especificidade, o cumprimento da formatação (Usuário, ação e objetivo) e da organização (Épicos, Features e Histórias de ). Ainda conseguimos verificar questões que auxiliam o projeto, como a rastreabilidade e o elace com os léxicos.
+A inspeção do <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/product_backlog/">backlog</a> possibilita verificar as histórias dos usuário, a sua validade, especificidade, o cumprimento da formatação (Usuário, ação e objetivo) e da organização (Épicos, Features e Histórias de Usuário). Ainda conseguimos verificar questões que auxiliam o projeto, como a rastreabilidade e o enlace com os léxicos.
 </p>
 
 ## 2. Metodologia

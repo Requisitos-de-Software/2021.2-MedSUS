@@ -3,10 +3,11 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-Como a rastreabilidade Forward, existem dois tipos de rastreabilidade Backward. No entando, esse par de Backward possui pontos diferentes de partida. Este documento trata da rastreabilidade Backward From, a qual fornece informações sobre como um requisito surgiu, por meio da vinculação do requisito ao caso de uso do cliente que ele aborda. Isso permite que as equipes melhorem a tomada de decisões, entendendo a origem de um requisito.
+Como a rastreabilidade Forward, existem dois tipos de rastreabilidade Backward. No entando, esse par de Backward possui pontos diferentes de partida. Este documento trata da rastreabilidade Backward From, a qual fornece informações sobre como um requisito surgiu, por meio da vinculação do requisito ao <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/usecase/">caso de uso</a> do cliente que ele aborda. Isso permite que as equipes melhorem a tomada de decisões, entendendo a origem de um requisito.
+</p>
 
-Ademais, os elos de rastreabilidade são concebidos pelo relacionamento entre dois artefatos. São fortes aliados na criação de bibliotecas de componentes, pois deixam evidentes as correlações entre código e demais artefatos, sejam de desenho e/ou de requisitos. Dada a observância dos mesmos problemas ou das mesmas demandas,em um projeto similar, perceberá que é possível fazer uso das mesmas soluções, ou seja, dos mesmos componentes. Isso proporciona maior produtividade.
-
+<p style="text-indent: 20px; text-align: justify">
+Ademais, os elos de rastreabilidade são concebidos pelo relacionamento entre dois artefatos. São fortes aliados na criação de bibliotecas de componentes, pois deixam evidentes as correlações entre código e demais artefatos, sejam de desenho e/ou de requisitos. Dada a observância dos mesmos problemas ou das mesmas demandas, em um projeto similar, perceberá que é possível fazer uso das mesmas soluções, ou seja, dos mesmos componentes e isso proporciona maior produtividade. 
 </p>
 
 ## 2. Metodologia
@@ -388,12 +389,14 @@ Para a realização desse artefato, primeiramente a baseline e o backlog do prod
 
 - Agregação: [ST02](../elicitation/storytelling.md) é composto por [ES20](../modeling/supplementary_specification.md)
 
+<!-- |
 ## 4. Conclusão
 
 <p style="text-indent: 20px; text-align: justify">
 Com esse artefato poderá servir como o ponto de referência para entender todos os requisitos. Esse documento serve como a referência inicial dos requisitos para novas pessoas do projeto. Elas saberão as origens das decisões de requisitos tomadas. Com isso, qualquer desenvolvimento ou alteração nos requisitos será facilitado, melhorando a capacidade de pesquisa dos requisitos. 
 </p>
-
+ -->
+ 
 ## Referências bibliográficas
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 26): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 44 slides. color. Disponível em: https://aprender3.unb.br/pluginfile.php/1668237/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf. Acesso em: 03 abr. 2022.

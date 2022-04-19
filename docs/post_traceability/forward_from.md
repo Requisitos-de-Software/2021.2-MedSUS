@@ -1,16 +1,15 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-Existem dois tipos de rastreabilidade Forward: Forward-to e Forward-from. Os dois rastreiam de um componente upstream para artefatos downstream, a diferença está onde cada um começa. Este documento trata da rastreabilidade Forward From, a qual rastreia relacionamentos entre requerimentos e artefatos downstream correspondentes, incluindo casos de teste. Esse tipo de rastreamento garante que cada requerimento, além de satisfeito, foi verificado e validado.
+Existem dois tipos de rastreabilidade Forward: Forward-to e Forward-from. Ambos são usados para verificar se o projeto avança na direção desejada e para o produto certo. Ademais, garantem que cada requisito seja aplicado ao produto e que cada requisito seja testado minuciosamente. Este documento trata da rastreabilidade Forward From, a qual rastreia relacionamentos entre requerimentos e artefatos downstream correspondentes, incluindo casos de teste. Esse tipo de rastreamento garante que cada requerimento, além de satisfeito, foi verificado e validado.
 </p>
 
 ## 2. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
-Visto os artefatos construídos até agora, foi possível elaborar uma Matriz de Rastreabilidade para conectar os Requisitos, Épicos, Features, História de Usuário e Funcionalidade.
+A partir dos artefatos construídos até agora, foi possível elaborar uma Matriz de Rastreabilidade para conectar os Requisitos, Épicos, Features, História de Usuário e Funcionalidade.
 
 Como o MedSUS não é um software de código aberto, não foi possível relacionar o código-fonte aos requisitos. Além disso, alguns requisitos estão designados como "Em construção", pois o aplicativo se encontrava fora do ar no momento da criação deste artefato. Assim que ele voltar, estaremos completando o documento.
-
 </p>
 
 ## 3. Pré-Rastreabilidade

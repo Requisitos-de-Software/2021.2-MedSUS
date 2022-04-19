@@ -14,7 +14,7 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-A inspeção dos <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/scenarios/">Cenários</a> possibilita verificar as possíveis formas de se utilizar a aplicação com a finalidade de encontrar possíveis defeitos para que eles sejam corrigidos e fiquem mais coerentes com o artefato. Ainda conseguimos verificar questões que auxiliam o projeto, como a rastreabilidade.
+A inspeção dos <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/scenarios/">Cenários</a> possibilita verificar as possíveis formas de se utilizar a aplicação, com a finalidade de encontrar possíveis defeitos para que eles sejam corrigidos e fiquem mais coerentes com o artefato. Ainda conseguimos verificar questões que auxiliam o projeto, como a rastreabilidade.
 </p>
 
 ## 2. Metodologia
@@ -50,6 +50,20 @@ Para a detecção de defeitos, elaborou-se um checklist, utilizando o Google Pla
         </div>
     </div>
 </div>
+
+### 3.2. Correção de Defeitos
+
+<p style="text-indent: 20px; text-align: justify">
+Os autores envolvidos nos Cenários são responsáveis pela remoção de todos os problemas detectados nos Cenários. O objetivo desta fase é garantir que os defeitos de requisitos identificados tenham sido eliminados.
+</p>
+
+### 3.3. Acompanhamento
+
+<p style="text-indent: 20px; text-align: justify">
+A fim de garantir que as modificações necessárias nos Cenários foram feitas em conformidade, o autor e o inspetor são responsáveis por isso. O objetivo do processo de acompanhamento é garantir que o(s) autor(es) dos Cenários tenha(m) retificado todos os requisitos declarados incompletos e/ou inconsistentes ou os defeitos detectados.
+</p>
+
+- [ ] - Cenários Corrigido
 
 ## Referências bibliográficas
 

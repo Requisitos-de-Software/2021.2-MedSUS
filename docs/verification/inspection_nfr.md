@@ -51,11 +51,25 @@ Para a detecção de defeitos, elaborou-se um checklist, utilizando o Google Pla
     </div>
 </div>
 
+### 3.2. Correção de Defeitos
+
+<p style="text-indent: 20px; text-align: justify">
+Os autores envolvidos no NFR Framework são responsáveis pela remoção de todos os problemas detectados no NFR Framework. O objetivo desta fase é garantir que os defeitos de requisitos identificados tenham sido eliminados.
+</p>
+
+### 3.3. Acompanhamento
+
+<p style="text-indent: 20px; text-align: justify">
+A fim de garantir que as modificações necessárias no NFR Framework foram feitas em conformidade, o autor e o inspetor são responsáveis por isso. O objetivo do processo de acompanhamento é garantir que o(s) autor(es) do NFR Framework tenha(m) retificado todos os requisitos declarados incompletos e/ou inconsistentes ou os defeitos detectados.
+</p>
+
+- [ ] - NFR Framework Corrigido
+
 ## Referências bibliográficas
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 23): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 52 slides. color. Disponível em: https://aprender3.unb.br/pluginfile.php/1668221/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 22 mar. 2022.
 
-> Enhancing Data Warehouse Design with the NFR Framework. Disponível em: http://www.inf.puc-rio.br/wer02/zip/Enhancing_Data(4).pdf. Acesso em: 23/03/22
+> Enhancing Data Warehouse Design with the NFR Framework. Disponível em: http://www.inf.puc-rio.br/wer02/zip/Enhancing_Data(4).pdf. Acesso em: 23 mar. 2022.
 
 ## Histórico de versões
 

@@ -3,7 +3,7 @@
 #### 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-A modelagem de caso de uso é uma abstração do sistema baseado em ações do usuário, ou seja, mostram como o sistema
+A modelagem de caso de uso é uma abstração do sistema baseado em ações do usuário, ou seja, mostra como o sistema
 deve se comportar frente a um determinado conjunto de ações. Deste modo, os casos de uso têm como objetivo, não só ajudar
 a extrair os requisitos, como também documentar o sistema.
 

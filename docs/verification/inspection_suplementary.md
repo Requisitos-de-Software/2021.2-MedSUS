@@ -12,7 +12,7 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-A inspeção da <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/supplementary_specification/">Especificação Suplementar</a> possibilita verificar os requisitos pertencentes ao formato FURPS+, a sua validade, existência, a consonância com as funcionalidades e aspectos desejados para o aplicativo pelos usuários e pela organização proprietária da aplicação. Ainda conseguimos verificar questões que auxiliam o projeto, como a rastreabilidade e o elace com os léxicos.
+A inspeção da <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/supplementary_specification/">Especificação Suplementar</a> possibilita verificar os requisitos pertencentes ao formato FURPS+, sua validade, existência, a consonância com as funcionalidades e aspectos desejados para o aplicativo pelos usuários e pela organização proprietária da aplicação. Ainda conseguimos verificar questões que auxiliam o projeto, como a rastreabilidade e o enlace com os léxicos.
 </p>
 
 ## 2. Metodologia
