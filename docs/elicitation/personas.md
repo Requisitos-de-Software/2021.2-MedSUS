@@ -18,7 +18,7 @@ A partir do ![Brainstorm](https://requisitos-de-software.github.io/2021.2-MedSUS
 
 ### 3.1. Gabriel Moura
 
-<img scr= "https://github.com/Requisitos-de-Software/2021.2-MedSUS/blob/main/docs/assets/WhatsApp%20Image%202022-04-18%20at%2020.29.44.jpeg">
+<img width:"800" scr= "assets/persona_gabriel_moura">
 
 <p style="text-indent: 20px; text-align: justify">
 <h6 style="text-align:center">Figura 1: Gabriel Moura</h6>
