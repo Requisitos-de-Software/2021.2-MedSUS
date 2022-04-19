@@ -11,14 +11,14 @@ As personas podem ser primárias, secundárias ou anti-persona. Determinamos, de
 ## 2. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
-A partir do ![Brainstorm](https://requisitos-de-software.github.io/2021.2-MedSUS/elicitation/brainstorm/) realizado em uma reunião com todos os membros do grupo, conseguimos levantar alguns requisitos básico. A partir desses requisitos, buscamos as personas básicas que mais utilizariam esses requisitos. As personas foram detalhadas, com suas histórias, necessidades e objetivos. Pode parecer algo inútil em um primeiro momento, mas é muito importante para criar uma imagem vívida da persona para os designers e estabelcer requistos de forma precisa. 
+A partir do [Brainstorm](https://requisitos-de-software.github.io/2021.2-MedSUS/elicitation/brainstorm/) realizado em uma reunião com todos os membros do grupo, conseguimos levantar alguns requisitos básico. A partir desses requisitos, buscamos as personas básicas que mais utilizariam esses requisitos. As personas foram detalhadas, com suas histórias, necessidades e objetivos. Pode parecer algo inútil em um primeiro momento, mas é muito importante para criar uma imagem vívida da persona para os designers e estabelcer requistos de forma precisa. 
 </p>
 
 ## 3. Personas
 
 ### 3.1. Gabriel Moura
 
-<img width:"800" scr= "assets/persona_gabriel_moura">
+<img scr= "assets/persona_gabriel_moura" alt: "Gabriel Moura">
 
 <p style="text-indent: 20px; text-align: justify">
 <h6 style="text-align:center">Figura 1: Gabriel Moura</h6>
