@@ -18,10 +18,12 @@ A partir do [Brainstorm](https://requisitos-de-software.github.io/2021.2-MedSUS/
 
 ### 3.1. Gabriel Moura
 
-![Gabriel Moura](../assets/persona_gabriel_moura.jpeg)
+<img scr= "docs/assets/persona_gabriel_moura.jpeg>
 
+<p style="text-indent: 20px; text-align: justify">
 <h6 style="text-align:center">Figura 1: Gabriel Moura</h6>
 <h6 style="text-align: center">Fonte: Autor</h6>
+</p>
 
 - **Identidade**
 <p style="text-indent: 20px; text-align: justify">
@@ -84,8 +86,10 @@ documentação dos medicamentos.
 
 ![Irene de Souza](../assets/persona_irene_souza.jpeg)
 
+<p style="text-indent: 20px; text-align: justify">
 <h6 style="text-align:center">Figura 1: Irene de Souza</h6>
 <h6 style="text-align: center">Fonte: Google Imagens</h6>
+</p>
 
 - **Identidade**
 <p style="text-indent: 20px; text-align: justify">
@@ -131,8 +135,10 @@ Dona Nenê espera facilitar a organização desses medicamentos, transferindo as
 
 ![Vitória Aly](../assets/persona_vitoria_aly.jpeg)
 
+<p style="text-indent: 20px; text-align: justify">
 <h6 style="text-align:center">Figura 1: Vitória Aly</h6>
 <h6 style="text-align: center">Fonte: Autor</h6>
+</p>
 
 - **Identidade**
 <p style="text-indent: 20px; text-align: justify">
