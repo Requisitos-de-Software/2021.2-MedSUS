@@ -82,7 +82,7 @@ documentação dos medicamentos.
 
 ### 3.2. Irene de Souza
 
-![Irene](../assets/persona_irene_souza.jpeg)
+<img src="../assets/persona_irene_souza.jpeg" alt="Irene" width="200"/>
 
 <h6 style="text-align:center">Figura 2: Irene de Souza</h6>
 <h6 style="text-align: center">Fonte: Google Imagens</h6>
@@ -129,7 +129,7 @@ Dona Nenê espera facilitar a organização desses medicamentos, transferindo as
 
 ### 3.3 Vitória Aly
 
-![Vitória](../assets/persona_vitoria_aly.jpeg)
+<img src="../assets/persona_vitoria_aly.jpeg" alt="Vitória" width="200"/>
 
 <h6 style="text-align: center">Figura 3: Vitória Aly</h6>
 <h6 style="text-align: center">Fonte: Autor</h6>
@@ -182,11 +182,12 @@ própria clínica ano que vem.
 
 ## Histórico de versões
 
-| Versão |   Data   |        Alteração         |     Responsável     |       Revisão        |
-| :----: | :------: | :----------------------: | :-----------------: | :------------------: |
-| 0.0.1  | 20/02/22 |         Criação          | Adrian e João Durso | Thalisson e Fernando |
-| 0.0.2  | 20/02/22 |        Formatação        | Adrian e João Durso | Thalisson e Fernando |
-| 0.0.3  | 20/02/22 |    Adição de personas    | Adrian e João Durso | Thalisson e Fernando |
-| 0.0.4  | 20/02/22 | Introdução e metodologia |       Adrian        |      João Durso      |
-| 0.0.5  | 05/03/22 |  Adição de Antipersona   |     João Durso      |        Adrian        |
-| 0.0.6  | 15/04/22 |     Correção textual     |     João Durso      |        Adrian        |
+| Versão |   Data   |          Alteração           |     Responsável     |       Revisão        |
+| :----: | :------: | :--------------------------: | :-----------------: | :------------------: |
+| 0.0.1  | 20/02/22 |           Criação            | Adrian e João Durso | Thalisson e Fernando |
+| 0.0.2  | 20/02/22 |          Formatação          | Adrian e João Durso | Thalisson e Fernando |
+| 0.0.3  | 20/02/22 |      Adição de personas      | Adrian e João Durso | Thalisson e Fernando |
+| 0.0.4  | 20/02/22 |   Introdução e metodologia   |       Adrian        |      João Durso      |
+| 0.0.5  | 05/03/22 |    Adição de Antipersona     |     João Durso      |        Adrian        |
+| 0.0.6  | 15/04/22 |       Correção textual       |     João Durso      |        Adrian        |
+| 0.0.7  | 18/04/22 | Adição de fotos das personas |     João Durso      |        Adrian        |
