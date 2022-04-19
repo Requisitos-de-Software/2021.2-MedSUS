@@ -18,10 +18,10 @@ A partir do <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/elic
 
 ### 3.1. Gabriel Moura
 
-<img scr= "assets/persona_gabriel_moura.jpeg">
-<h6 style="text-align:center">Figura 1: Gabriel Moura</h6>
-<h6 style="text-align: center">Fonte: Autor</h6>
+![Gabriel](../assets/persona_gabriel_moura.jpeg)
 
+<h6 style="text-align:center">Figura 1: Gabriel Moura</h6>
+<h6 style="text-align:center">Fonte: Autor</h6>
 
 - **Identidade**
 <p style="text-indent: 20px; text-align: justify">
@@ -82,10 +82,10 @@ documentação dos medicamentos.
 
 ### 3.2. Irene de Souza
 
-<img scr= "assets/persona_irene_souza_.jpeg">
+![Irene](../assets/persona_irene_souza.jpeg)
+
 <h6 style="text-align:center">Figura 2: Irene de Souza</h6>
 <h6 style="text-align: center">Fonte: Google Imagens</h6>
-
 
 - **Identidade**
 <p style="text-indent: 20px; text-align: justify">
@@ -129,7 +129,8 @@ Dona Nenê espera facilitar a organização desses medicamentos, transferindo as
 
 ### 3.3 Vitória Aly
 
-<img scr= "assets/persona_vitoria_aly.jpeg">
+![Vitória](../assets/persona_vitoria_aly.jpeg)
+
 <h6 style="text-align: center">Figura 3: Vitória Aly</h6>
 <h6 style="text-align: center">Fonte: Autor</h6>
 

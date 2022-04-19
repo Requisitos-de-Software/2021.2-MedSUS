@@ -7,7 +7,7 @@ As histórias, similarmante aos cenários, são uma forma de elicitar requisitos
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
-Também existe o artefato de <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/scenarios/">Cenários</a> para a elicitação, que funciona de forma similar às histórias. Apesar disso, a estrutura dos cenários é diferente, sendo mais rígida, especificando entradas e saídas.
+Também existe o artefato "<a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/scenarios/">cenários</a>"s para a elicitação, que funciona de forma similar às histórias. Apesar disso, a estrutura dos cenários é diferente, sendo mais rígida, especificando entradas e saídas.
 </p>
 
 ## 2. Metodologia
