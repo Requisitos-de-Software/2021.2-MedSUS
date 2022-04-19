@@ -20,7 +20,7 @@ O cronograma foi orientado pelas próprias entregas da disciplinas e constará n
 
 ## Histórico de Versão
 
-| Versão |   Data   |     Alteração      | Responsável | Revisão  |
-| :----: | :------: | :----------------: | :---------: | :------: |
-| 0.0.1  | 29/01/22 |      Criação       |   Adrian    | Fernando |
-| 0.0.1  | 29/01/22 | Revisão gramatical |   Adrian    |  Durso   |
+| Versão |   Data   |     Alteração      | Responsável |  Revisão   |
+| :----: | :------: | :----------------: | :---------: | :--------: |
+| 0.0.1  | 29/01/22 |      Criação       |   Adrian    |  Fernando  |
+| 0.0.1  | 29/01/22 | Revisão gramatical |   Adrian    | João Durso |

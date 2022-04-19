@@ -1,12 +1,12 @@
 # Brainstorm
 
-## 1.Introdução
+## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
 O Brainstorming é uma das mais conhecidas técnicas de Elicitação de requisitos. Ela é utilizada para estimular o surgimento de soluções e ideias criativas a partir da discussão entre integrantes da equipe. Também podemos identificar possiveis problemas e explorar maneiras de contorná-las. Essas ideias e soluções são registradas e transformadas em Requisitos do Produto de Software.
 </p>
 
-## 2.Metodologia
+## 2. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
 A princípio, a técnica do Brainstorm é realizada de forma presencial, em uma reunião das partes interessadas e cada um expões as ideias ali pensadas, entretanto estamos enfrentando uma das maiores crises sanitárias da história. Portanto, decidimos nos
@@ -16,7 +16,14 @@ as funcionalidades do produto. Quando alguma ideia ou funcionalidade estava em d
 
 ## 3. Brainstorm
 
-### 3.1. Requisitos já levantados
+<p style="text-indent: 20px; text-align: justify">
+O Brainstorm foi realizado no Discord, portante não houve gravação. Entretanto, o local de exposição de ideias aconteceu <a href="https://hackmd.io/7xaHVZveSeSWm72m7gSJ4A">aqui</a>.
+
+</p>
+
+## 4. Requisitos levantados
+
+<p style="text-indent: 20px; text-align: justify">
 
 **R01 -** O usuário deve ser capaz de buscar medicamentos por nome.</p>
 **R02 -** O usuário deve ser capaz de compartilhar medicamentos.</p>
@@ -37,13 +44,15 @@ as funcionalidades do produto. Quando alguma ideia ou funcionalidade estava em d
 **R17 -** A aplicação deve ser suportada por Android e IOS.</p>
 **R18 -** O usuário deve ser capaz de alterar o tamanho da fonte.</p>
 
+</p>
+
 ## Referências
 
 > Carlos Eduardo Vazquez, Guilherme Siqueira Simões, Engenharia de requisitos: software orientado ao negócio, 1ª ed., Brasport, 2016.
 
 ## Histórico de versões
 
-| Versão |   Data   |      Alteração       | Responsável |  Revisão   |
-| :----: | :------: | :------------------: | :---------: | :--------: |
-| 0.0.1  | 20/02/22 | Criação do documento |  Fernando   | João Durso |
-| 0.0.2  | 05/03/22 |  Correção do texto   | João Durso  | Thalisson  |
+| Versão |   Data   |                   Alteração                    | Responsável |  Revisão   |
+| :----: | :------: | :--------------------------------------------: | :---------: | :--------: |
+| 0.0.1  | 20/02/22 |              Criação do documento              |  Fernando   | João Durso |
+| 0.0.2  | 05/03/22 | Correção textual e adição de link (Brainstorm) | João Durso  |  Fernando  |

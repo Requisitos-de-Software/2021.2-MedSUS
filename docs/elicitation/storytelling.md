@@ -7,17 +7,13 @@ As histórias, similarmante aos cenários, são uma forma de elicitar requisitos
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
-Também existe o artefato de Cenários para a elicitação, que funciona de forma similar às histórias. Apesar disso, a estrutura dos cenários é diferente, sendo mais rígida, especificando entradas e saídas.
-</p>
-
-<p style="text-indent: 20px; text-align: justify">
-A forma escolhida foi o storytelling, pois é boa para estabelecer um panorama geral [Sommerville, 2019, p. 102](referencias-bibliograficas) e poderá ainda auxiliar na criação de cenários para o futuro. 
+Também existe o artefato "<a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/scenarios/">cenários</a>"s para a elicitação, que funciona de forma similar às histórias. Apesar disso, a estrutura dos cenários é diferente, sendo mais rígida, especificando entradas e saídas.
 </p>
 
 ## 2. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
-A metodologia utilizada foi notar alguns requisitos básicos através de um brainstorming, onde se estabeleceu personas básicas que representa o App. A partir dessas personas, desenvolveu-se storytellings para elas e tentou-se identificar mais personas para desenvolver seus storytellings. As histórias desenvolvem detalhes das tarefas e dos objetivos e sentimentos dos usuário. Quanto mais detalhes que sirvam a narrativa, melhor será.
+A metodologia utilizada foi notar alguns requisitos básicos através do <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/elicitation/brainstorm/">Brainstorm</a>, onde se estabeleceu <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/elicitation/personas/">personas</a> básicas que representa o App. A partir dessas personas, desenvolveu-se storytellings para elas e tentou-se identificar mais personas para desenvolver seus storytellings. As histórias desenvolvem detalhes das tarefas e dos objetivos e sentimentos dos usuário. Quanto mais detalhes que sirvam a narrativa, melhor será.
 </p>
 
 ## 3. Storytelling
@@ -25,7 +21,7 @@ A metodologia utilizada foi notar alguns requisitos básicos através de um brai
 ### 3.1. Pesquisa de medicação durante consulta
 
 <p style="text-indent: 20px; text-align: justify">
-Em seu consultório, Dr. Guilherme teve um dia duro de atendimentos. Ele já tem uma certa idade (60 anos) e fica muito cansado em um dia de trabalho atribulado. Ele é um médico pediatra e em sua última consulta do dia, atendeu à Dona Nenê e seu filho João.  
+Em seu consultório, Dr. Guilherme teve um dia duro de atendimentos. Ele já tem uma certa idade (60 anos) e fica muito cansado em um dia de trabalho atribulado. Ele é um médico pediatra e em sua última consulta do dia, atendeu a Dona Nenê e seu filho João.  
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
@@ -33,13 +29,13 @@ Após o diagnóstico dos sintomas de João, Dr. Guilherme passou uma receita par
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
-Ele pega o celular para fazer uma pesquisa rápida, apesar de suas vistas cansadas. O App MedSus acaba sendo uma melhor opção pois é uma ambiente focado em medicações e com fontes confiáveis. Ele rapidamente pega o celular, abre o app e começa a rolar em direção a letra inicial da medicação que receitou. Logo ele lembra que é possível buscar diretamente a medicação. Muito rapidamente, então, ele consegue achar o medicamento após a busca. Ao clicar, ele lê a bula e repassa, enfim, os efeitos colaterais comuns para a mãe devidamente preocupada.
+Ele pega o celular para fazer uma pesquisa rápida, apesar de suas vistas cansadas. O aplicativo MedSus acaba sendo uma melhor opção, pois é uma ambiente focado em medicações e com fontes confiáveis. Ele rapidamente pega o celular, abre o app e começa a rolar em direção a letra inicial da medicação que receitou. Logo ele lembra que é possível buscar diretamente a medicação. Muito rapidamente, então, ele consegue achar o medicamento após a busca. Ao clicar, ele lê a bula e repassa, enfim, os efeitos colaterais comuns para a mãe devidamente preocupada.
 </p>
 
 ### 3.2. Compartilhamento de medicações em Telemedicina
 
 <p style="text-indent: 20px; text-align: justify">
-Juliana está em uma consulta virtual com sua psiquiatra Dra. Fernanda. Ela está em sua primeira consulta e ainda não se encontra muito confiante sobre o tratamento e sobre como funcionam as medicações. Pede então para sua médica algumas informações sobre o medicamento, o qual a médica, em breve, irá receitar. A médica, então, para ajudar sua paciente, envia, além da receita, a bula da medicação, através do compartilhamento do app MedSUS. O aplicativo envia um arquivo PDF, pois, não necessariamente, a pessoa que irá receber as informações tem acesso ao App. O arquivo é enviado através de um aplicativo de mensagens, daqueles que a maioria das pessoas já utilizam.
+Juliana está em uma consulta virtual com sua psiquiatra Dra. Fernanda. Ela está em sua primeira consulta e ainda não se encontra muito confiante sobre o tratamento e sobre como funcionam as medicações. Pede então para sua médica algumas informações sobre o medicamento, o qual a médica, em breve, irá receitar. A médica, então, para ajudar sua paciente, envia, além da receita, a bula da medicação, através do compartilhamento do MedSUS. O aplicativo envia um arquivo PDF, pois, não necessariamente, a pessoa que irá receber as informações tem acesso ao aplicativo. O arquivo é enviado através de um aplicativo de mensagens, daqueles que a maioria das pessoas já utilizam.
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
@@ -49,25 +45,25 @@ Juliana fica feliz com a agilidade do compartilhamento e logo abre o documento. 
 ### 3.3. Relembrar medicações
 
 <p style="text-indent: 20px; text-align: justify">
-Por conta das diversas medicações que toma, sra. Dercy, que troca de médico muitas vezes já que mora com seu filho, Pedro, que muda de moradia constantemente por conta de seu trabalho como o representante comercial de uma empresa multinacional. Ela gosta de saber as medicações que ela já utilizou e as que melhor funcionaram, para poder discutir com seu médico. Porém, sua memória já não é mais como em seus tempos áureos (apesar dela não querer admitir) e por isso precisa de uma ajudinha. Seu filho, então, instalou em seu celular, o app do MedSus e favoritou os remédios que a sua mãe usou, para que ela possa mostrar para seu médico e evitar o esquecimento dos nomes.
+Por conta das diversas medicações que toma, sra. Dercy, que troca de médico muitas vezes já que mora com seu filho, Pedro, o qual muda de moradia constantemente, por conta de seu trabalho, como representante comercial de uma empresa multinacional. Ela gosta de saber as medicações que ela já utilizou e as que melhor funcionaram, para poder discutir com seu médico. Porém, sua memória já não é mais como em seus tempos áureos (apesar dela não querer admitir) e por isso precisa de uma ajudinha. Seu filho, então, instalou em seu celular, o MedSUS e favoritou os remédios que a sua mãe usou, para que ela possa mostrar para seu médico e evitar o esquecimento dos nomes.
 </p>
 <p style="text-indent: 20px; text-align: justify">
-Apesar de não ser tão ligada nessas questões de tecnologia, sra. Dercy usa costumeiramente seu celular, principalmente os aplicativos de mensagem mais comuns. Ela achou muito "supimpa" pois conseguiu localizar facilmente os medicamentos salvos atravé do ícone de "estrela".
+Apesar de não ser tão ligada nessas questões de tecnologia, sra. Dercy usa costumeiramente seu celular, principalmente os aplicativos de mensagem mais comuns. Ela achou muito "supimpa", pois conseguiu localizar facilmente os medicamentos salvos através do ícone de "estrela".
 </p>
 
-### 3.4. Otimizando as minhas consultas
+### 3.4. Otimizando as minhas consultas (Persona: Gabriel Moura)
 
 <p style="text-indent: 20px; text-align: justify">
 Depois de um domingo agitado, acordei, seis horas da manhã na segunda, para trabalhar. Desde já, sabia que seria um dia complicado, pois a pandemia estava piorando com as novas variantes do Corona Vírus. Além disso, hoje era dia do meu plantão no Hospital de Base.
 Chegando no hospital, minhas expectativas já haviam sido confirmadas: o local estava superlotado.
 Desanimado com a infraestrututa precária e com a cabeça cheia, fui para o meu consultório começar os atendimentos. Por acaso, nesse dia, as queixas estavam bastante heterogêneas, de dores de ouvido a lamentações nas pernas. Para lembrar as especificações das medicações, eu tive que ir pesquisando as monografias no Google, e como resultado minha manhã não havia rendido como eu queria. A verdade é que eu gosto de atender o mais rápido possível, mas lógico, sem comprometer a qualidade do meu trabalho. Apenas para poder atender o máximo de pessoas possível, tentando contribuir com a diminuição da superlotação do HB.
-Fui para o horário de almoço e minha esposa me ligou para contar sobre a consulta de sua mãe. Comentei que era tanto medicamento que não sabia como ela lembrava das quantidades e os dias que ela tinha que tomar cada um. Então, minha esposa disse que o médico havia recomendado o aplicativo MedSUS, para que quando ela não lembrasse para que o remédio servia ou suas quantidades, ela pesquisasse a substância lá.
-Desde então, baixei o aplicativo, e descobri consigo estudar as substâncias novamente, uma a uma, a fim de refrescar minha memória.
+Fui para o horário de almoço e minha esposa me ligou para contar sobre a consulta de sua mãe. Comentei que era tanto medicamento que não sabia como ela lembrava das quantidades e os dias que ela tinha que tomar cada um. Então, minha esposa disse que o médico havia recomendado o aplicativo MedSUS, para que, quando ela não lembrasse para que o remédio servia ou suas quantidades, ela pesquisasse a substância lá.
+Desde então, baixei o aplicativo, e consigo estudar as substâncias novamente, uma a uma, a fim de refrescar minha memória.
 Ademais, posso ficar sabendo de alterações, inclusões e remoções desses medicamentos e favoritar os que eu achar que são muito importantes para o meu dia-a-dia.
-Estou estusiasmado e irei recomendar para meus pacientes, pois há uma aba apenas para cidadãos leigos no assunto.
+Estou estusiasmado e irei recomendar para meus pacientes, pois descobri que há uma aba apenas para cidadãos leigos no assunto.
 </p>
 
-### 3.5. Reduzindo as preocupações
+### 3.5. Reduzindo as preocupações (Persona: Irene de Souza)
 
 <p style="text-indent: 20px; text-align: justify">
 Sempre fui uma mulher bastante agitada, gosto de fazer o dia render: lavar roupas, passar pano na casa, fazer café pros meus filhos, fazer almoço, plantar e colher meus milhos e minhas mandiocas. “Tá com a molesta”, eu faço coisa demais.
@@ -79,11 +75,9 @@ Além disso, eu consigo ativar as notificações para saber qualquer mudança so
 Esse aplicativo me ajudou demais, agora não fico mais angustiada com a papelada de remédios, diminuíram as minhas preocupações. Posso viver melhor e interagir com a minha família, aproveitar a eternidade que me resta.
 </p>
 
-## 4. Conclusão
+## 4. Requisitos
 
-O objetivo das histórias é chegar em alguns objetivos e ter uma boa ideia geral do funcionamento da aplicação e sobre o que os usuários esperam. Os requisitos identificados seguem a seguir:
-
-### 4.1. Requisitos
+Os requisitos identificados com o storytelling seguem a seguir:
 
 **Legenda:**
 
@@ -124,3 +118,4 @@ O objetivo das histórias é chegar em alguns objetivos e ter uma boa ideia gera
 | 0.0.2  | 18/02/22 |        Introdução e História 1        |       Adrian        | Thalisson e Fernando |
 | 0.0.3  | 19/02/22 | História 2 e 3, Requisitos Levantados |       Adrian        | Thalisson e Fernando |
 | 0.0.4  | 20/02/22 | História 3 e 4, Requisitos Levantados |     João Durso      | Thalisson e Fernando |
+| 0.0.5  | 15/04/22 |           Correção Textual            |     João Durso      |       Fernando       |
