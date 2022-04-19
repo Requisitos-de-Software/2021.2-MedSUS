@@ -30,6 +30,16 @@ Para a realização das verificações, é desejável que o autor do artefato n�
 Para a detecção de defeitos, elaborou-se um checklist, utilizando o Google Planilhas. As imagens abaixo apresentam o resultado da inspeção.
 </p>
 
+<html> 
+    <div class="container"> 
+        <div class="row">
+            <div class="col-12 embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="https://docs.google.com/spreadsheets/d/1wtUOwZQp9QQY2jWK5i_49Oci5fpYPUAJOj9eFzawrdE/edit#gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+            </div>
+        </div>
+    </div>
+</html>
+
 <div class="container">
     <div class="row">
         <div class="col">
