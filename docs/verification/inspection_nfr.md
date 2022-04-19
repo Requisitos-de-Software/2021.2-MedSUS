@@ -34,7 +34,7 @@ Para a detecção de defeitos, elaborou-se um checklist, utilizando o Google Pla
 <div class="container">
     <div class="row">
         <div class="col">
-            <img src="../assets/verification/nfr/checklist.png">
+            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/verification/nfr/checklist.png">
             <figcaption>Figura 1: Versão 1.0 - Checklist</figcaption>
             <figcaption>Fonte: Autor</figcaption>
         </div>
@@ -44,7 +44,7 @@ Para a detecção de defeitos, elaborou-se um checklist, utilizando o Google Pla
 <div class="container">
     <div class="row">
         <div class="col">
-            <img src="../assets/verification/nfr/grafico_item.png">
+            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/verification/nfr/grafico_item.png">
             <figcaption>Figura 2: Versão 1.0 - Ocorrência de Itens com erros </figcaption>
             <figcaption>Fonte: Autor</figcaption>
         </div>
