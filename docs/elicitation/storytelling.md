@@ -7,13 +7,13 @@ As histórias, similarmante aos cenários, são uma forma de elicitar requisitos
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
-Também existe o artefato de [Cenários](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/scenarios/) para a elicitação, que funciona de forma similar às histórias. Apesar disso, a estrutura dos cenários é diferente, sendo mais rígida, especificando entradas e saídas.
+Também existe o artefato de <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/scenarios/">Cenários</a> para a elicitação, que funciona de forma similar às histórias. Apesar disso, a estrutura dos cenários é diferente, sendo mais rígida, especificando entradas e saídas.
 </p>
 
 ## 2. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
-A metodologia utilizada foi notar alguns requisitos básicos através do [Brainstorm](https://requisitos-de-software.github.io/2021.2-MedSUS/elicitation/brainstorm/), onde se estabeleceu [personas](https://requisitos-de-software.github.io/2021.2-MedSUS/elicitation/personas/) básicas que representa o App. A partir dessas personas, desenvolveu-se storytellings para elas e tentou-se identificar mais personas para desenvolver seus storytellings. As histórias desenvolvem detalhes das tarefas e dos objetivos e sentimentos dos usuário. Quanto mais detalhes que sirvam a narrativa, melhor será.
+A metodologia utilizada foi notar alguns requisitos básicos através do <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/elicitation/brainstorm/">Brainstorm</a>, onde se estabeleceu <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/elicitation/personas/">personas</a> básicas que representa o App. A partir dessas personas, desenvolveu-se storytellings para elas e tentou-se identificar mais personas para desenvolver seus storytellings. As histórias desenvolvem detalhes das tarefas e dos objetivos e sentimentos dos usuário. Quanto mais detalhes que sirvam a narrativa, melhor será.
 </p>
 
 ## 3. Storytelling

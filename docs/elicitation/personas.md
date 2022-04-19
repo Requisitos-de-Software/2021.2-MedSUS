@@ -11,7 +11,7 @@ As personas podem ser primárias, secundárias ou anti-persona. Determinamos, de
 ## 2. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
-A partir do [Brainstorm](https://requisitos-de-software.github.io/2021.2-MedSUS/elicitation/brainstorm/) realizado em uma reunião com todos os membros do grupo, conseguimos levantar alguns requisitos básico. A partir desses requisitos, buscamos as personas básicas que mais utilizariam esses requisitos. As personas foram detalhadas, com suas histórias, necessidades e objetivos. Pode parecer algo inútil em um primeiro momento, mas é muito importante para criar uma imagem vívida da persona para os designers e estabelcer requistos de forma precisa. 
+A partir do <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/elicitation/brainstorm/">Brainstorm</a> realizado em uma reunião com todos os membros do grupo, conseguimos levantar alguns requisitos básico. A partir desses requisitos, buscamos as personas básicas que mais utilizariam esses requisitos. As personas foram detalhadas, com suas histórias, necessidades e objetivos. Pode parecer algo inútil em um primeiro momento, mas é muito importante para criar uma imagem vívida da persona para os designers e estabelcer requistos de forma precisa. 
 </p>
 
 ## 3. Personas
@@ -19,11 +19,9 @@ A partir do [Brainstorm](https://requisitos-de-software.github.io/2021.2-MedSUS/
 ### 3.1. Gabriel Moura
 
 <img scr= "assets/persona_gabriel_moura.jpeg">
-
-<p style="text-indent: 20px; text-align: justify">
 <h6 style="text-align:center">Figura 1: Gabriel Moura</h6>
 <h6 style="text-align: center">Fonte: Autor</h6>
-</p>
+
 
 - **Identidade**
 <p style="text-indent: 20px; text-align: justify">
@@ -84,12 +82,10 @@ documentação dos medicamentos.
 
 ### 3.2. Irene de Souza
 
-![Irene de Souza](../assets/persona_irene_souza.jpeg)
-
-<p style="text-indent: 20px; text-align: justify">
-<h6 style="text-align:center">Figura 1: Irene de Souza</h6>
+<img scr= "assets/persona_irene_souza_.jpeg">
+<h6 style="text-align:center">Figura 2: Irene de Souza</h6>
 <h6 style="text-align: center">Fonte: Google Imagens</h6>
-</p>
+
 
 - **Identidade**
 <p style="text-indent: 20px; text-align: justify">
@@ -133,12 +129,9 @@ Dona Nenê espera facilitar a organização desses medicamentos, transferindo as
 
 ### 3.3 Vitória Aly
 
-![Vitória Aly](../assets/persona_vitoria_aly.jpeg)
-
-<p style="text-indent: 20px; text-align: justify">
-<h6 style="text-align:center">Figura 1: Vitória Aly</h6>
+<img scr= "assets/persona_vitoria_aly.jpeg">
+<h6 style="text-align: center">Figura 3: Vitória Aly</h6>
 <h6 style="text-align: center">Fonte: Autor</h6>
-</p>
 
 - **Identidade**
 <p style="text-indent: 20px; text-align: justify">

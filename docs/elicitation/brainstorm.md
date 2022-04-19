@@ -9,7 +9,7 @@ O Brainstorming é uma das mais conhecidas técnicas de Elicitação de requisit
 ## 2. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
-A princípio, a técnica do [Brainstorm](https://requisitos-de-software.github.io/2021.2-MedSUS/elicitation/brainstorm/) é realizada de forma presencial, em uma reunião das partes interessadas e cada um expões as ideias ali pensadas, entretanto estamos enfrentando uma das maiores crises sanitárias da história. Portanto, decidimos nos
+A princípio, a técnica do Brainstorm é realizada de forma presencial, em uma reunião das partes interessadas e cada um expões as ideias ali pensadas, entretanto estamos enfrentando uma das maiores crises sanitárias da história. Portanto, decidimos nos
 encontrar remotamente através do Discord. E, utilizamos o HackMD para expor nossas ideias num documento compartilhado entre todos os integrantes. Cada ideia, solução e observação foi discutida em conjuto com toda a equipe. Para facilitar no surgimento de ideias e o descubrimento de possíveis problemas, todos os integrantes abriram o aplicativo MedSUS e navegaram em conjunto para discutir
 as funcionalidades do produto. Quando alguma ideia ou funcionalidade estava em discussão, todos os integrantes iam para a suposta funcionalidade e ver o funcionamento na prática. A dinâmica foi realizada com todos integrantes do grupo no dia 16 de fevereiro de 2022 ás 19 horas e durou cerca de 3 horas.
 </p>
@@ -17,7 +17,7 @@ as funcionalidades do produto. Quando alguma ideia ou funcionalidade estava em d
 ## 3. Brainstorm
 
 <p style="text-indent: 20px; text-align: justify">
-O Brainstorm foi realizado no Discord, portante não houve gravação. Entretanto, o local de exposição de ideias foi o seguinte site: <https://hackmd.io/7xaHVZveSeSWm72m7gSJ4A>
+O Brainstorm foi realizado no Discord, portante não houve gravação. Entretanto, o local de exposição de ideias aconteceu <a href="https://hackmd.io/7xaHVZveSeSWm72m7gSJ4A">aqui</a>.
 
 </p>
 
