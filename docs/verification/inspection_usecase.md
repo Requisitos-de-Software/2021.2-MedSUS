@@ -31,33 +31,20 @@ Para a detecção de defeitos, elaborou-se um checklist, utilizando o Google Pla
 </p>
 
 <html> 
-    <div class="container"> 
-        <div class="row">
-            <div class="col-12 embed-responsive embed-responsive-16by9">
-                <iframe class="embed-responsive-item" src="https://docs.google.com/spreadsheets/d/1wtUOwZQp9QQY2jWK5i_49Oci5fpYPUAJOj9eFzawrdE/edit#gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-            </div>
-        </div>
+    <div class="center-card">
+        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS63cBZSeagxSXJFL0ac9EFIo9llvW8djLZj-SP8LFm_P9cURQXI8re1KlAAaxhfQC8k8jrihMbG8C5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="700" height="550" frameborder="0"></iframe>                 
+        <figcaption>Tabela 1: Versão 1.0 - Checklist</figcaption>
+        <figcaption>Fonte: Autor</figcaption>
     </div>
 </html>
 
-<div class="container">
-    <div class="row">
-        <div class="col">
-            <p align = "center">
-                <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/verification/usecase/checklist.png">
-                <figcaption>Figura 1: Versão 1.0 - Checklist</figcaption>
-                <figcaption>Fonte: Autor</figcaption>
-            </p>
-        </div>
-    </div>
-</div>
 
 <div class="container">
     <div class="row">
         <div class="col">
             <p align = "center">
                 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/verification/usecase/grafico_quantidade.png">
-                <figcaption>Figura 2: Versão 1.0 - Ocorrência de Erros (Por Quantidade)</figcaption>
+                <figcaption>Figura 1: Versão 1.0 - Ocorrência de Erros (Por Quantidade)</figcaption>
                 <figcaption>Fonte: Autor</figcaption>
             </p>
         </div>
@@ -69,7 +56,7 @@ Para a detecção de defeitos, elaborou-se um checklist, utilizando o Google Pla
         <div class="col">
             <p align = "center">
                 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/verification/usecase/grafico_item.png">
-                <figcaption>Figura 3: Versão 1.0 - Ocorrência de Erros (Por Item)</figcaption>
+                <figcaption>Figura 2: Versão 1.0 - Ocorrência de Erros (Por Item)</figcaption>
                 <figcaption>Fonte: Autor</figcaption>
             </p>
         </div>
@@ -81,7 +68,7 @@ Para a detecção de defeitos, elaborou-se um checklist, utilizando o Google Pla
         <div class="col">
             <p align = "center">
                 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/verification/usecase/histograma.png">
-                <figcaption>Figura 4: Versão 1.0 - Histograma de Erros</figcaption>
+                <figcaption>Figura 3: Versão 1.0 - Histograma de Erros</figcaption>
                 <figcaption>Fonte: Autor</figcaption>
             </p>
         </div>

@@ -55,7 +55,7 @@ nav:
       - NFR: verification/inspection_nfr.md
       - Backlog: verification/inspection_backlog.md
       - Léxico: verification/inspection_lexicon.md
-      - RichPicture: verification/inspection_richpicture.md
+      - Rich Picture: verification/inspection_richpicture.md
       - Especificação Suplementar: verification/inspection_suplementary.md
       - Casos de Uso: verification/inspection_usecase.md
     - Validação: validation/prototyping.md
