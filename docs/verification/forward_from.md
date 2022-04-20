@@ -46,6 +46,18 @@ Para a detecção de defeitos, elaborou-se um checklist, utilizando o Google Pla
     <figcaption>Fonte: Autor</figcaption>
 </div>
 
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <p align = "center">
+                <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/verification/forward_from/graficoErros.png">
+                <figcaption>Fonte: Autor</figcaption>
+            </p>
+        </div>
+    </div>
+</div>
+
 ## 3.2. Correção de Defeitos
 
 <p style="text-indent: 20px; text-align: justify">
@@ -57,7 +69,7 @@ O objetivo desta fase é garantir que os defeitos identificados tenham sido elim
 
 <p style="text-indent: 20px; text-align: justify">
 A fim de garantir que as modificações necessárias no forward-from foram feitas em conformidade, o autor e o inspetor são responsáveis por isso. 
-O objetivo do processo de acompanhamento é garantir que o(s) autor(es) do NFR Framework tenha(m) 
+O objetivo do processo de acompanhamento é garantir que o(s) autor(es) do forward-from tenha(m) 
 retificado todos os requisitos declarados incompletos e/ou inconsistentes ou os defeitos detectados.
 </p>
 
