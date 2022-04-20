@@ -51,8 +51,8 @@ O cronograma foi orientado pelas próprias entregas da disciplinas e constará n
 | :--------------------------: | :---------------------------: | :------------------------: | :----------:         |
 |            18/02             | Brainstorm                    | Todos                      | Fernando             |
 |            19/02             | Storytelling                  | Adrian, João D.            | Thalisson            |
-|            19/02             | Introspecção                  | Fernando, Adrian, Gabriel  | Ana Carolina         |
-|            20/02             | 5w2h                          | Thalisson                  | Thalisson e Fernando |
+|            19/02             | Introspecção                  | Fernando, Adrian, Gabriel  | João D.              |
+|            20/02             | 5w2h                          | Thalisson, Gabriel         | Fernando             |
 |            20/02             | Personas                      | João D.                    | Adrian               |
 |            20/02             | MoSCoW                        | Todos                      | Thalisson e Fernando |
 
@@ -65,12 +65,10 @@ O cronograma foi orientado pelas próprias entregas da disciplinas e constará n
 
 | Data da realização da tarefa |    Planejamento do projeto     |      Responsáveis      | Revisores |
 | :--------------------------: | :----------------------------: | :--------------------: | :-------: |
-|        10/03 - 12/03         | Léxico                         |         Todos          |   Todos   |
-|            10/03             | Cenários                       |      Ana Carolina      |  Gustave  |
-|            11/03             | Especificação Suplementar      |        Gustave         |  Daniel   |
-|            11/03             | Casos de Uso                   | Erick, Daniel, Ricardo |  Gustave  |
-|            10/03             |         Ata de reunião         |      Ana Carolina      |  Daniel   |
-|            10/03             | Cronograma da terceira entrega |      Ana Carolina      |   Erick   |
+|            05/03             | Léxicos                        |         Adrian         | Fernando  |
+|            05/03             | Cenários                       | João D.                | Thalisson |
+|            06/03             | Especificação Suplementar      | Thalisson              |  Adrian   |
+|            06/03             | Casos de Uso                   | Gabriel, Fernando      |  GGomes   |
 
 <center> 
     <figcaption>Tabela 4: Terceira entrega.</figcaption>
