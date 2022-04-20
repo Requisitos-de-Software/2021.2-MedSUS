@@ -8,15 +8,15 @@ repo_name: 2021.2-MedSUS
 repo_url: https://github.com/Requisitos-de-Software/2021.2-MedSUS
 
 theme:
-  name: 'material'
-  language: 'pt'
-  logo: 'assets/logo_medsus.png'
+  name: "material"
+  language: "pt"
+  logo: "assets/logo_medsus.png"
   palette:
-    primary: 'blue'
-    accent: 'light blue'
+    primary: "blue"
+    accent: "light blue"
   font:
-    text: 'Montserrat'
-    code: 'sans-serif'
+    text: "Montserrat"
+    code: "sans-serif"
 
 extra_css:
   - extra.css
@@ -28,26 +28,28 @@ plugins:
 nav:
   - Início: index.md
   - Planejamento:
-    - Metodologia: about/methodology.md
-    - Ferramentas: about/tools.md
-    - Cronograma: about/planning.md
+      - Metodologia: about/methodology.md
+      - Ferramentas: about/tools.md
+      - Cronograma: about/planning.md
   - Pré-Rastreabilidade:
-    - Rich Picture: pre_traceability/rich_picture.md
-    - 5W2H: pre_traceability/5w2h.md
+      - Rich Picture: pre_traceability/rich_picture.md
+      - 5W2H: pre_traceability/5w2h.md
   - Elicitação:
-    - Brainstorm: elicitation/brainstorm.md
-    - Personas: elicitation/personas.md
-    - Storytelling: elicitation/storytelling.md
-    - Instrospecção: elicitation/introspective.md
-  - Priorização: priorization/moscow.md
+      - Brainstorm: elicitation/brainstorm.md
+      - Personas: elicitation/personas.md
+      - Storytelling: elicitation/storytelling.md
+      - Instrospecção: elicitation/introspective.md
+  - Priorização:
+      - MoscoW: priorization/moscow.md
+      - First Things First: priorization/first_things_first.md
   - Modelagem:
-    - Léxicos: modeling/lexicos.md
-    - Casos de Uso: modeling/usecase.md
-    - Cenários: modeling/scenarios.md
-    - Especificação Suplementar: modeling/supplementary_specification.md
-    - Backlog: modeling/product_backlog.md
-    - História de usuário: modeling/userstory.md
-    - NFR: modeling/nfr.md
+      - Léxicos: modeling/lexicos.md
+      - Casos de Uso: modeling/usecase.md
+      - Cenários: modeling/scenarios.md
+      - Especificação Suplementar: modeling/supplementary_specification.md
+      - Backlog: modeling/product_backlog.md
+      - História de usuário: modeling/userstory.md
+      - NFR: modeling/nfr.md
   - Análise:
     - Verificação:
       - Explicação: verification/verification.md
@@ -60,12 +62,12 @@ nav:
       - Casos de Uso: verification/inspection_usecase.md
     - Validação: validation/prototyping.md
   - Pós Rastreabilidade:
-    - Backward from: post_traceability/backward_from.md
-    - Forward from: post_traceability/forward_from.md
+      - Backward from: post_traceability/backward_from.md
+      - Forward from: post_traceability/forward_from.md
   - Apresentações:
-    - Apresentação 1: presentations/presentation1.md
-    - Apresentação 2: presentations/presentation2.md
-    - Apresentação 3: presentations/presentation3.md
-    - Apresentação 4: presentations/presentation4.md
-    - Apresentação 5: presentations/presentation5.md
-    - Apresentação 6: presentations/presentation6.md
+      - Apresentação 1: presentations/presentation1.md
+      - Apresentação 2: presentations/presentation2.md
+      - Apresentação 3: presentations/presentation3.md
+      - Apresentação 4: presentations/presentation4.md
+      - Apresentação 5: presentations/presentation5.md
+      - Apresentação 6: presentations/presentation6.md

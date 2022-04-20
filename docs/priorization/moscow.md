@@ -12,6 +12,9 @@
     Para fazermos a priorização dos requisitos, nós, integrantes do grupo, nos reunimos pelo Discord e discutimos todos os requisitos elicitados pelas técnicas utilizadas até aqui: Brainstorm, Storytelling e Introspective.
     Então, ao analisar cada requisito, chegamos a um acordo sobre a sua classe de priorização, isto é, em qual classificação o requisito melhor se enquadraria.
 </p>
+<p style="text-indent: 20px; text-align: justify">
+Este documento foi baseado nas <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/elicitation/personas/">personas</a> e nos <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/elicitation/storytelling/">storytellings</a>. Não houve o envolvimento de um usuário.
+</p>
 
 ## 3. MoScoW
 

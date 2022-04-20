@@ -393,10 +393,10 @@ Para a realização desse artefato, primeiramente a baseline e o backlog do prod
 ## 4. Conclusão
 
 <p style="text-indent: 20px; text-align: justify">
-Com esse artefato poderá servir como o ponto de referência para entender todos os requisitos. Esse documento serve como a referência inicial dos requisitos para novas pessoas do projeto. Elas saberão as origens das decisões de requisitos tomadas. Com isso, qualquer desenvolvimento ou alteração nos requisitos será facilitado, melhorando a capacidade de pesquisa dos requisitos. 
+Com esse artefato poderá servir como o ponto de referência para entender todos os requisitos. Esse documento serve como a referência inicial dos requisitos para novas pessoas do projeto. Elas saberão as origens das decisões de requisitos tomadas. Com isso, qualquer desenvolvimento ou alteração nos requisitos será facilitado, melhorando a capacidade de pesquisa dos requisitos.
 </p>
  -->
- 
+
 ## Referências bibliográficas
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 26): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 44 slides. color. Disponível em: https://aprender3.unb.br/pluginfile.php/1668237/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf. Acesso em: 03 abr. 2022.
