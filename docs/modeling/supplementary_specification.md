@@ -33,9 +33,9 @@ Esse sistema visa classificar os requisitos de acordo com os atributos de qualid
 <span id="usabilidade"></span>
 
 - [ES01] O aplicativo não exigirá treinamento prévio por parte do usuário. <sup>[IR7](../elicitation/introspective.md#4resultado)</sup>
-- [ES02] Design simples e familiar que facilite a memorização <sup>[R12](../elicitation/brainstorm.md#requisitos-levantados) [IR6](../elicitation/introspective.md#4resultado)</sup>
-- [ES03] As informações devem ser apresentadas de modo que facilite a busca e o acesso à informação. <sup>[ST06](../elicitation/storytelling.md#41-requisitos)</sup>
-- [ES04] As informações apresentadas no aplicativo devem ser de fácil entendimento. <sup>[IR11](../elicitation/introspective.md#4resultado)</sup>
+- [ES02] O usuário deve conseguir buscar palavras-chave no texto das informações. <sup>[R12](../elicitation/brainstorm.md#requisitos-levantados) [IR6](../elicitation/introspective.md#4resultado)</sup>
+- [ES03] Os remédios devem ser apresentados em ordem lexicográfica. <sup>[ST06](../elicitation/storytelling.md#41-requisitos)</sup>
+- [ES04] Deve existir uma versão das informações das monografias dos medicamentos sem muitas palavras científicas, facilitando o entendimento do [Usuário Leigo](../modeling/lexicos.md#usuario-leigo). <sup>[IR11](../elicitation/introspective.md#4resultado)</sup>
 - [ES05] O aplicativo deve fornecer opções de tamanhos diferentes para as fontes utilizadas. <sup>[ST19 ST13](../elicitation/storytelling.md#41-requisitos)</sup>
 
 ### 3.3 Confiabilidade
@@ -51,7 +51,7 @@ Esse sistema visa classificar os requisitos de acordo com os atributos de qualid
 <span id="desempenho"></span>
 
 - [ES09] O aplicativo não deve consumir muitos recursos. <sup>[ST02](../elicitation/storytelling.md#41-requisitos)</sup>
-- [ES10] As buscas não devem demorar mais de 1 segundo para serem concluídas. <sup>[IR8](../elicitation/introspective.md#4resultado)</sup>
+- [ES10] As buscas não devem demorar mais de 10 segundo para serem concluídas. <sup>[IR8](../elicitation/introspective.md#4resultado)</sup>
 
 ### 3.5 Suportabilidade
 

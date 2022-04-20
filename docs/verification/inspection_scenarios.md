@@ -39,7 +39,6 @@ Para a detecção de defeitos, elaborou-se um checklist, utilizando o Google Pla
     </div>
 </html>
 
-
 <div class="container">
     <div class="row">
         <div class="col">
