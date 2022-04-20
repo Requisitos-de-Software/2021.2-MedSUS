@@ -172,3 +172,5 @@ Em construção (Aplicativo fora do ar) -->
 | 0.0.2  | 03/04/22 | Correções na padronização e no texto | João Durso  |  Fernando  |
 | 0.0.3  | 03/04/22 |         Correção nas tabelas         |  Fernando   | João Durso |
 | 0.0.4  | 19/04/22 |           Correção textual           | João Durso  |  Fernando  |
+| 0.0.3  | 20/04/22 |  Inclusão de artefatos que faltaram  |  Fernando   | -- |
+
