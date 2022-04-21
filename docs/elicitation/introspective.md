@@ -61,6 +61,7 @@ A princípio, eu quero um aplicativo bonito, e que entregue todas as suas princi
 |  IR9   | Pesquisar medicamentos pelo nome.                                                                                     |
 |  IR10  | Compartilhar informações por PDF.                                                                                     |
 |  IR11  | Boa apresentação da informação pesquisada.                                                                            |
+|  IR12  | Visão de cidadão em medicamentos favoritados.|
 
 Legenda: Introspection Requirement (IR)
 
