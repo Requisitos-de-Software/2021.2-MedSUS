@@ -78,5 +78,5 @@ Este documento foi baseado nas <a href="https://requisitos-de-software.github.io
 | :----: | :------: | :----------------------------: | :---------------------------: | :------------------: |
 | 0.0.1  | 20/02/22 |           Criação              | Gabriel Oliveira e João Durso | Thalisson e Fernando |
 | 0.0.2  | 20/02/22 |          Priorização           |     Todos os integrantes      | Thalisson e Fernando |
-| 0.0.3  | 20/02/22 |     Introdução e Metodologia   |           Fernando            | Thalisson e Fernando |
-| 0.0.4  | 20/04/22 | Atualização com novo requisito |           Fernando            | Thalisson e Fernando |
+| 0.0.3  | 20/02/22 |     Introdução e Metodologia   |           Fernando            |        Thalisson     |
+| 0.0.4  | 20/04/22 | Atualização com novo requisito |           Fernando            |       João Durso     |
