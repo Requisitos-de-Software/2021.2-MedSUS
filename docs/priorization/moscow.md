@@ -66,6 +66,7 @@ Este documento foi baseado nas <a href="https://requisitos-de-software.github.io
 |     ST17      | O app deve notificar os usuários acerca das atualizações da monografia dos medicamentos (inclusão, remoção e alteração). |
 |     ST19      | A aplicação deve disponibilizar o aumento (e redução) do tamanho da fonte das monografias.                               |
 |      IR5      | Favoritar medicações atrelado a alguma conta, para acessá-las em outros dispositivos.                                    |
+|      IR12      | Visão de cidadão em medicamentos favoritados.                                                                            |
 
 ## Referências bibliográficas
 
