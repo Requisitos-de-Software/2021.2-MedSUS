@@ -68,7 +68,7 @@ O cronograma foi orientado pelas próprias entregas da disciplinas e constará n
 |            05/03             | Léxicos                        |         Adrian         | Fernando  |
 |            05/03             | Cenários                       | João D.                | Thalisson |
 |            06/03             | Especificação Suplementar      | Thalisson              |  Adrian   |
-|            06/03             | Casos de Uso                   | Gabriel, Fernando      |  GGomes   |
+|            06/03             | Casos de Uso                   | Gabriel, Fernando      |  G. Gomes |
 
 <center> 
     <figcaption>Tabela 4: Terceira entrega.</figcaption>
@@ -77,16 +77,11 @@ O cronograma foi orientado pelas próprias entregas da disciplinas e constará n
 
 ### 1.2.4. Quarta entrega
 
-| Data da realização da tarefa |                         Planejamento do projeto                          |   Responsáveis   |  Revisores   |
-| :--------------------------: | :----------------------------------------------------------------------: | :--------------: | :----------: |
-|        14/03 - 16/03         |                      Ajustes do feedback do monitor                      |      Todos       |    Todos     |
-|            10/03             |     Planejamento do Relato dos resultados da avaliação do Storyboard     |   Ana Carolina   |   Gustave    |
-|            15/03             |                 Planejamento de Avaliação de Storyboard                  |     Gustave      | Ana Carolina |
-|            15/03             |                                Storyboard                                |      Erick       |   Ricardo    |
-|            11/03             |             Planejamento de Avaliação de Análise de tarefas              | Daniel e Ricardo |    Erick     |
-|            11/03             | Planejamento do Relato dos resultados da avaliação de Análise de tarefas |     Ricardo      |    Erick     |
-|            15/03             |                              Ata de reunião                              |   Ana Carolina   |    Erick     |
-|            15/03             |                       Cronograma da quarta entrega                       |   Ana Carolina   |   Ricardo    |
+| Data da realização da tarefa |                         Planejamento do projeto                          | Responsáveis       |  Revisores   |
+| :--------------------------: | :----------------------------------------------------------------------: | :-----------------:| :----------: |
+|            08/03             | Backlog                                                                  | Thalisson, João D. | João D.      |
+|            09/03             | Histórias de Usuário                                                     | Todos              | Thalisson    |
+|            09/03             | NFR-Framework                                                            | Adrian             | Fernando     |
 
 <center> 
     <figcaption>Tabela 5: Quarta entrega.</figcaption>
@@ -95,49 +90,20 @@ O cronograma foi orientado pelas próprias entregas da disciplinas e constará n
 
 ### 1.2.5. Quinta entrega
 
-| Data da realização da tarefa |                 Planejamento do projeto                 |  Responsáveis   |  Revisores   |
-| :--------------------------: | :-----------------------------------------------------: | :-------------: | :----------: |
-|            29/03             |             Ajustes do feedback do monitor              |      Todos      |    Todos     |
-|            24/03             | Fazer o planejamento da avaliação do protótipo de papel |     Daniel      |    Erick     |
-|            30/03             |  Fazer o planejamento do relato do protótipo de papel   |  Ana Carolina   |    Erick     |
-|        25/03 - 27/03         |               Fazer o protótipo de papel                | Gustave e Erick | Ana Carolina |
-|            30/03             |                     Ata de reunião                      |  Ana Carolina   |    Erick     |
-|            30/03             |              Cronograma da quinta entrega               |  Ana Carolina   |    Erick     |
+| Data da realização da tarefa |                 Planejamento do projeto                 |  Responsáveis      |  Revisores         |
+| :--------------------------: | :-----------------------------------------------------: | :----------------: | :----------------: |
+|            23/03             | Verificação dos Casos de Uso                            | João D.            | Thalisson, Adrian  |
+|            23/03             | Verificação do Rich Picture                             | João D.            | Thalisson, Adrian  |
+|            23/03             | Verificação dos Léxicos                                 | João D.            | Thalisson, Adrian  |
+|            23/03             | Inspeção NFR Framework                                  | Thalisson          | Adrian             |
+|            23/03             | Inspeção dos Cenários                                   | Thalisson          | Adrian             |
+|            23/03             | Inspeção do Backlog                                     | Adrian             | Fernando, G. Gomes |
+|            23/03             | Inspeção Especificação suplementar                      | Fernando, Thalisson| Adrian             |
+|            23/03             | Validação                                               | Fernando, Gabriel  | João D.            |
+|            20/04             | Correções                                               | Todos              | Todos              |
 
 <center> 
     <figcaption>Tabela 6: Quinta entrega.</figcaption> 
-    <figcaption>Fonte: Autor</figcaption>
-</center>
-
-### 1.2.6. Sexta entrega
-
-| Data da realização da tarefa |             Planejamento do projeto              | Responsáveis |  Revisores   |
-| :--------------------------: | :----------------------------------------------: | :----------: | :----------: |
-|            06/04             |                   Verificação                    | Ana Carolina |    Daniel    |
-|            06/04             |                Perfil de Usuário                 |    Daniel    |   Gustave    |
-|            06/04             |                     Personas                     | Ana Carolina |    Daniel    |
-|            06/04             |                       CTT                        |   Ricardo    |   Gustave    |
-|            06/04             |                       HTA                        |    Erick     |    Daniel    |
-|            06/04             |                Princípios Gerais                 |   Gustave    |    Daniel    |
-|            06/04             |                  Guia de Estilo                  | Ana Carolina |   Ricardo    |
-|            06/04             |               Metas de Usabilidade               |   Ricardo    |   Gustave    |
-|            06/04             | Planejamento da Avaliação de Análise de Tarefas  |    Erick     |   Gustave    |
-|            06/04             |         Entrevista da Análise de tarefas         |    Erick     | Ana Carolina |
-|            06/04             |   Planejamento do Relato do Análise de Tarefas   |   Gustave    |   Ricardo    |
-|            06/04             |                 Avaliação da T1                  |    Daniel    |   Gustave    |
-|            06/04             |                 Avaliação da T2                  |    Daniel    |   Ricardo    |
-|            06/04             |     Planejamento da Avaliação do Storyboard      |    Erick     |   Ricardo    |
-|            06/04             |                    Storyboard                    | Ana Carolina |    Erick     |
-|            06/04             | Relato dos resultados da avaliação do Storyboard |   Gustave    |    Erick     |
-|            06/04             |               Entrevistas 1,2 e 3                |    Daniel    |    Erick     |
-|            06/04             | Planejamento da avaliação do Protótipo de papel  |   Ricardo    |   Gustave    |
-|            06/04             |          Protótipo de baixa fidelidade           | Ana Carolina |    Erick     |
-|            06/04             |   Planejamento do relato do Protótipo de papel   |   Ricardo    |   Gustave    |
-|            06/04             |                  Ata da reunião                  | Ana Carolina |    Erick     |
-|            06/04             |             Cronograma sexta entrega             | Ana Carolina |   Ricardo    |
-
-<center> 
-    <figcaption>Tabela 7: Sexta entrega.</figcaption>
     <figcaption>Fonte: Autor</figcaption>
 </center>
 
@@ -149,7 +115,7 @@ O cronograma foi orientado pelas próprias entregas da disciplinas e constará n
 
 ## 2. Bibliografia
 
-> Prime Video. Disponível em: https://github.com/Requisitos-de-Software/2021.2-Prime-video/blob/main/docs/planejamento/cronograma.md .Acesso em: 12/02/2022.
+> Prime Video. Disponível em: https://github.com/Requisitos-de-Software/2021.2-Prime-video/blob/main/docs/planejamento/cronograma.md .Acesso em: 08/02/2022.
 
 ## Histórico de Versão
 
