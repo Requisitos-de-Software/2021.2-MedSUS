@@ -31,21 +31,19 @@ Para a realização das verificações, é desejável que o autor do artefato n�
 Para a detecção de defeitos, elaborou-se um checklist, utilizando o Google Planilhas. As imagens abaixo apresentam o resultado da inspeção.
 </p>
 
-<div class="container">
-    <div class="row">
-        <div class="col">
-            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/verification/scenarios/checklist.png">
-            <figcaption>Figura 1: Versão 1.0 - Checklist</figcaption>
-            <figcaption>Fonte: Autor</figcaption>
-        </div>
+<html> 
+    <div class="center-card">
+        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR5Xj250gSt_58p5wTDpQx8clUF0H0RCIbmMRqip6kawcv6oTLZcsU_10BAIncQYgXNUjCGOpSHzzVP/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="650" height="670" frameborder="0"></iframe>                 
+        <figcaption>Tabela 1: Versão 1.0 - Checklist</figcaption>
+        <figcaption>Fonte: Autor</figcaption>
     </div>
-</div>
+</html>
 
 <div class="container">
     <div class="row">
         <div class="col">
             <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/verification/scenarios/grafico_item.png">
-            <figcaption>Figura 2: Versão 1.0 - Ocorrência de Itens com erros </figcaption>
+            <figcaption>Figura 1: Versão 1.0 - Ocorrência de Itens com erros </figcaption>
             <figcaption>Fonte: Autor</figcaption>
         </div>
     </div>

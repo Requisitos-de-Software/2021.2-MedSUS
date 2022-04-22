@@ -31,14 +31,10 @@ Para a realização das verificações, é desejável que o autor do artefato n�
 Para a detecção de defeitos, elaborou-se um checklist, utilizando o Google Planilhas. As imagens abaixo apresentam o resultado da inspeção.
 </p>
 
-<div class="container">
-    <div class="row">
-        <div class="col">
-            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/verification/nfr/checklist.png">
-            <figcaption>Figura 1: Versão 1.0 - Checklist</figcaption>
-            <figcaption>Fonte: Autor</figcaption>
-        </div>
-    </div>
+<div class="center-card">
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT9C69lh7scM-uGtMhpOFdcclsbGDG4kewG-w5i1uD4NQ-Ivc98DqaVCvnZiP3WBmSz8OppLKNkcj6l/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="480"></iframe>
+    <figcaption>Figura 1: Versão 1.0 - Checklist</figcaption>
+    <figcaption>Fonte: Autor</figcaption>
 </div>
 
 <div class="container">
