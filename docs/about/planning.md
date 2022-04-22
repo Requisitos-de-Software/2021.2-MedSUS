@@ -98,7 +98,7 @@ O cronograma foi orientado pelas próprias entregas da disciplinas e constará n
 |            23/03             | Inspeção NFR Framework                                  | Thalisson          | Adrian             |
 |            23/03             | Inspeção dos Cenários                                   | Thalisson          | Adrian             |
 |            23/03             | Inspeção do Backlog                                     | Adrian             | Fernando, G. Gomes |
-|            23/03             | Inspeção Especificação suplementar                      | Fernando, Thalisson| Adrian             |
+|            23/03             | Inspeção Especificação suplementar                      | Adrian             | Fernando,Thalisson |
 |            23/03             | Validação                                               | Fernando, Gabriel  | João D.            |
 |            20/04             | Correções                                               | Todos              | Todos              |
 
