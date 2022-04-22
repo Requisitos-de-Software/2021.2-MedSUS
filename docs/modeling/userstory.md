@@ -122,6 +122,13 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US14</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"Eu, como usuário, gostaria que ao favoritar um medicamento, conseguisse ter a visão, também de cidadão</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">TODO</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Won't</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">8</td>
+        </tr>
+        <tr>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US14</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de ser notificado sempre que um <a href="../../modeling/lexicos#medicamento">medicamento</a> sofrer alguma alteração para que eu fique sempre atualizado.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">TODO</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Won't</td>
@@ -139,7 +146,7 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de compartilhar informações de <a href="../../modeling/lexicos#medicamento">medicamentos</a> no formato <a href="../../modeling/lexicos#pdf">PDF</a> para outras pessoas tenham acesso à informação mesmo sem possuir o app instalado em seu dispositivo.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">TODO</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Must</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">13</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
         </tr>
     </tbody>
 </table>
