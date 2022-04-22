@@ -51,17 +51,17 @@ nav:
       - História de usuário: modeling/userstory.md
       - NFR: modeling/nfr.md
   - Análise:
-    - Verificação:
-      - Explicação: verification/verification.md
-      - Cenários: verification/inspection_scenarios.md
-      - NFR: verification/inspection_nfr.md
-      - Backlog: verification/inspection_backlog.md
-      - Léxico: verification/inspection_lexicon.md
-      - Rich Picture: verification/inspection_richpicture.md
-      - Especificação Suplementar: verification/inspection_suplementary.md
-      - Casos de Uso: verification/inspection_usecase.md
-      - forward-from: verification/forward_from.md
-    - Validação: validation/prototyping.md
+      - Verificação:
+          - Explicação: verification/verification.md
+          - Cenários: verification/inspection_scenarios.md
+          - NFR: verification/inspection_nfr.md
+          - Backlog: verification/inspection_backlog.md
+          - Léxico: verification/inspection_lexicon.md
+          - Rich Picture: verification/inspection_richpicture.md
+          - Especificação Suplementar: verification/inspection_suplementary.md
+          - Casos de Uso: verification/inspection_usecase.md
+          - Forward from: verification/forward_from.md
+      - Validação: validation/prototyping.md
   - Pós Rastreabilidade:
       - Backward from: post_traceability/backward_from.md
       - Forward from: post_traceability/forward_from.md
