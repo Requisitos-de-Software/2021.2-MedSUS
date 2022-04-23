@@ -30,7 +30,7 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-6 d-flex align-items-stretch">
             <div id="adicionar-medicamento"class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Adicionar Medicamento</h4>
@@ -55,7 +55,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-sm-6">
+        <div class="col-sm-6 d-flex align-items-stretch">
             <div id="administracao" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Administração</h5>
@@ -83,7 +83,7 @@
     </div>
     <br>
     <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-6 d-flex align-items-stretch">
             <div id="advertencia" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Advertência</h5>
@@ -118,7 +118,7 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-6 d-flex align-items-stretch">
             <div id="barra-pesquisa" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Barra de Pesquisa</h5>
@@ -145,7 +145,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-sm-6">
+        <div class="col-sm-6 d-flex align-items-stretch">
             <div id="bula" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Bula</h4>
@@ -184,7 +184,7 @@
     </div>
     <br>
     <div class="row">
-        <div class="pd-0 col-sm-6">
+        <div class="pd-0 col-sm-6 d-flex align-items-stretch">
             <div id="bula-paciente" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Bula para o Paciente</h4>
@@ -216,7 +216,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-sm-6">
+        <div class="col-sm-6 d-flex align-items-stretch">
             <div id="bula-profissional-saude" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Bula para o Profissional de Saúde
@@ -248,7 +248,7 @@
     </div>
     <br>
     <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-6 d-flex align-items-stretch">
             <div id="busca-medicamento" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Busca de medicamento</h5>
@@ -291,7 +291,7 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-6 d-flex align-items-stretch">
             <div id="compartilhar" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Compartilhar</h5>
@@ -425,7 +425,7 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-6 d-flex align-items-stretch">
             <div id="medicamento" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Medicamento</h5>
@@ -452,7 +452,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-sm-6">
+        <div class="col-sm-6 d-flex align-items-stretch">
             <div id="medico" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Médico</h5>
@@ -483,7 +483,7 @@
     </div>
     <br>    
     <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-6 d-flex align-items-stretch">
             <div id="modificar-bula"class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Modificar bula</h4>
@@ -516,7 +516,7 @@
 
 <div class="container">
     <div id="paciente" class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-6 d-flex align-items-stretch">
             <div id="paciente"class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Paciente</h4>
@@ -541,7 +541,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-sm-6">
+        <div class="col-sm-6 d-flex align-items-stretch">
             <div id="pdf" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">PDF</h4>
@@ -575,7 +575,7 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-6 d-flex align-items-stretch">
             <div id="rename" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Rename</h4>
@@ -611,7 +611,7 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-6 d-flex align-items-stretch">
             <div id="sus" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">SUS</h4>
@@ -645,7 +645,7 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-6 d-flex align-items-stretch">
             <div id="tratamento" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Tratamento</h4>
@@ -677,7 +677,7 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-6 d-flex align-items-stretch">
             <div id="usuario-saude" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Usuário da Saúde</h4>
@@ -701,7 +701,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-sm-6">
+        <div class="col-sm-6  d-flex align-items-stretch">
             <div id="usuario-leigo" class="card">
                 <div class="card-header p-1 bg-primary">
                     <h4 class="card-title text-white text-center m-1 font-weight-bold">Usuário Leigo</h5>
