@@ -107,6 +107,56 @@ O cronograma foi orientado pelas próprias entregas da disciplinas e constará n
     <figcaption>Fonte: Autor</figcaption>
 </center>
 
+### 1.2.5. Quinta entrega
+
+| Data da realização da tarefa |                 Planejamento do projeto                 |  Responsáveis      |  Revisores         |
+| :--------------------------: | :-----------------------------------------------------: | :----------------: | :----------------: |
+|            23/03             | Verificação dos Casos de Uso                            | João D.            | Thalisson, Adrian  |
+|            23/03             | Verificação do Rich Picture                             | João D.            | Thalisson, Adrian  |
+|            23/03             | Verificação dos Léxicos                                 | João D.            | Thalisson, Adrian  |
+|            23/03             | Inspeção NFR Framework                                  | Thalisson          | Adrian             |
+|            23/03             | Inspeção dos Cenários                                   | Thalisson          | Adrian             |
+|            23/03             | Inspeção do Backlog                                     | Adrian             | Fernando, G. Gomes |
+|            23/03             | Inspeção Especificação suplementar                      | Adrian             | Fernando,Thalisson |
+|            23/03             | Validação                                               | Fernando, Gabriel  | João D.            |
+|            20/04             | Correções                                               | Todos              | Todos              |
+
+<center> 
+    <figcaption>Tabela 7: Sexta entrega.</figcaption> 
+    <figcaption>Fonte: Autor</figcaption>
+</center>
+
+### 1.2.6. Sexta entrega
+
+| Data da realização da tarefa |                 Planejamento do projeto                 |  Responsáveis      |  Revisores         |
+| :--------------------------: | :-----------------------------------------------------: | :----------------: | :----------------: |
+|            23/03             | Verificação dos Casos de Uso                            | João D.            | Thalisson, Adrian  |
+|            23/03             | Verificação do Rich Picture                             | João D.            | Thalisson, Adrian  |
+|            23/03             | Verificação dos Léxicos                                 | João D.            | Thalisson, Adrian  |
+|            23/03             | Inspeção NFR Framework                                  | Thalisson          | Adrian             |
+|            23/03             | Inspeção dos Cenários                                   | Thalisson          | Adrian             |
+|            23/03             | Inspeção do Backlog                                     | Adrian             | Fernando, G. Gomes |
+|            23/03             | Inspeção Especificação suplementar                      | Adrian             | Fernando,Thalisson |
+|            23/03             | Validação                                               | Fernando, Gabriel  | João D.            |
+|            20/04             | Correções                                               | Todos              | Todos              |
+
+<center>
+    <figcaption>Tabela 8: Sétima entrega.</figcaption> 
+    <figcaption>Fonte: Autor</figcaption>
+</center>
+
+### 1.2.7. Sétima entrega
+
+| Data da realização da tarefa |                 Planejamento do projeto                 |  Responsáveis      |  Revisores         |
+| :--------------------------: | :-----------------------------------------------------: | :----------------: | :----------------: |
+|            03/04             | Forward From                                            | Fernando, João D.  | Gabriel            |
+|            03/04             | Backward From                                           | Adrian, Thalisson. | Gabriel, Fernando  |
+
+<center> 
+    <figcaption>Tabela 9: Oitava entrega.</figcaption> 
+    <figcaption>Fonte: Autor</figcaption>
+</center>
+
 ---
 
 > Nós utilizaremos as issues do GitHub para atribuir tasks para cada um e os prazos de entrega de cada task
