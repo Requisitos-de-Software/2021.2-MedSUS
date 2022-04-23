@@ -481,6 +481,35 @@
             </div>
         </div>
     </div>
+    <br>
+    <div class="row">
+        <div class="col-sm-6 d-flex align-items-stretch">
+            <div id="medicamento" class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Medsus</h5>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Aplicação</p>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text"> Noções </h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item ">Aplicação que disponibiliza os <a href="#medicamento">medicamentos</a> constates no <a href="#rename">Rename</a>, tanto para <a href="usuario-leigo">Usuários Leigos</a> quanto para <a href="usuario-saude">Usuários técnicos</a>, podendo favoritar e ser notificado de atualizações</li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">
+                            Ajudar o usuário na consulta de medicamentos, na lembrança e no compartilhamento dos mesmos. Possibilita o acesso às bulas desses remédios. 
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
     <br>    
     <div class="row">
         <div class="col-sm-6 d-flex align-items-stretch">
