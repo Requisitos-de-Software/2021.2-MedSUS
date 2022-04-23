@@ -7,20 +7,24 @@ O cronograma foi orientado pelas próprias entregas da disciplinas e constará n
 </p>
 
 ![Cronograma](../assets/cronograma.png)
+<center> 
+    <figcaption>Figura 1: Cronograma geral - visualização.</figcaption> 
+    <figcaption>Fonte: Autor</figcaption>
+</center>
 
 ## 1.1. Cronograma geral
 
 <p style="text-align: justify;">Cronograma definido com base nas entregas da própria disciplina, horários dos membros e prazos para que seja possível a revisão dos artefatos devidos antes de sua inclusão ao repositório.</p>
 
-| Etapas | Apresentação | Descrição                                                                                                                                               | Data de entrega |
-| :----: | :----------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: |
-|   1    |    07/02     |  Planejamento do Projeto                                                                                                                                |      05/02      |
-|   2    |    21/02     |  Elicitação de Requisitos – Técnicas e Priorização                                                                                                      |      20/02      |
-|   3    |    07/03     |  Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar.                                                                       |      06/03      |
-|   4    |    10/03     |  Modelagem de Requisitos - Ágil (Histórias de Usuário, Backlogs) NFR Framework                                                                          |      08/03      |
-|   5    |    24/03     |  Análise de Requisitos: Verificação e Validação                                                                                                         |      22/03      |
-|   6    |    04/04     |  Pós-Rastreabilidade: Gerência II                                                                                                                       |      03/04      |
-|   7    |    26/04     |  Projeto Final                                                                                                                                          |      25/04      |
+| Etapas | Apresentação | Descrição                                                                            | Data de entrega |
+| :----: | :----------: | :----------------------------------------------------------------------------------: | :-------------: |
+|   1    |    07/02     |  Planejamento do Projeto                                                             |      05/02      |
+|   2    |    21/02     |  Elicitação de Requisitos – Técnicas e Priorização                                   |      20/02      |
+|   3    |    07/03     |  Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar.    |      06/03      |
+|   4    |    10/03     |  Modelagem de Requisitos - Ágil (Histórias de Usuário, Backlogs) NFR Framework       |      08/03      |
+|   5    |    24/03     |  Análise de Requisitos: Verificação e Validação                                      |      22/03      |
+|   6    |    04/04     |  Pós-Rastreabilidade: Gerência II                                                    |      03/04      |
+|   7    |    26/04     |  Projeto Final                                                                       |      25/04      |
 
 <center> 
     <figcaption>Tabela 1: Cronograma de atividades.</figcaption> 
@@ -107,45 +111,7 @@ O cronograma foi orientado pelas próprias entregas da disciplinas e constará n
     <figcaption>Fonte: Autor</figcaption>
 </center>
 
-### 1.2.5. Quinta entrega
-
-| Data da realização da tarefa |                 Planejamento do projeto                 |  Responsáveis      |  Revisores         |
-| :--------------------------: | :-----------------------------------------------------: | :----------------: | :----------------: |
-|            23/03             | Verificação dos Casos de Uso                            | João D.            | Thalisson, Adrian  |
-|            23/03             | Verificação do Rich Picture                             | João D.            | Thalisson, Adrian  |
-|            23/03             | Verificação dos Léxicos                                 | João D.            | Thalisson, Adrian  |
-|            23/03             | Inspeção NFR Framework                                  | Thalisson          | Adrian             |
-|            23/03             | Inspeção dos Cenários                                   | Thalisson          | Adrian             |
-|            23/03             | Inspeção do Backlog                                     | Adrian             | Fernando, G. Gomes |
-|            23/03             | Inspeção Especificação suplementar                      | Adrian             | Fernando,Thalisson |
-|            23/03             | Validação                                               | Fernando, Gabriel  | João D.            |
-|            20/04             | Correções                                               | Todos              | Todos              |
-
-<center> 
-    <figcaption>Tabela 7: Sexta entrega.</figcaption> 
-    <figcaption>Fonte: Autor</figcaption>
-</center>
-
 ### 1.2.6. Sexta entrega
-
-| Data da realização da tarefa |                 Planejamento do projeto                 |  Responsáveis      |  Revisores         |
-| :--------------------------: | :-----------------------------------------------------: | :----------------: | :----------------: |
-|            23/03             | Verificação dos Casos de Uso                            | João D.            | Thalisson, Adrian  |
-|            23/03             | Verificação do Rich Picture                             | João D.            | Thalisson, Adrian  |
-|            23/03             | Verificação dos Léxicos                                 | João D.            | Thalisson, Adrian  |
-|            23/03             | Inspeção NFR Framework                                  | Thalisson          | Adrian             |
-|            23/03             | Inspeção dos Cenários                                   | Thalisson          | Adrian             |
-|            23/03             | Inspeção do Backlog                                     | Adrian             | Fernando, G. Gomes |
-|            23/03             | Inspeção Especificação suplementar                      | Adrian             | Fernando,Thalisson |
-|            23/03             | Validação                                               | Fernando, Gabriel  | João D.            |
-|            20/04             | Correções                                               | Todos              | Todos              |
-
-<center>
-    <figcaption>Tabela 8: Sétima entrega.</figcaption> 
-    <figcaption>Fonte: Autor</figcaption>
-</center>
-
-### 1.2.7. Sétima entrega
 
 | Data da realização da tarefa |                 Planejamento do projeto                 |  Responsáveis      |  Revisores         |
 | :--------------------------: | :-----------------------------------------------------: | :----------------: | :----------------: |
@@ -153,7 +119,7 @@ O cronograma foi orientado pelas próprias entregas da disciplinas e constará n
 |            03/04             | Backward From                                           | Adrian, Thalisson. | Gabriel, Fernando  |
 
 <center> 
-    <figcaption>Tabela 9: Oitava entrega.</figcaption> 
+    <figcaption>Tabela 7: Sexta entrega.</figcaption> 
     <figcaption>Fonte: Autor</figcaption>
 </center>
 
@@ -162,6 +128,10 @@ O cronograma foi orientado pelas próprias entregas da disciplinas e constará n
 > Nós utilizaremos as issues do GitHub para atribuir tasks para cada um e os prazos de entrega de cada task
 
 ![IssueAberta](../assets/first_issue.png)
+<center> 
+    <figcaption>Figura 2: Exemplo de Issue.</figcaption> 
+    <figcaption>Fonte: Autor</figcaption>
+</center>
 
 ## 2. Bibliografia
 
