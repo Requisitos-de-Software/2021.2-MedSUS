@@ -496,7 +496,7 @@
                 <div class="card-body p-2">
                     <h5 class="card-text"> Noções </h5>
                     <ul class="m-0 list-group">
-                        <li class="m-0 list-group-item ">Aplicação que disponibiliza os <a href="#medicamento">medicamentos</a> constates no <a href="#rename">Rename</a>, tanto para <a href="usuario-leigo">Usuários Leigos</a> quanto para <a href="usuario-saude">Usuários técnicos</a>, podendo favoritar e ser notificado de atualizações</li>
+                        <li class="m-0 list-group-item ">Aplicação que disponibiliza os <a href="#medicamento">medicamentos</a> constantes no <a href="#rename">Rename</a>, tanto para <a href="usuario-leigo">Usuários Leigos</a> quanto para <a href="usuario-saude">Usuários técnicos</a>, podendo favoritar e ser notificado de atualizações</li>
                     </ul>
                 </div>
                 <div class="card-footer p-2">
