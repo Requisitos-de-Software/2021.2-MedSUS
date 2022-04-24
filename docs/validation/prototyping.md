@@ -21,6 +21,14 @@ Para a criação desse artefato utilizamos os requisitos levantados até o momen
 
 O protótipo pode ser acessado [neste link](https://www.figma.com/proto/brLhxsnnfkbU47JAwS9Nqc/Untitled?node-id=0%3A1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A74)
 
+## 4 Vídeos
+
+### 4.1 Entrevista Geral
+![type:video](../videos/validation.mp4)
+
+### 4.2 Nova Funcionalidade
+![type:video](../videos/validation-requirement.mp4)
+
 ## Referências bibliográficas
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 23): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 52 slides. color. Disponível em: https://aprender3.unb.br/pluginfile.php/1668221/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 23 mar. 2022.
