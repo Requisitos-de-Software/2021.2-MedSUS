@@ -153,3 +153,4 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
 | 0.0.4.1 | 09/03/22 |                   Revisão do texto                    | João Durso  | Thalisson  |
 |  0.0.5  | 19/04/22 |                   Correção textual                    | João Durso  | Thalisson  |
 |  0.0.6  | 24/04/22 |            Ajuste nos links dos requisitos            |  Thalisson  | João Durso |
+|  0.0.7  | 24/04/22 |                   Ajustes na tabela                   | João Durso  | Thalisson  |
