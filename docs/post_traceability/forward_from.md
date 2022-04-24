@@ -34,8 +34,8 @@ Como o MedSUS não é um software de código aberto, não foi possível relacion
 | R06  | O usuário deve ser capaz de filtrar por controle especial.                                                               |
 | R07  | O usuário deve ser capaz de filtrar por medicamentos que possuem genérico ou não.                                        |
 | ST17 | O app deve notificar os usuários acerca das atualizações da monografia dos medicamentos (inclusão, remoção e alteração). |
-| ST08 | O app deve gerar arquivos para compartilhar com qualquer outra pessoa.                                                   |
-| IR10 | Compartilhar informações por PDF.                                                                                        |
+<!-- | ST08 | O app deve gerar arquivos para compartilhar com qualquer outra pessoa.                                                   | -->
+<!-- | IR10 | Compartilhar informações por PDF.                                                                                        | -->
 
 ### 3.2. Especificações
 
