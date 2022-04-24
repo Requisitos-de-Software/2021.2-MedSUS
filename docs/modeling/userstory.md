@@ -30,6 +30,7 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
     </thead>
     <tbody>
         <tr>
+            <span id="ustory-01"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US01</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como <a href="../../modeling/lexicos#usuario-saude">Usuário da Saúde</a>, gostaria de visualizar informações científicas detalhadas das medicações para tirar eventuais dúvidas.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">TODO</td>
@@ -37,6 +38,7 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
         </tr>
         <tr>
+            <span id="ustory-02"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US02</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como <a href="../../modeling/lexicos#usuario-leigo">Usuário Leigo</a>, gostaria de visualizar informações reduzidas em uma linguagem mais acessível para facilitar o meu entendimento.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">TODO</td>
@@ -44,6 +46,7 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3    </td>
         </tr>
         <tr>
+            <span id="ustory-03"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US03</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de visualizar em forma de índice os principais tópicos de uma monografia para facilitar a busca por informações.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">TODO</td>
@@ -51,6 +54,7 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
         </tr>
         <tr>
+            <span id="ustory-04"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US04</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de conseguir aumentar e reduzir o tamanho da fonte utilizada para facilitar a minha visualização das informações.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">TODO</td>
@@ -58,6 +62,7 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
         </tr>
         <tr>
+            <span id="ustory-05"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US05</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de favoritar os <a href="../../modeling/lexicos#medicamento">medicamentos</a> que eu mais utilizo para facilitar a minha busca por eles depois</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">TODO</td>
@@ -65,6 +70,7 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
         </tr>
         <tr>
+            <span id="ustory-06"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US06</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria que meus <a href="../../modeling/lexicos#medicamento">medicamentos</a> favoritos fossem atrelados a uma conta para que eu consiga acessá-los em outros dispositivos.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">TODO</td>
@@ -72,6 +78,7 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">13</td>
         </tr>
         <tr>
+            <div id="ustory-07"></div>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US07</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de filtrar os <a href="../../modeling/lexicos#medicamento">medicamentos</a> por suas palavras-chave para que eu consiga encontrar os <a href="../../modeling/lexicos#medicamento">medicamentos</a> mesmo sem saber seu nome.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">TODO</td>
@@ -79,6 +86,7 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
         </tr>
         <tr>
+            <span id="ustory-08"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US08</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de filtrar os <a href="../../modeling/lexicos#medicamento">medicamentos</a> por Grupo Anatômico Principal para facilitar a minha busca.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">TODO</td>
@@ -86,6 +94,7 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
         </tr>
         <tr>
+            <span id="ustory-09"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US09</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de filtrar os <a href="../../modeling/lexicos#medicamento">medicamentos</a> por anexo da Rename para facilitar a minha busca.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">TODO</td>
@@ -93,6 +102,7 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
         </tr>
         <tr>
+            <span id="ustory-10"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US10</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de filtrar os <a href="../../modeling/lexicos#medicamento">medicamentos</a> por controle especial para facilitar a minha busca.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">TODO</td>
@@ -100,6 +110,7 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
         </tr>
         <tr>
+            <span id="ustory-11"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US11</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de filtrar os <a href="../../modeling/lexicos#medicamento">medicamentos</a> por <a href="../../modeling/lexicos#medicamento">medicamentos</a> que possuam genérico ou não para facilitar a minha busca.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">TODO</td>
@@ -107,6 +118,7 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
         </tr>
         <tr>
+            <span id="ustory-12"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US12</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de ser notificado sempre que um novo <a href="../../modeling/lexicos#medicamento">medicamento</a> for adicionado ao aplicativo para que eu fique sempre atualizado para com as minhas opções</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">TODO</td>
@@ -114,6 +126,7 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">8</td>
         </tr>
         <tr>
+            <span id="ustory-13"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US13</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de ser notificado sempre que um <a href="../../modeling/lexicos#medicamento">medicamento</a> for removido do aplicativo para que eu fique sempre atualizado para com as minhas opções</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">TODO</td>
@@ -121,6 +134,7 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">8</td>
         </tr>
         <tr>
+            <span id="ustory-14"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US14</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de ser notificado sempre que um <a href="../../modeling/lexicos#medicamento">medicamento</a> sofrer alguma alteração para que eu fique sempre atualizado.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">TODO</td>
@@ -128,6 +142,7 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">8</td>
         </tr>
         <tr>
+            <span id="ustory-15"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US15</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de compartilhar monografias de <a href="../../modeling/lexicos#medicamento">medicamentos</a> com outras pessoas para promover o uso racional dos <a href="../../modeling/lexicos#medicamento">medicamentos</a>.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">TODO</td>
@@ -135,6 +150,7 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">21</td>
         </tr>
         <tr>
+            <span id="ustory-16"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US16</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de compartilhar informações de <a href="../../modeling/lexicos#medicamento">medicamentos</a> no formato <a href="../../modeling/lexicos#pdf">PDF</a> para outras pessoas tenham acesso à informação mesmo sem possuir o app instalado em seu dispositivo.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">TODO</td>

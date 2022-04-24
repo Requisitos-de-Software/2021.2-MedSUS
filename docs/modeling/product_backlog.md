@@ -20,6 +20,7 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
             <th style="border-style:solid;border-width:1px;text-align:center">Tema</th>
             <th style="border-style:solid;border-width:1px;text-align:center">Épico</th>
             <th style="border-style:solid;border-width:1px;text-align:center">Feature</th>
+            <th style="border-style:solid;border-width:1px;text-align:center">Rastreabilidade</th>
             <th style="border-style:solid;border-width:1px;text-align:center">ID</th>
             <th style="border-style:solid;border-width:1px;text-align:center">História de Usuário</th>
             <th style="border-style:solid;border-width:1px;text-align:center">Prioridade</th>
@@ -33,22 +34,26 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="4">Visualização</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="2">Alterar perfil</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="2"><a href="../../elicitation/brainstorm#brain-08">R08</a></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/#:~:text=US01,tirar%20eventuais%20d%C3%BAvidas.">US01</a></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como <a href="../../modeling/lexicos#usuario-saude">Usuário da Saúde</a>, gostaria de visualizar informações científicas detalhadas das medicações para tirar eventuais dúvidas.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Should</td>
         </tr>
         <tr>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/#:~:text=US02,o%20meu%20entendimento.">US02</a></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como <a href="../../modeling/lexicos#usuario-leigo">Usuário Leigo</a>, gostaria de visualizar informações reduzidas em uma linguagem mais acessível para facilitar o meu entendimento.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Should</td>
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alterar tamanho da fonte</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="../../elicitation/storytelling#story-19">ST19</a></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/#:~:text=US03,busca%20por%20informa%C3%A7%C3%B5es.">US03</a></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de visualizar em forma de índice os principais tópicos de uma monografia para facilitar a busca por informações.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Should</td>
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Apresentar índice</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="../../elicitation/introspective#intro-03">IR03</a></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/#:~:text=US04,visualiza%C3%A7%C3%A3o%20das%20informa%C3%A7%C3%B5es.">US04</a></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de conseguir aumentar e reduzir o tamanho da fonte utilizada para facilitar a minha visualização das informações.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Should</td>
         </tr>
@@ -56,38 +61,45 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="7">Filtro</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="2">Favoritar</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="../../elicitation/brainstorm#brain-03">R03</a> <a href="../../elicitation/storytelling#story-14">ST14</a></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/#:~:text=US05,por%20eles%20depois">US05</a></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de favoritar os <a href="../../modeling/lexicos#medicamento">medicamentos</a> que eu mais utilizo para facilitar a minha busca por eles depois</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Should</td>
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="../../elicitation/introspective#intro-05">IR05</a> <a href="../../elicitation/storytelling#story-15">ST15</a></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/#:~:text=US06,em%20outros%20dispositivos.">US06</a></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria que meus <a href="../../modeling/lexicos#medicamento">medicamentos</a> favoritos fossem atrelados a uma conta para que eu consiga acessá-los em outros dispositivos.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Won't</td>
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Filtrar por Palavras-chave</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="../../elicitation/brainstorm#brain-12">R12</a> <a href="../../elicitation/introspective#intro-04">IR04</a></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/#:~:text=US07,saber%20seu%20nome.">US07</a></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de filtrar os <a href="../../modeling/lexicos#medicamento">medicamentos</a> por suas palavras-chave para que eu consiga encontrar os <a href="../../modeling/lexicos#medicamento">medicamentos</a> mesmo sem saber seu nome.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Could</td>
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="4">Filtrar por Atributos do <a href="../../modeling/lexicos#medicamento">medicamento</a></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="../../elicitation/brainstorm#brain-04">R04</a></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/#:~:text=US08,a%20minha%20busca.">US08</a></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de filtrar os <a href="../../modeling/lexicos#medicamento">medicamentos</a> por Grupo Anatômico Principal para facilitar a minha busca.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Could</td>
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="../../elicitation/brainstorm#brain-05">R05</a></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/#:~:text=US09,a%20minha%20busca.">US09</a></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de filtrar os <a href="../../modeling/lexicos#medicamento">medicamentos</a> por anexo da Rename para facilitar a minha busca.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Could</td>
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="../../elicitation/brainstorm#brain-06">R06</a></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/#:~:text=US10,a%20minha%20busca.">US10</a></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de filtrar os <a href="../../modeling/lexicos#medicamento">medicamentos</a> por controle especial para facilitar a minha busca.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Could</td>
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="../../elicitation/brainstorm#brain-07">R07</a></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/#:~:text=US11,a%20minha%20busca.">US11</a></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de filtrar os <a href="../../modeling/lexicos#medicamento">medicamentos</a> por <a href="../../modeling/lexicos#medicamento">medicamentos</a> que possuam genérico ou não para facilitar a minha busca.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Could</td>
         </tr>
@@ -95,14 +107,17 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="3">Notificação</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="3">Notificar usuários</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="3"><a href="../../elicitation/storytelling#story-17">ST17</a></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/#:~:text=US12,as%20minhas%20op%C3%A7%C3%B5es">US12</a></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de ser notificado sempre que um novo <a href="../../modeling/lexicos#medicamento">medicamento</a> for adicionado ao aplicativo para que eu fique sempre atualizado para com as minhas opções</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Won't</td>
         </tr>
         <tr>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/#:~:text=US13,as%20minhas%20op%C3%A7%C3%B5es">US13</a></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de ser notificado sempre que um <a href="../../modeling/lexicos#medicamento">medicamento</a> for removido do aplicativo para que eu fique sempre atualizado para com as minhas opções</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Won't</td>
         </tr>
         <tr>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/#:~:text=US14,fique%20sempre%20atualizado.">US14</a></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de ser notificado sempre que um <a href="../../modeling/lexicos#medicamento">medicamento</a> sofrer alguma alteração para que eu fique sempre atualizado.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Won't</td>
         </tr>
@@ -110,11 +125,13 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="2">Compartilhamento</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="2">Compartilhar monografias</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="../../elicitation/storytelling#story-08">ST08</a></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/#:~:text=US15,racional%20dos%20medicamentos.">US15</a></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de compartilhar monografias de <a href="../../modeling/lexicos#medicamento">medicamentos</a> com outras pessoas para promover o uso racional dos <a href="../../modeling/lexicos#medicamento">medicamentos</a>.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Must</td>
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="../../elicitation/introspective#intro-10">IR10</a></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"><a href="https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/#:~:text=US16,em%20seu%20dispositivo.">US16</a></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de compartilhar informações de <a href="../../modeling/lexicos#medicamento">medicamentos</a> no formato <a href="../../modeling/lexicos#pdf">pdf</a> para outras pessoas tenham acesso a informação mesmo sem possuir o app instalado em seu dispositivo.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Must</td>
         </tr>
