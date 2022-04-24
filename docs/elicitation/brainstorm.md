@@ -23,26 +23,61 @@ O Brainstorm foi realizado no Discord, portante não houve gravação. Entretant
 
 ## 4. Requisitos levantados
 
-<p style="text-indent: 20px; text-align: justify">
+<p style="text-indent: 20px; text-align: justify"></p>
 
-**R01 -** O usuário deve ser capaz de buscar medicamentos por nome.</p>
-**R02 -** O usuário deve ser capaz de compartilhar medicamentos.</p>
-**R03 -** O usuário deve ser capaz de favoritar medicamentos.</p>
-**R04 -** O usuário deve ser capaz de filtrar por Grupo Anatômico Principal.</p>
-**R05 -** O usuário deve ser capaz de filtrar por anexo da Rename.</p>
-**R06 -** O usuário deve ser capaz de filtrar por controle especial.</p>
-**R07 -** O usuário deve ser capaz de filtrar por medicamentos que possuem genérico ou não.</p>
-**R08 -** O usuário deve ser capaz de alterar informações baseado no perfil de usuário (Profissional de saúde/Usuário comum).</p>
-**R09 -** O sistema deve notificar o usuário quando um medicamento for adicionado ao aplicativo.</p>
-**R10 -** O sistema deve notificar o usuário quando um medicamento for removido do aplicativo.</p>
-**R11 -** O sistema deve notificar o usuário quando um medicamento for alterado no aplicativo.</p>
-**R12 -** O usuário deve conseguir buscar palavras-chave no texto das informações.</p>
-**R13 -** O usuário deve ser capaz de visualizar o índice das informações de um medicamento.</p>
-**R14 -** O profissional de Saúde deve ser capaz de saber os medicamentos de prioridade para o SUS - Rename.</p>
-**R15 -** A aplicação deve ser intuitiva para o usuário leigo.</p>
-**R16 -** A aplicação deve linkar as referências das informações.</p>
-**R17 -** A aplicação deve ser suportada por Android e IOS.</p>
-**R18 -** O usuário deve ser capaz de alterar o tamanho da fonte.</p>
+<div id="brain-01"></div>
+<b>R01 -</b> O usuário deve ser capaz de buscar medicamentos por nome.
+
+<div id="brain-02"></div>
+<b>R02 -</b> O usuário deve ser capaz de compartilhar medicamentos.
+
+<div id="brain-03"></div>
+<b>R03 -</b> O usuário deve ser capaz de favoritar medicamentos.
+
+<div id="brain-04"></div>
+<b>R04 -</b> O usuário deve ser capaz de filtrar por Grupo Anatômico Principal.
+
+<div id="brain-05"></div>
+<b>R05 -</b> O usuário deve ser capaz de filtrar por anexo da Rename.
+
+<div id="brain-06"></div>
+<b>R06 -</b> O usuário deve ser capaz de filtrar por controle especial.
+
+<div id="brain-07"></div>
+<b>R07 -</b> O usuário deve ser capaz de filtrar por medicamentos que possuem genérico ou não.
+
+<div id="brain-08"></div>
+<b>R08 -</b> O usuário deve ser capaz de alterar informações baseado no perfil de usuário (Profissional de saúde/
+Usuário comum).
+<div id="brain-09"></div>
+<b>R09 -</b> O sistema deve notificar o usuário quando um medicamento for adicionado ao aplicativo.
+
+<div id="brain-10"></div>
+<b>R10 -</b> O sistema deve notificar o usuário quando um medicamento for removido do aplicativo.
+
+<div id="brain-11"></div>
+<b>R11 -</b> O sistema deve notificar o usuário quando um medicamento for alterado no aplicativo.
+
+<div id="brain-12"></div>
+<b>R12 -</b> O usuário deve conseguir buscar palavras-chave no texto das informações.
+
+<div id="brain-13"></div>
+<b>R13 -</b> O usuário deve ser capaz de visualizar o índice das informações de um medicamento.
+
+<div id="brain-14"></div>
+<b>R14 -</b> O profissional de Saúde deve ser capaz de saber os medicamentos de prioridade para o SUS - Rename.
+
+<div id="brain-15"></div>
+<b>R15 -</b> A aplicação deve ser intuitiva para o usuário leigo.
+
+<div id="brain-16"></div>
+<b>R16 -</b> A aplicação deve linkar as referências das informações.
+
+<div id="brain-17"></div>
+<b>R17 -</b> A aplicação deve ser suportada por Android e IOS.
+
+<div id="brain-18"></div>
+<b>R18 -</b> O usuário deve ser capaz de alterar o tamanho da fonte.
 
 </p>
 

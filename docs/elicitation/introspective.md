@@ -48,17 +48,17 @@ A princípio, eu quero um aplicativo bonito, e que entregue todas as suas princi
 
 | Número | Requisitos                                                                                                            |
 | :----: | :-------------------------------------------------------------------------------------------------------------------- |
-|  IR1   | Acessar uma forma resumida da bula: efeitos colaterais, as indicações e contra indicações, com menos termos técnicos. |
-|  IR2   | Filtrar medicamentos por doenças.                                                                                     |
-|  IR3   | Acessar partes específicas da bula através de um índice.                                                              |
-|  IR4   | Buscar por palavras-chave e não somente pelos nomes das medicações.                                                   |
-|  IR5   | Favoritar medicações atrelado a alguma conta, para acessá-las em outros dispositivos.                                 |
-|  IR6   | Designer familiar e bonito.                                                                                           |
-|  IR7   | Boa usabilidade.                                                                                                      |
-|  IR8   | Boa performance.                                                                                                      |
-|  IR9   | Pesquisar medicamentos pelo nome.                                                                                     |
-|  IR10  | Compartilhar informações por PDF.                                                                                     |
-|  IR11  | Boa apresentação da informação pesquisada.                                                                            |
+|  <span id="intro-01">IR01</span>   | Acessar uma forma resumida da bula: efeitos colaterais, as indicações e contra indicações, com menos termos técnicos. |
+|  <span id="intro-02">IR02</span>   | Filtrar medicamentos por doenças.                                                                                     |
+|  <span id="intro-03">IR03</span>   | Acessar partes específicas da bula através de um índice.                                                              |
+|  <span id="intro-04">IR04</span>   | Buscar por palavras-chave e não somente pelos nomes das medicações.                                                   |
+|  <span id="intro-05">IR05</span>   | Favoritar medicações atrelado a alguma conta, para acessá-las em outros dispositivos.                                 |
+|  <span id="intro-06">IR06</span>   | Designer familiar e bonito.                                                                                           |
+|  <span id="intro-07">IR07</span>   | Boa usabilidade.                                                                                                      |
+|  <span id="intro-08">IR08</span>   | Boa performance.                                                                                                      |
+|  <span id="intro-09">IR09</span>   | Pesquisar medicamentos pelo nome.                                                                                     |
+|  <span id="intro-10">IR10</span>  | Compartilhar informações por PDF.                                                                                     |
+|  <span id="intro-11">IR11</span>  | Boa apresentação da informação pesquisada.                                                                            |
 
 Legenda: Introspection Requirement (IR)
 
