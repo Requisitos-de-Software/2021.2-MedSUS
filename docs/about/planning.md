@@ -145,5 +145,6 @@ O cronograma foi orientado pelas próprias entregas da disciplinas e constará n
 | :----: | :------: | :------------------------------------------------------: | :---------: | :--------: |
 | 0.0.1  | 29/01/22 |                         Criação                          |   Adrian    |  Fernando  |
 | 0.0.2  | 29/01/22 |                    Revisão gramatical                    |   Adrian    | João Durso |
-| 1.0.0  | 19/04/22 | Colocados os conteúdos do trello nas tabelas em markdown |   Adrian    | João Durso |
-| 1.0.0  | 19/04/22 |                    Correções textuais                    | João Durso  |   Adrian   |
+| 0.0.3  | 19/04/22 | Colocados os conteúdos do trello nas tabelas em markdown |   Adrian    | João Durso |
+| 0.0.4  | 24/04/22 |                Melhorias no planejamento                 |   Adrian    | João Durso |
+| 0.0.5  | 24/04/22 |                    Correções textuais                    | João Durso  |   Adrian   |
