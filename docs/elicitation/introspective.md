@@ -34,6 +34,8 @@ Com a busca como principal ferramenta, gostaria que, ao entrar no app, já estiv
 ### 3.2 Fernando
 <p style="text-indent: 20px; text-align: justify">
 Ao entrar no aplicativo, gostaria que o mesmo fosse fácil de aprender, pois não sou familiarizado com a tecnologia e o uso apenas para informações pontuais. Portanto, não estou disposto a aprender uma ferramenta complexa. Apesar de meu dispositivo não ser dos melhores, esperaria que num aplicativo simples como esse a performance do mesmo fosse agradável para meu uso.
+ 
+Gostaria, também, que ao favotitar um medicamento, eu consiga ter a visão da descrição como cidadão.
 </p>
 
 ### 3.3 Gabriel Costa
@@ -48,6 +50,7 @@ A princípio, eu quero um aplicativo bonito, e que entregue todas as suas princi
 
 | Número | Requisitos                                                                                                            |
 | :----: | :-------------------------------------------------------------------------------------------------------------------- |
+
 |  <span id="intro-01">IR01</span>   | Acessar uma forma resumida da bula: efeitos colaterais, as indicações e contra indicações, com menos termos técnicos. |
 |  <span id="intro-02">IR02</span>   | Filtrar medicamentos por doenças.                                                                                     |
 |  <span id="intro-03">IR03</span>   | Acessar partes específicas da bula através de um índice.                                                              |
@@ -72,4 +75,5 @@ Legenda: Introspection Requirement (IR)
 | :----: | :------: | :--------------------: | :---------: | :--------: |
 | 0.0.1  | 20/02/22 |  Criação do documento  |  Fernando   | João Durso |
 | 0.0.2  | 09/03/22 | Correção de indentação |  Thalisson  | João Durso |
-| 0.0.2  | 09/03/22 |    Correção textual    | João Durso  | Thalisson  |
+| 0.0.3  | 09/03/22 |    Correção textual    | João Durso  | Thalisson  |
+| 0.0.4  | 21/04/22 |    Novo requisito      |  Fernando   | João Durso |
