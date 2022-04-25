@@ -19,16 +19,23 @@ Para a realização desse artefato, primeiramente a baseline e o backlog do prod
 ## 3. Pós-Rastreabilidade
 
 ### 3.1. Matriz
-
-<html> 
-    <div class="container"> 
-        <div class="row">
-            <div class="col-12 embed-responsive embed-responsive-16by9">
-                <iframe class="embed-responsive-item" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRwl0gvkeIMrN8Dq_iL0k9pPXZMk9vBInANPCrSc47qyx7hNbrlA9hq0ynWwCFA6PKZBAn8bXWxmSHr/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-            </div>
-        </div>
-    </div>
-</html>
+<div class="content container justify-content-center">
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRwl0gvkeIMrN8Dq_iL0k9pPXZMk9vBInANPCrSc47qyx7hNbrlA9hq0ynWwCFA6PKZBAn8bXWxmSHr/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false&amp;range=A1:F37" height="3830" frameborder="0" style="width:100%;"></iframe>
+<figcaption>Tabela 1: Versão 1.0 - Matriz de Rastreabilidade para Brainstorming e Storytelling</figcaption>
+<figcaption>Fonte: Autor</figcaption>
+<br>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRwl0gvkeIMrN8Dq_iL0k9pPXZMk9vBInANPCrSc47qyx7hNbrlA9hq0ynWwCFA6PKZBAn8bXWxmSHr/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false&amp;range=G51:L72" height="2810" frameborder="0" style="width:100%;"></iframe>
+<figcaption>Tabela 2: Versão 1.0 - Matriz de Rastreabilidade para Introspecção e Casos de Uso</figcaption>
+<figcaption>Fonte: Autor</figcaption>
+<br>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRwl0gvkeIMrN8Dq_iL0k9pPXZMk9vBInANPCrSc47qyx7hNbrlA9hq0ynWwCFA6PKZBAn8bXWxmSHr/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false&amp;range=M101:R141" height="5350" frameborder="0" style="width:100%;"></iframe>
+<figcaption>Tabela 3: Versão 1.0 - Matriz de Rastreabilidade para Cenários e Especificação Suplementar</figcaption>
+<figcaption>Fonte: Autor</figcaption>
+<br>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRwl0gvkeIMrN8Dq_iL0k9pPXZMk9vBInANPCrSc47qyx7hNbrlA9hq0ynWwCFA6PKZBAn8bXWxmSHr/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false&amp;range=S151:W169" height="2515" frameborder="0" style="width:100%;"></iframe>
+<figcaption>Tabela 4: Versão 1.0 - Matriz de Rastreabilidade para Histórias de Usuário</figcaption>
+<figcaption>Fonte: Autor</figcaption>
+</div>
 
 ### 3.2. Elos
 
