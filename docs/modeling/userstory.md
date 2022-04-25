@@ -135,6 +135,7 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
         </tr>
 
         <tr>
+            <span id="ustory-14"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US14</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de ser notificado sempre que um <a href="../../modeling/lexicos#medicamento">medicamento</a> sofrer alguma alteração para que eu fique sempre atualizado.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">TODO</td>
