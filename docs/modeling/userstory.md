@@ -133,7 +133,6 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Won't</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">8</td>
         </tr>
-
         <tr>
             <span id="ustory-14"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US14</td>
