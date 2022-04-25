@@ -34,20 +34,20 @@ Como o MedSUS não é um software de código aberto, não foi possível relacion
 | R06  | O usuário deve ser capaz de filtrar por controle especial.                                                               |
 | R07  | O usuário deve ser capaz de filtrar por medicamentos que possuem genérico ou não.                                        |
 | ST17 | O app deve notificar os usuários acerca das atualizações da monografia dos medicamentos (inclusão, remoção e alteração). |
-| ST08 | O app deve gerar arquivos para compartilhar com qualquer outra pessoa.                                                   |
-| IR10 | Compartilhar informações por PDF.                                                                                        |
+<!-- | ST08 | O app deve gerar arquivos para compartilhar com qualquer outra pessoa.                                                   | -->
+<!-- | IR10 | Compartilhar informações por PDF.                                                                                        | -->
 
 ### 3.2. Especificações
 
 **R03**
 
 |         R03         |                O usuário deve ser capaz de favoritar medicamentos.                 |
-| :-----------------: | :--------------------------------------------------------------------------------: | --------------------------------------------------------------------- | --- |
+| :-----------------: | :--------------------------------------------------------------------------------: |
 |        Épico        |                                       Filtro                                       |
 |       Feature       |                                     Favoritar                                      |
 | História de Usuário | [US05](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
 |   Funcionalidade    |                             ![R03](../images/R03.gif)                              |
-|        <!--         |                                   Funcionalidade                                   | <img src="../images/R03.gif" alt="Favoritar medicamento" width="25%"> | --> |
+|        <!--         |                                   Funcionalidade                                   |
 
 **R04**
 
@@ -86,76 +86,68 @@ Como o MedSUS não é um software de código aberto, não foi possível relacion
 |   Funcionalidade    |                             ![R07](../images/R07.gif)                              |
 
 **R08**
-Em construção (Aplicativo fora do ar)
 
-<!--
 |         R08         | O usuário deve ser capaz de alterar informações baseado no perfil de usuário (Profissional de saúde/Usuário comum). |
 | :-----------------: | :-----------------------------------------------------------------------------------------------------------------: |
 |        Épico        |                                                    Visualização                                                     |
 |       Feature       |                                                   Alterar Perfil                                                    |
 | História de Usuário |                 [US01](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/)                  |
-|   Funcionalidade    |                                                                                                                     |
- -->
+|   Funcionalidade    |                                        ![R08](../images/R08.gif)                                                    |
+      
 
 **R12**
-Em construção (Aplicativo fora do ar)
 
-<!--
 |         R12         |      O usuário deve conseguir buscar palavras-chave no texto das informações.      |
 | :-----------------: | :--------------------------------------------------------------------------------: |
 |        Épico        |                                       Filtro                                       |
 |       Feature       |                             Filtrar por Palavras-chave                             |
 | História de Usuário | [US06](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
-|   Funcionalidade    |                                                                                    | -->
-
+|   Funcionalidade    |                             ![R012](../images/R012.gif)                            |
+<!-- 
 **ST08**
-Em construção (Aplicativo fora do ar)
-
-<!-- |
+ -->
+<!--
 |        ST08         |       O app deve gerar arquivos para compartilhar com qualquer outra pessoa.       |
 | :-----------------: | :--------------------------------------------------------------------------------: |
 |        Épico        |                              Compartilhar monografias                              |
 |       Feature       |                                   Alterar Perfil                                   |
 | História de Usuário | [US15](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
-|   Funcionalidade    | 
- -->                                                                                   |
+|   Funcionalidade    |                                                                                    |
+ -->                                                                                   
 
 **ST17**
-Em construção (Aplicativo fora do ar)
 
-<!-- |        ST17         | O app deve notificar os usuários acerca das atualizações da monografia dos medicamentos (inclusão, remoção e alteração). |
+|        ST17         | O app deve notificar os usuários acerca das atualizações da monografia dos medicamentos (inclusão, remoção e alteração). |
 | :-----------------: | :----------------------------------------------------------------------------------------------------------------------: |
 |        Épico        |                                                       Notificação                                                        |
 |       Feature       |                                                    Notificar usuários                                                    |
 | História de Usuário |                    [US13](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/)                    |
-|   Funcionalidade    |                                                                                                                          |
- -->
+|   Funcionalidade    |                                                    ![ST17](../images/ST17.gif)                                           |
+
 
 **ST19**
-Em construção (Aplicativo fora do ar)
 
-<!--
 |        ST19         | A aplicação deve disponibilizar o aumento (e redução) do tamanho da fonte das monografias |
 | :-----------------: | :---------------------------------------------------------------------------------------: |
 |        Épico        |                                       Visualização                                        |
 |       Feature       |                                 Alterar tamanho da fonte                                  |
 | História de Usuário |    [US03](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/)     |
-|   Funcionalidade    |                                                                                           |
- -->
+|   Funcionalidade    |                                 ![ST19](../images/ST19.gif)                               |
+
 
 **IR3**
 Em construção (Aplicativo fora do ar)
 
-<!--
+
 |         IR3         |              Acessar partes específicas da bula através de um índice.              |
 | :-----------------: | :--------------------------------------------------------------------------------: |
 |        Épico        |                                    Visualização                                    |
 |       Feature       |                                 Apresentar índice                                  |
 | História de Usuário | [US04](https://requisitos-de-software.github.io/2021.2-MedSUS/modeling/userstory/) |
-|   Funcionalidade    |                                                                                    | -->
+|   Funcionalidade    |                                ![IR3](../images/IR3.gif)                         |
 
-**IR10**
-Em construção (Aplicativo fora do ar)
+<!-- **IR10**
+Em construção (Aplicativo fora do ar) -->
 
 <!-- |
 |        IR10         |                         Compartilhar informações por PDF.                          |
@@ -180,3 +172,5 @@ Em construção (Aplicativo fora do ar)
 | 0.0.2  | 03/04/22 | Correções na padronização e no texto | João Durso  |  Fernando  |
 | 0.0.3  | 03/04/22 |         Correção nas tabelas         |  Fernando   | João Durso |
 | 0.0.4  | 19/04/22 |           Correção textual           | João Durso  |  Fernando  |
+| 0.0.3  | 20/04/22 |  Inclusão de artefatos que faltaram  |  Fernando   | -- |
+
