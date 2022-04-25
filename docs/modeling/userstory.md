@@ -133,14 +133,7 @@ A metodologia utilizada foi partir dos <a href="https://requisitos-de-software.g
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Won't</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">8</td>
         </tr>
-        <tr>
-            <span id="ustory-14"></span>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US14</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"Eu, como usuário, gostaria que ao favoritar um medicamento, conseguisse ter a visão, também de cidadão</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">TODO</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Won't</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">8</td>
-        </tr>
+
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US14</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário, gostaria de ser notificado sempre que um <a href="../../modeling/lexicos#medicamento">medicamento</a> sofrer alguma alteração para que eu fique sempre atualizado.</td>
