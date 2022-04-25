@@ -85,25 +85,25 @@ Os requisitos identificados com o storytelling seguem a seguir:
 
 | Identificador | Descrição                                                                                                                              |
 | :-----------: | :------------------------------------------------------------------------------------------------------------------------------------- |
-|     ST01      | O app precisa mostrar os efeitos colaterais das medicações                                                                             |
-|     ST02      | O app deve ser otimizado para a experiência mobile                                                                                     |
-|     ST03      | O app deve usar uma base de dados confiáveis (SUS, Rename, Ministério da Saúde, Anvisa)                                                                                          |
-|     ST04      | O app deve disponibilizar busca                                                                                                        |
-|     ST05      | A ferramenta de busca é a principal e deve ser diponibilizada ao abrir o app                                                           |
-|     ST06      | O app deve fornecer a lista ordenada de remédios                                                                                       |
-|     ST07      | A busca de medicamentos deve retornar rapidamente os resultados                                                                        |
-|     ST08      | O app deve gerar arquivos para compartilhar com qualquer outra pessoa                                                                  |
-|     ST09      | O app deve utilizar as APIs disponíveis para compartilhamento através dos aplicativos de comunicação mais comuns (E-mail e mensagens)  |
-|     ST10      | O documento gerado pela aplicação deve ter um índice com links para as seções da bula                                                  |
-|     ST11      | A bula disponibilizada deve conter as indicações e contra-indicações do remédio                                                        |
-|     ST12      | A bula disponibilizada deve conter o modo de uso da medicação                                                                          |
-|     ST13      | A aplicação deve fornecer opções de acessibilidade para quem tem visão ruim                                                            |
-|     ST14      | Deve ser possível favoritar as medicações                                                                                              |
-|     ST15      | O app deve conseguir marcar (favoritar) medicações vinculadas ao usuário e não só ao dispositivo                                       |
-|     ST16      | A aplicação deve utilizar ícones comuns ao domínio mobile (mais utilizado)                                                             |
-|     ST17      | O app deve notificar os usuários acerca das atualizações da monografia dos medicamentos (inclusão, remoção e alteração)                |
-|     ST18      | O app deve possui um link de compartilhamento do próprio aplicativo, para que os usuários possam recomendá-lo e outros possam baixá-lo |
-|     ST19      | A aplicação deve disponibilizar o aumento (e redução) do tamanho da fonte das monografias                                              |
+|     <span id="story-01">ST01</span>      | O app precisa mostrar os efeitos colaterais das medicações                                                                             |
+|     <span id="story-02">ST02</span>      | O app deve ser otimizado para a experiência mobile                                                                                     |
+|     <span id="story-03">ST03</span>      | O app deve usar uma base de dados confiáveis (SUS, Rename, Ministério da Saúde, Anvisa)                                                |
+|     <span id="story-04">ST04</span>      | O app deve disponibilizar busca                                                                                                        |
+|     <span id="story-05">ST05</span>      | A ferramenta de busca é a principal e deve ser diponibilizada ao abrir o app                                                           |
+|     <span id="story-06">ST06</span>      | O app deve fornecer a lista ordenada de remédios                                                                                       |
+|     <span id="story-07">ST07</span>      | A busca de medicamentos deve retornar rapidamente os resultados                                                                        |
+|     <span id="story-08">ST08</span>      | O app deve gerar arquivos para compartilhar com qualquer outra pessoa                                                                  |
+|     <span id="story-09">ST09</span>      | O app deve utilizar as APIs disponíveis para compartilhamento através dos aplicativos de comunicação mais comuns (E-mail e mensagens)  |
+|     <span id="story-10">ST10</span>      | O documento gerado pela aplicação deve ter um índice com links para as seções da bula                                                  |
+|     <span id="story-11">ST11</span>      | A bula disponibilizada deve conter as indicações e contra-indicações do remédio                                                        |
+|     <span id="story-12">ST12</span>      | A bula disponibilizada deve conter o modo de uso da medicação                                                                          |
+|     <span id="story-13">ST13</span>      | A aplicação deve fornecer opções de acessibilidade para quem tem visão ruim                                                            |
+|     <span id="story-14">ST14</span>      | Deve ser possível favoritar as medicações                                                                                              |
+|     <span id="story-15">ST15</span>      | O app deve conseguir marcar (favoritar) medicações vinculadas ao usuário e não só ao dispositivo                                       |
+|     <span id="story-16">ST16</span>      | A aplicação deve utilizar ícones comuns ao domínio mobile (mais utilizado)                                                             |
+|     <span id="story-17">ST17</span>      | O app deve notificar os usuários acerca das atualizações da monografia dos medicamentos (inclusão, remoção e alteração)                |
+|     <span id="story-18">ST18</span>      | O app deve possui um link de compartilhamento do próprio aplicativo, para que os usuários possam recomendá-lo e outros possam baixá-lo |
+|     <span id="story-19">ST19</span>      | A aplicação deve disponibilizar o aumento (e redução) do tamanho da fonte das monografias                                              |
 
 ## Referências bibliográficas
 

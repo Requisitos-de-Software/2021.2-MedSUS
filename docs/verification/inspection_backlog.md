@@ -33,7 +33,7 @@ Para a detecção de defeitos, elaborou-se um checklist, utilizando o Google Pla
     <div class="row">
         <div class="col">
             <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/verification/backlog/checklist.png">
-            <figcaption>Figura 1: Versão 1.0 - Checklist</figcaption>
+            <figcaption>Figura 1: Versão 1.0 - Checklist. Para ver de forma ampliada, <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/verification/backlog/checklist.png">clique aqui</a></figcaption>
             <figcaption>Fonte: Autor</figcaption>
         </div>
     </div>
