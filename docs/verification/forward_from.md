@@ -78,4 +78,4 @@ retificado todos os requisitos declarados incompletos e/ou inconsistentes ou os 
 | Versão |   Data   |    Alteração    |  Responsável  |    Revisão    |
 | :----: | :------: | :-------------: | :-----------: | :-----------: |
 | 0.0.1  | 18/04/22 |     Criação     | Gabriel Costa |  João Durso   |
-| 0.0.1  | 22/04/22 | Revisão textual |  João Durso   | Gabriel Costa |
+| 0.0.2  | 22/04/22 | Revisão textual |  João Durso   | Gabriel Costa |
