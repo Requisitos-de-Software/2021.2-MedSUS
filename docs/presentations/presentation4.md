@@ -1,6 +1,6 @@
 # Apresentação 4
 
-## Vídeo
+## Video
 
 ![type:video](../videos/presentation4.mp4)
 
