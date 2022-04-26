@@ -3,7 +3,7 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-Rich Picture é uma ferramenta visual para analisar problemas e expressar ideias,<sup>[[1]](#referencias)</sup> por meio de diagramas com imagens e símbolos. Ela pode encorajar discussões e com isso ampliar e nivelar o conhecimento da equipe. Além disso, ela também ajuda a indentificar problemas e conflitos em potencial.
+Rich Picture é uma ferramenta visual para analisar problemas e expressar ideias<sup><a href="#referencias">[1]</a></sup> por meio de diagramas com imagens e símbolos. Ela pode encorajar discussões e com isso ampliar e nivelar o conhecimento da equipe. Além disso, ela também ajuda a indentificar problemas e conflitos em potencial.
 </p>
 
 ## 2. Metodologia
