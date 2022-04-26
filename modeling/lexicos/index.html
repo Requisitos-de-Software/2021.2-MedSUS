@@ -1,0 +1,2038 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+        <meta name="author" content="Grupo 05">
+      
+      
+        <link rel="canonical" href="https://Requisitos-de-Software.github.io/2021.2-MedSUS/modeling/lexicos/">
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.3.0, mkdocs-material-8.2.11">
+    
+    
+      
+        <title>Léxicos - MedSUS</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.8c5ef100.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.9647289d.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#2094f3">
+        
+      
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,700,700i%7Csans-serif:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Montserrat";--md-code-font:"sans-serif"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="blue" data-md-color-accent="light-blue">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#lexicos" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../.." title="MedSUS" class="md-header__button md-logo" aria-label="MedSUS" data-md-component="logo">
+      
+  <img src="../../assets/logo_medsus.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            MedSUS
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Léxicos
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Requisitos-de-Software/2021.2-MedSUS" title="Ir ao repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2021.2-MedSUS
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="MedSUS" class="md-nav__button md-logo" aria-label="MedSUS" data-md-component="logo">
+      
+  <img src="../../assets/logo_medsus.png" alt="logo">
+
+    </a>
+    MedSUS
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Requisitos-de-Software/2021.2-MedSUS" title="Ir ao repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2021.2-MedSUS
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Início
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2">
+          Planejamento
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Planejamento" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Planejamento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../about/methodology/" class="md-nav__link">
+        Metodologia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../about/tools/" class="md-nav__link">
+        Ferramentas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../about/planning/" class="md-nav__link">
+        Cronograma
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          Pré-Rastreabilidade
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Pré-Rastreabilidade" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Pré-Rastreabilidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pre_traceability/rich_picture/" class="md-nav__link">
+        Rich Picture
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pre_traceability/5w2h/" class="md-nav__link">
+        5W2H
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          Elicitação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Elicitação" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Elicitação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitation/brainstorm/" class="md-nav__link">
+        Brainstorm
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitation/personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitation/storytelling/" class="md-nav__link">
+        Storytelling
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitation/introspective/" class="md-nav__link">
+        Instrospecção
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5">
+          Priorização
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Priorização" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Priorização
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../priorization/moscow/" class="md-nav__link">
+        MoscoW
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../priorization/first_things_first/" class="md-nav__link">
+        First Things First
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6">
+          Modelagem
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Modelagem" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Modelagem
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Léxicos
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Léxicos
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-metodologia" class="md-nav__link">
+    2. Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-lexicos" class="md-nav__link">
+    3. Léxicos
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../usecase/" class="md-nav__link">
+        Casos de Uso
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../scenariosv2/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../supplementary_specification/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../product_backlog/" class="md-nav__link">
+        Backlog
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../userstory/" class="md-nav__link">
+        História de usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../nfr/" class="md-nav__link">
+        NFR
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" type="checkbox" id="__nav_7" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7">
+          Análise
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Análise" data-md-level="1">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Análise
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7_1" type="checkbox" id="__nav_7_1" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_1">
+          Verificação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Verificação" data-md-level="2">
+        <label class="md-nav__title" for="__nav_7_1">
+          <span class="md-nav__icon md-icon"></span>
+          Verificação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verification/verification/" class="md-nav__link">
+        Explicação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verification/inspection_scenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verification/inspection_nfr/" class="md-nav__link">
+        NFR
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verification/inspection_backlog/" class="md-nav__link">
+        Backlog
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verification/inspection_lexicon/" class="md-nav__link">
+        Léxico
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verification/inspection_richpicture/" class="md-nav__link">
+        Rich Picture
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verification/inspection_suplementary/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verification/inspection_usecase/" class="md-nav__link">
+        Casos de Uso
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verification/inspection_forwardfrom/" class="md-nav__link">
+        Forward from
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../validation/prototyping/" class="md-nav__link">
+        Validação
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8" type="checkbox" id="__nav_8" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8">
+          Pós Rastreabilidade
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Pós Rastreabilidade" data-md-level="1">
+        <label class="md-nav__title" for="__nav_8">
+          <span class="md-nav__icon md-icon"></span>
+          Pós Rastreabilidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../post_traceability/backward_from/" class="md-nav__link">
+        Backward from
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../post_traceability/forward_from/" class="md-nav__link">
+        Forward from
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_9" type="checkbox" id="__nav_9" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_9">
+          Apresentações
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Apresentações" data-md-level="1">
+        <label class="md-nav__title" for="__nav_9">
+          <span class="md-nav__icon md-icon"></span>
+          Apresentações
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../presentations/presentation1/" class="md-nav__link">
+        Apresentação 1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../presentations/presentation2/" class="md-nav__link">
+        Apresentação 2
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../presentations/presentation3/" class="md-nav__link">
+        Apresentação 3
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../presentations/presentation4/" class="md-nav__link">
+        Apresentação 4
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../presentations/presentation5/" class="md-nav__link">
+        Apresentação 5
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../presentations/presentation6/" class="md-nav__link">
+        Apresentação 6
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../presentations/finalpresentation/" class="md-nav__link">
+        Apresentação Final
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-metodologia" class="md-nav__link">
+    2. Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-lexicos" class="md-nav__link">
+    3. Léxicos
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+  <a href="https://github.com/Requisitos-de-Software/2021.2-MedSUS/edit/master/docs/modeling/lexicos.md" title="Editar esta página" class="md-content__button md-icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25Z"/></svg>
+  </a>
+
+
+
+<h1 id="lexicos">Léxicos</h1>
+<h2 id="1-introducao">1. Introdução</h2>
+<p class="paragraph">
+    O léxico é uma importante ferramenta para entender o vocabulário dentro do escopo do problema que será solucionado. Com ele, busca-se descrever as principais palavras pertencentes ao universo do usuário e ao uso do sistema, além da relação dessas palavras.   
+</p>
+<p class="paragraph">
+    Considerando que no processo de elicitação, modelagem e análise, como também em todo o desenvolvimento de um software, participam profissionais com diferentes funções e competências, termos técnicos ou de significado diverso do usual podem dar margem a diferentes interpretações para um mesmo termo ou expressão (CONSTRUÇÃO..., 2006, p. 2). Com o Léxico, consegue-se garantir uma melhor compreensão da pŕopria aplicação para os desenvolvedores e o apoio ao levantamento de requisitos.
+</p>
+<p class="paragraph">
+    Os léxicos poderão ser usados para uma rastreabilidade dos termos quando forem utilizados, através de referências por links internos e externos pelas páginas do nosso projeto.
+</p>
+
+<h2 id="2-metodologia">2. Metodologia</h2>
+<p class="paragraph">
+    Através da utilização do aplicativo e da consulta a fontes do <a href="#sus">SUS</a> e da Anvisa, levantamos significados dos vocábulos e o papel dele dentro do sistema. Os Léxicos podem ser objetos, verbos(ações) ou estados, para todos eles temos as noções e seus impactos no domínio. Podemos resumir suas descrições da seguinte maneira:
+</p>
+
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verbo</td>
+<td>Quem Realiza, Quando e Quais os procedimentos</td>
+<td>Ações decorrentes e novos estados</td>
+</tr>
+<tr>
+<td>Objeto</td>
+<td>Definição do objeto e objetos relacionados</td>
+<td>Ações aplicáveis ao objeto</td>
+</tr>
+<tr>
+<td>Estado</td>
+<td>O que significa e quais ações o geram</td>
+<td>Estados decorrentes</td>
+</tr>
+</tbody>
+</table>
+<h2 id="3-lexicos">3. Léxicos</h2>
+<h1 id="letra-a">Letra A</h1>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6 d-flex align-items-stretch">
+            <div id="adicionar-medicamento"class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Adicionar Medicamento</h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Verbo</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Adição de Medicamento, Adicionar Droga, Adição de Nova Entrada do RENAME</p>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Noções</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Adicionar novos medicamentos que foram agregados ao <a href="#rename">RENAME</a></li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Adição à <a href="#lista-medicamentos">lista de medicamentos</a></li>
+                        <li class="m-0 list-group-item">Gera <a href="#lista-medicamentos">notificação</a> aos usuários do sistema</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 d-flex align-items-stretch">
+            <div id="administracao" class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Administração</h5>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Ingestão, Utilização, Formas de uso</p>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text"> Noções </h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item ">As formas de uso de um <a href="#medicamento">medicamento</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Consta na <a href="#bula">bula</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-sm-6 d-flex align-items-stretch">
+            <div id="advertencia" class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Advertência</h5>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Cuidados, Perigos</p>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Noções</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">
+                            Cuidados que se deve ter ao manipular o <a href="#medicamento">medicamento</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Consta na <a href="#bula">bula</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<p><br></p>
+<h1 id="letra-b">Letra B</h1>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6 d-flex align-items-stretch">
+            <div id="barra-pesquisa" class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Barra de Pesquisa</h5>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Cuidados, Perigos</p>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Noções</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Local responsável por uma das formas de <a
+                                href="#filtro">filtro</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Realiza a <a href="#busca-medicamento">busca de medicamentos</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 d-flex align-items-stretch">
+            <div id="bula" class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Bula</h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Monografia, Características do Medicamento, Informações do Medicamento</p>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Noções</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">
+                            Documento legal sanitário que serve para obter informações e orientações sobre <a
+                                href="#medicamento">medicamentos</a> necessários
+                            para o uso seguro e <a href="#tratamento">tratamento</a> eficaz.
+                        </li>
+                        <li class="m-0 list-group-item">
+                            Pode ser de dois tipos: <a href="#bula-paciente">Bula para o Paciente</a> e
+                            <a href="#bula-profissional-saude">Bula para o Profissional da Saúde</a>.
+                        </li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">
+                            Contém informações sobre a <a href="#prescricao">prescrição</a>, <a
+                                href="#preparacao">preparação</a>,
+                            <a href="#administracao">administração</a> e <a href="#advertencia">advertência</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="pd-0 col-sm-6 d-flex align-items-stretch">
+            <div id="bula-paciente" class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Bula para o Paciente</h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Monografia para o Paciente, Características do Medicamento, Informações do Medicamento para o paciente</p>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Noções</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">
+                            <a href="#bula">Bula</a> com informações menos técnicas, para os <a
+                                href="#usuario-leigo">usuários leigos</a>
+                        </li>
+                        <li class="m-0 list-group-item">
+                            Disponível em separado da <a href="#bula-profissional-saude">Bula para o Profissional da
+                                Saúde</a>.
+                        </li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Contém Identificação do <a href="#medicamento">medicamento</a>,
+                            Informações ao <a href="#paciente">paciente</a> e Dizeres Legais</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 d-flex align-items-stretch">
+            <div id="bula-profissional-saude" class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Bula para o Profissional de Saúde
+                        </h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Monografia técnica, Características do Medicamento, Informações técnicas do Medicamento</p>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Noções</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Disponível em separado da <a href="#bula-paciente">Bula para o
+                                Paciente</a></li>
+                        <li class="m-0 list-group-item">Especificações técnicas para guiarem o <a href="#medico">profissional de saúde</li>
+                        <li class="m-0 list-group-item">Informações direcionadas sobre os efeitos dos <a href="#medicamentos">fármacos</a> e suas recomendações</li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Contém as informações técnicas e legais</li>,
+                        <li class="m-0 list-group-item">Guia para melhor receitar ao <a href="#paciente">paciente</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-sm-6 d-flex align-items-stretch">
+            <div id="busca-medicamento" class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Busca de medicamento</h5>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Verbo</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Pesquisa de Medicamento, Busca de Monografias, Pesquisa de Bulas</p>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Noções</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Realizada pelo <a href="#usuario-saude">
+                                usuário da área da saúde</a> ou pelo <a href="#usuario-leigo">usuário leigo</a>
+                        </li>
+                        <li class="m-0 list-group-item">Podem ser aplicados outros <a href="#filtro">filtros</a></li>
+                        <li class="m-0 list-group-item">Recuperação de <a href="#medicamentos">medicamento da <a href="#lista-medicamentos">lista de medicamentos</a>, caso conste</li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">
+                            <a href="#lista-medicamentos">lista de medicamentos</a> filtrada com 0 ou muitos resultados
+                        </li>
+                        <li class="m-0 list-group-item">
+                            pode-se acessar a <a href="#bula">bula</a> dos
+                            <a href="#medicamentos">medicamentos</a> <a href="#filtro">filtrados</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<p><br></p>
+<h1 id="letra-c">Letra C</h1>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6 d-flex align-items-stretch">
+            <div id="compartilhar" class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Compartilhar</h5>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Verbo</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Enviar bula</p>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Noções</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Realizado pelo usuário para envio de alguma <a
+                                href="#bula">bula</a>
+                            específica para qualquer outra pessoa
+                        </li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Geração de arquivo <a href="#pdf">PDF</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<p><br></p>
+<!--
+# Letra D
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">LÉXICO</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Noções</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">a</li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">a</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<br>
+-->
+
+<h1 id="letra-f">Letra F</h1>
+<div class="container">
+    <div class="row">
+        <div class="pd-0 col-sm-6">
+            <div id="filtro" class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Filtrar Medicamentos</h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Verbo</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Regras de Busca, Restrições de pesquisa</p>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Noções</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Restrição da <a href="#lista-medicamentos">lista de medicamentos</a></li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Configurável para melhor restrição</li>
+                        <li class="m-0 list-group-item">Possível recuperar somente <a href="#generico">genéricos</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<p><br></p>
+<h1 id="letra-l">Letra L</h1>
+<div class="container">
+    <div class="row">
+        <div class="pd-0 col-sm-6">
+            <div id="lista-medicamentos" class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Lista de Medicamentos</h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Grupo de medicações, Itens do Rename</p>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Noções</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Constantes na <a href="#rename">Relação Nacional de Medicamentos
+                                Essenciais (Rename)</a></li>
+                        <li class="m-0 list-group-item">Lista disponível na aplicação para <a href="#busca-medicamento">consulta</a> de <a href="#medicamentos">medicações</a></li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">É possível <a href="#filtrar">filtrar</a></li>
+                        <li class="m-0 list-group-item">É possível acessar <a href="#bula">bula</a> do <a href="#medicamento">medicamento</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<p><br></p>
+<h1 id="letra-m">Letra M</h1>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6 d-flex align-items-stretch">
+            <div id="medicamento" class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Medicamento</h5>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Droga, Medicação, Fármaco</p>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text"> Noções </h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item ">Produto farmacêutico, tecnicamente obtido ou elaborado, com
+                            finalidade profilática, curativa, paliativa ou para fins de <a
+                                href="#diagnostico">diagnóstico</a> </li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Receitado à um <a href="#paciente">paciente</a></li>
+                        <li class="m-0 list-group-item">Recuperável na aplicação, caso conste no <a href="#rename">RENAME</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 d-flex align-items-stretch">
+            <div id="medico" class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Médico</h5>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Doutor, Profissional de Saúde</p>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Noções</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Profissional da <a href="#usuario-saude">área da saúde</a> </li>
+                        <li class="m-0 list-group-item">Responsável por receitar <a href="#medicamento">medicamentos</a> </li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">
+                            Deve ser <a href="#notificar-usuario"></a> notificado de novas <a href="#adicionar-medicamento">adições de medicamentos</a>
+                            ou <a href="#modificar-bula">modificações na bula</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-sm-6 d-flex align-items-stretch">
+            <div id="medicamento" class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Medsus</h5>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Aplicação</p>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text"> Noções </h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item ">Aplicação que disponibiliza os <a href="#medicamento">medicamentos</a> constantes no <a href="#rename">Rename</a>, tanto para <a href="usuario-leigo">Usuários Leigos</a> quanto para <a href="usuario-saude">Usuários técnicos</a>, podendo favoritar e ser notificado de atualizações</li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">
+                            Ajudar o usuário na consulta de medicamentos, na lembrança e no compartilhamento dos mesmos. Possibilita o acesso às bulas desses remédios. 
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>    
+    <div class="row">
+        <div class="col-sm-6 d-flex align-items-stretch">
+            <div id="modificar-bula"class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Modificar bula</h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Verbo</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Atualizar bula, renovar bula</p>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Noções</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Atualização da bula pelos órgãos públicos responsáveis</li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Novas características</li>
+                        <li class="m-0 list-group-item">Gera <a href="#lista-medicamentos">notificação</a> aos usuários do sistema</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<p><br></p>
+<h1 id="letra-p">Letra P</h1>
+<div class="container">
+    <div id="paciente" class="row">
+        <div class="col-sm-6 d-flex align-items-stretch">
+            <div id="paciente"class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Paciente</h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Consultado, Enfermo</p>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Noções</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Interage com o <a href="#medico">médico</a></li>
+                        <li class="m-0 list-group-item">Possível <a href="#usuario-leigo">usuário leigo</a></li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Recebe <a href="#diagnostico"></a> diagnóstico</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 d-flex align-items-stretch">
+            <div id="pdf" class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">PDF</h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item"><em>Portable Document Format</em>(Formato de Documento Portável)</p>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Noções</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Formato de arquivo para representar documentos independente de plataforma</li>
+                        <li class="m-0 list-group-item">Contém <a href="#bula-paciente">bula para o paciente</a> ou <a href="#bula-profissional-saude">bula para o profissional de saúde</a> </li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">É possível <a href="#compartilhar"></a> compartilhar PDF</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<p><br></p>
+<h1 id="letra-r">Letra R</h1>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6 d-flex align-items-stretch">
+            <div id="rename" class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Rename</h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Relação Nacional de Medicamentos Essenciais</p>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text"> Noções </h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item ">
+                            Apresenta os <a href="#medicamento">medicamentos</a> oferecidos em todos os níveis de atenção e nas linhas de cuidado do 
+                            <a href="#sus">SUS</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Forma a <a href="#lista-medicamentos">lista de medicamentos</a> </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<p><br></p>
+<h1 id="letra-s">Letra S</h1>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6 d-flex align-items-stretch">
+            <div id="sus" class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">SUS</h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Sistema Único de Saúde, Sistema de saúde brasileiro</p>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text"> Noções </h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item ">Sistema Único de Saúde. Um dos maiores e mais complexos sistemas de saúde pública do mundo, garantindo acesso integral, universal e gratuito para toda a população</li>
+                        <li class="m-0 list-group-item ">Mantenedor do aplicativo</li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Alimenta o <a href="#rename">Rename</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<p><br></p>
+<h1 id="letra-t">Letra T</h1>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6 d-flex align-items-stretch">
+            <div id="tratamento" class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Tratamento</h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Estado</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text"> Noções </h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item ">
+                            Resultado da interação entre <a href="#paciente">paciente</a> e <a href="#medico">médico</a> quando há 
+                            <a href="#diagnostico">diagnóstico</a> de alguma doença tratável
+                        </li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Possível receita de <a href="#medicamento">medicamentos</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<p><br></p>
+<h1 id="letra-u">Letra U</h1>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6 d-flex align-items-stretch">
+            <div id="usuario-saude" class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Usuário da Saúde</h4>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Cidadão</p>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text"> Noções </h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Usuário com conhecimento técnico</li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Acessa <a href="#bula-profissional-saude">bula para profissionais de saúde</a> </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6  d-flex align-items-stretch">
+            <div id="usuario-leigo" class="card">
+                <div class="card-header p-1 bg-primary">
+                    <h4 class="card-title text-white text-center m-1 font-weight-bold">Usuário Leigo</h5>
+                    <h5 class="card-title text-white text-center m-1 font-weight-bold">Classificação: Objeto</h5>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Sinônimos</h5>
+                    <p class="list-group-item">Usuário não-especializado, Usuário não-técnico</p>
+                </div>
+                <div class="card-body p-2">
+                    <h5 class="card-text">Noções</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Usuário que não possui conhecimento técnico</li>
+                    </ul>
+                </div>
+                <div class="card-footer p-2">
+                    <h5 class="card-text">Impacto</h5>
+                    <ul class="m-0 list-group">
+                        <li class="m-0 list-group-item">Acessa <a href="#bula-paciente">bula para pacientes e leigos </a> </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<h2 id="referencias-bibliograficas">Referências bibliográficas</h2>
+<blockquote>
+<p>CONSTRUÇÃO do léxico de aplicações. Proceedings of the International Joint Conference IBERAMIA/SBIA/SBRN 2006 : 4th Workshop in Information and Human Language Technology, Ribeirão Preto, Brazil, 23 out. 2006. CD-ROM.</p>
+<p>SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: <a href="https://aprender3.unb.br/pluginfile.php/1668162/mod_resource/content/1/Aula%2010.pdf">Requisitos - Aula 10</a>. Acesso em: 04 de março de 2022.</p>
+<p>RENAME. [S. l.], 9 mar. 2021. Disponível em: https://www.gov.br/saude/pt-br/assuntos/assistencia-farmaceutica-no-sus/rename. Acesso em: 4 mar. 2022.</p>
+<p>SISTEMA Único de Saúde (SUS): estrutura, princípios e como funciona. [S. l.], 24 nov. 2020. Disponível em: https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/sus-estrutura-principios-e-como-funciona. Acesso em: 4 mar. 2022.</p>
+<p>ANVISA. Perguntas e respostas sobre bulas. [S. l.], 1 mar. 2022. Disponível em: http://antigo.anvisa.gov.br/perguntas-e-respostas-sobre-bulas. Acesso em: 5 mar. 2022.</p>
+<p>IDEC - INSTITUTO BRASILEIRO DE DEFESA DO CONSUMIDOR. O que é um medicamento?. [S. l.], 4 maio 2011. Disponível em: https://idec.org.br/consultas/dicas-e-direitos/o-que-e-um-medicamento. Acesso em: 4 mar. 2022.</p>
+</blockquote>
+<h2 id="historico-de-versoes">Histórico de versões</h2>
+<table>
+<thead>
+<tr>
+<th align="center">Versão</th>
+<th align="center">Data</th>
+<th align="center">Alteração</th>
+<th align="center">Responsável</th>
+<th align="center">Revisão</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">0.0.1</td>
+<td align="center">02/03/22</td>
+<td align="center">Criação</td>
+<td align="center">Adrian</td>
+<td align="center">Fernando</td>
+</tr>
+<tr>
+<td align="center">0.0.2</td>
+<td align="center">03/03/22</td>
+<td align="center">Adição de Léxicos</td>
+<td align="center">Adrian</td>
+<td align="center">Fernando</td>
+</tr>
+<tr>
+<td align="center">0.0.3</td>
+<td align="center">05/03/22</td>
+<td align="center">Finalização dos Léxicos</td>
+<td align="center">Adrian</td>
+<td align="center">Fernando</td>
+</tr>
+<tr>
+<td align="center">0.0.4</td>
+<td align="center">06/03/22</td>
+<td align="center">Introdução e metodologia</td>
+<td align="center">Adrian</td>
+<td align="center">Fernando</td>
+</tr>
+<tr>
+<td align="center">0.0.5</td>
+<td align="center">06/03/22</td>
+<td align="center">Referências</td>
+<td align="center">Adrian</td>
+<td align="center">Fernando</td>
+</tr>
+<tr>
+<td align="center">0.0.6</td>
+<td align="center">09/03/22</td>
+<td align="center">Correção das tags de fechamento</td>
+<td align="center">Thalisson</td>
+<td align="center">João Durso</td>
+</tr>
+<tr>
+<td align="center">0.0.7</td>
+<td align="center">01/04/22</td>
+<td align="center">Correções da análise e pré-rastreabilidade</td>
+<td align="center">Adrian</td>
+<td align="center">João Durso</td>
+</tr>
+<tr>
+<td align="center">0.0.8</td>
+<td align="center">18/04/22</td>
+<td align="center">Correção textual</td>
+<td align="center">João Durso</td>
+<td align="center">Adrian</td>
+</tr>
+</tbody>
+</table>
+
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Rodapé">
+      
+        
+        <a href="../../priorization/first_things_first/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: First Things First" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Anterior
+              </span>
+              First Things First
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../usecase/" class="md-footer__link md-footer__link--next" aria-label="Próximo: Casos de Uso" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Próximo
+              </span>
+              Casos de Uso
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.2a1c317c.min.js", "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.more.one": "Mais 1 nesta p\u00e1gina", "search.result.more.other": "Mais # nesta p\u00e1gina", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version.title": "Selecione a vers\u00e3o"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.748e2769.min.js"></script>
+      
+    
+  </body>
+</html>
