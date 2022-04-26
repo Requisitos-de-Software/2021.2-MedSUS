@@ -3,7 +3,7 @@
 ## 1. Introdução
 
 <p>
-Os Requisitos não Funcionais são um aspecto muito sensível do planejamento e desenvolvimento de Software. Muitas vezes não são triviais de serem percebidos e levantados, pois costumam ter aspecto subjetivo e abstrato, não sendo percebidos da mesma maneira por todos os envolvidos. Eles também tem relações entre si  , conflituosas ou harmônicas. Por todas essas dificuldades, geralmente, os requisitos não funcionais são os piores elicitados, com um baixo nível de detalhamento.
+Os Requisitos não Funcionais são um aspecto muito sensível do planejamento e desenvolvimento de Software. Muitas vezes não são triviais de serem percebidos e levantados, pois costumam ter aspecto subjetivo e abstrato, não sendo percebidos da mesma maneira por todos os envolvidos. Eles também tem relações entre si, conflituosas ou harmônicas. Por todas essas dificuldades, geralmente, os requisitos não funcionais são os piores elicitados, com um baixo nível de detalhamento.
 </p>
 
 <p>
