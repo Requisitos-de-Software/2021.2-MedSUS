@@ -52,7 +52,6 @@ A princípio, eu quero um aplicativo bonito, e que entregue todas as suas princi
 
 | Número | Requisitos |
 | :----: | :--------- |
-
 | <span id="intro-01">IR01</span> | Acessar uma forma resumida da bula: efeitos colaterais, as indicações e contra indicações, com menos termos técnicos. |
 | <span id="intro-02">IR02</span> | Filtrar medicamentos por doenças. |
 | <span id="intro-03">IR03</span> | Acessar partes específicas da bula através de um índice. |
