@@ -862,4 +862,4 @@ A partir do <a href="https://requisitos-de-software.github.io/2021.2-MedSUS/elic
 |  0.0.5  | 05/03/22 |                   Cenários (009 a 018)                   |  João Durso   | Gabriel Costa |
 |  0.0.6  | 19/04/22 |                     Correção textual                     |  João Durso   | Gabriel Costa |
 |  1.0.0  | 22/04/22 |                 Correções da verificação                 |  João Durso   | Gabriel Costa |
-|  1.0.0  | 22/04/22 |                      Novo template                       |  João Durso   | Gabriel Costa |
+|  2.0.0  | 22/04/22 |                      Novo template                       |  João Durso   | Gabriel Costa |
