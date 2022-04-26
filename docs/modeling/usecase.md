@@ -18,7 +18,7 @@ Além disso, durante a fase de projeto, são usados para descrever o sistema par
 
 <p style="text-indent: 20px; text-align: justify">
 Para a criação desse artefato escolheu-se a abordagem tradicional, ou seja, representar os casos de uso através um diagrama UML.
-A ferramenta escolhida para criar essa representação foi o lucidchart. Além disso, teve-se como referência o resultado da elicitação e os 
+A ferramenta escolhida para criar essa representação foi o <a href="https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml">Lucidchart</a>. Além disso, teve-se como referência o resultado da elicitação e os 
 cenários para a criação desse artefato.  
 </p>
 
