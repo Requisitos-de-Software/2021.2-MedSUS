@@ -33,7 +33,7 @@ Para a detecção de defeitos, elaborou-se um checklist, utilizando o Google Pla
 
 <html> 
     <div class="center-card">
-        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR5Xj250gSt_58p5wTDpQx8clUF0H0RCIbmMRqip6kawcv6oTLZcsU_10BAIncQYgXNUjCGOpSHzzVP/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="650" height="670" frameborder="0"></iframe>                 
+        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT9C69lh7scM-uGtMhpOFdcclsbGDG4kewG-w5i1uD4NQ-Ivc98DqaVCvnZiP3WBmSz8OppLKNkcj6l/pubhtml?gid=1412622597&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="650"></iframe>
         <figcaption>Tabela 1: Versão 1.0 - Checklist</figcaption>
         <figcaption>Fonte: Autor</figcaption>
     </div>
