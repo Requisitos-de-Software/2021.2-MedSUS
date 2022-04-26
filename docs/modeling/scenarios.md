@@ -604,11 +604,11 @@ O usuário desinstala a aplicação pela dificuldade no conhecimento das funcion
 
 **Objetivo**
 
-Ao final da monografia dos medicamentos, há a referência bibliográfica, para que os usuários saibam de onde vem a informação disponível na aplicação.
+Ao final de cada monografia dos medicamentos, deve haver uma referência bibliográfica, para que os usuários saibam de onde vem a informação disponível ali na aplicação.
 
 **Contexto**
 
-Local: Na tela de qualquer aplicativo.
+Local: Na tela de qualquer medicamento.
 Tempo: A qualquer momento.
 Pré-condição: Possuir um _link_ para referenciamento.
 
@@ -627,48 +627,13 @@ Ao final do texto, desenvolvedor referencia a informação.
 
 **Restrições**
 
-Informações precisam ser atualizadas
+Informações precisam estar atualizadas.
 
 **Exceções**
 
-O _link_ está quebrado.
+O _link_ está quebrado, por alterações do autor da informação referenciada.
 
 ### Cenário 017
-
-**-> Deixar o aplicativo disponível para iOS e Android <-**
-
-**Objetivo**
-
-Desenvolver uma aplicação que esteja disponível tanto para usuários iOS, quanto para usuários Android.
-
-**Contexto**
-
-Local: Aplicativo.
-Tempo: No desenvolvimento da aplicação.
-Pré-condição: Não se aplica.
-
-**Atores**
-
-Desenvolvedores.
-
-**Recursos**
-
-Conhecimento em Angular (Ionic 2).
-
-**Episódios**
-
-Desenvolvedor utiliza Ionic 2 (Framework) para desenvolver o aplicativo.
-Desenvolvedor disponibiliza a aplicação para iOS e para Android.
-
-**Restrições**
-
-O desenvolvedor utiliza erroneamente o framework Ionic 2.
-
-**Exceções**
-
-O desenvolvedor desconhece o framework Ionic 2.
-
-### Cenário 018
 
 **-> Alterar o tamanho da fonte do texto <-**
 
@@ -720,3 +685,4 @@ O usuário não possui dificuldades visuais.
 | 0.0.4.2 | 05/03/22 |         Correção de texto e criação do template          | Gabriel Costa |  João Durso   |
 |  0.0.5  | 05/03/22 |                   Cenários (009 a 018)                   |  João Durso   | Gabriel Costa |
 |  0.0.6  | 19/04/22 |                     Correção textual                     |  João Durso   | Gabriel Costa |
+|  1.0.0  | 22/04/22 |                 Correções da verificação                 |  João Durso   | Gabriel Costa |

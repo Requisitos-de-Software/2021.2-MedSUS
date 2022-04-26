@@ -45,7 +45,7 @@ nav:
   - Modelagem:
       - Léxicos: modeling/lexicos.md
       - Casos de Uso: modeling/usecase.md
-      - Cenários: modeling/scenarios.md
+      - Cenários: modeling/scenariosv2.md
       - Especificação Suplementar: modeling/supplementary_specification.md
       - Backlog: modeling/product_backlog.md
       - História de usuário: modeling/userstory.md
