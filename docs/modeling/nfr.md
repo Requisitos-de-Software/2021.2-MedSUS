@@ -17,7 +17,7 @@ O Framework costuma utilizar a representação via grafo SIG, um diagrama com s�
 ## 2. Metodologia
 
 <p>
-A partir dos requisitos já levantados no <a href="../priorization/moscow">Moscow</a>, através das técnicas de <a href="../elicitacion/"> elicitação </a>, de boas práticas e da experiência dos usuários e dos envolvidos no projeto, conseguimos analisar esses requisitos não funcionais e atribuir correlações e interdependências através do grafo.
+A partir dos requisitos já levantados no <a href="../priorization/moscow">Moscow</a>, através das técnicas de <a href="../elicitacion/"> elicitação</a>, de boas práticas e da experiência dos usuários e dos envolvidos no projeto, conseguimos analisar esses requisitos não funcionais e atribuir correlações e interdependências através do grafo.
 </p>
 
 ### 2.1. Funcionamento do Framework
