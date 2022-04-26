@@ -67,7 +67,7 @@ O objetivo do processo de acompanhamento é garantir que o(s) autor(es) do forwa
 retificado todos os requisitos declarados incompletos e/ou inconsistentes ou os defeitos detectados.
 </p>
 
-- [ ] - Forward-from Corrigido
+- [X] - Forward-from Corrigido
 
 ## Referências bibliográficas
 

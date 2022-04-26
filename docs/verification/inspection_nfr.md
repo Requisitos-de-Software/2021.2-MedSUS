@@ -59,7 +59,7 @@ Os autores envolvidos no NFR Framework são responsáveis pela remoção de todo
 A fim de garantir que as modificações necessárias no NFR Framework foram feitas em conformidade, o autor e o inspetor são responsáveis por isso. O objetivo do processo de acompanhamento é garantir que o(s) autor(es) do NFR Framework tenha(m) retificado todos os requisitos declarados incompletos e/ou inconsistentes ou os defeitos detectados.
 </p>
 
-- [ ] - NFR Framework Corrigido
+- [X] - NFR Framework Corrigido
 
 ## Referências bibliográficas
 

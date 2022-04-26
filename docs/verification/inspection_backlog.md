@@ -71,7 +71,7 @@ Os autores envolvidos no Backlog são responsáveis pela remoção de todos os p
 A fim de garantir que as modificações necessárias no Backlog foram feitas em conformidade, o autor e o inspetor são responsáveis por isso. O objetivo do processo de acompanhamento é garantir que o(s) autor(es) do Backlog tenha(m) retificado todos os requisitos declarados incompletos e/ou inconsistentes ou os defeitos detectados.
 </p>
 
-- [ ] - Backlog Corrigido
+- [X] - Backlog Corrigido
 
 ## Referências bibliográficas
 

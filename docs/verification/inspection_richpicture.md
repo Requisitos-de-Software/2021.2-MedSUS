@@ -63,7 +63,7 @@ Os autores envolvidos no Rich Picture são responsáveis pela remoção de todos
 A fim de garantir que as modificações necessárias no Rich Picture foram feitas em conformidade, o autor e o inspetor são responsáveis por isso. O objetivo do processo de acompanhamento é garantir que o(s) autor(es) do Rich Picture tenha(m) retificado todos os requisitos declarados incompletos e/ou inconsistentes ou os defeitos detectados.
 </p>
 
-- [ ] - Rich Picture Corrigido
+- [X] - Rich Picture Corrigido
 
 ## Referências bibliográficas
 

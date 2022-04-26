@@ -90,10 +90,10 @@ Diagramas de casos de uso atualizados após a avaliação:
 
 </p>
 
-- [ ] - UC (Geral)
-- [ ] - UC01
-- [ ] - UC02
-- [ ] - UC03
+- [X] - UC (Geral)
+- [X] - UC01
+- [X] - UC02
+- [X] - UC03
 
 ## Referências bibliográficas
 

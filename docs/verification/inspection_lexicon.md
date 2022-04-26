@@ -74,7 +74,7 @@ Os autores envolvidos nos Léxicos são responsáveis pela remoção de todos os
 A fim de garantir que as modificações necessárias nos Léxicos foram feitas em conformidade, o autor e o inspetor são responsáveis por isso. O objetivo do processo de acompanhamento é garantir que o(s) autor(es) dos Léxicos tenha(m) retificado todos os requisitos declarados incompletos e/ou inconsistentes ou os defeitos detectados.
 </p>
 
-- [ ] Léxicos Corrigidos
+- [X] Léxicos Corrigidos
 
 ## Referências bibliográficas
 

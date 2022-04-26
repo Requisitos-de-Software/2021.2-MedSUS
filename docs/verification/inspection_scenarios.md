@@ -61,7 +61,7 @@ Os autores envolvidos nos Cenários são responsáveis pela remoção de todos o
 A fim de garantir que as modificações necessárias nos Cenários foram feitas em conformidade, o autor e o inspetor são responsáveis por isso. O objetivo do processo de acompanhamento é garantir que o(s) autor(es) dos Cenários tenha(m) retificado todos os requisitos declarados incompletos e/ou inconsistentes ou os defeitos detectados.
 </p>
 
-- [ ] - Cenários Corrigido
+- [X] - Cenários Corrigido
 
 ## Referências bibliográficas
 
